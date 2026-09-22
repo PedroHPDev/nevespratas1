@@ -102,7 +102,7 @@
     const tag = element(
       "span",
       "tag",
-      product.length ? `${product.length} cm` : "PULSEIRA"
+      product.length ? `${product.length} cm` : product.category.toUpperCase()
     );
 
     const expand = element("span", "expand", "+");
@@ -114,9 +114,7 @@
       showDetails(product, photoButton);
     });
 
-    const categoryLabel = product.category === "corrente"
-      ? "CORRENTE"
-      : "PULSEIRA";
+    const categoryLabel = product.category.toUpperCase();
 
     const meta = element(
       "p",
@@ -193,7 +191,11 @@
 
     detailSize.textContent = product.length
       ? `Comprimento: ${product.length} cm`
-      : "Consulte as medidas disponíveis pelo WhatsApp.";
+      : product.category === "pingente"
+        ? "Pingente vendido sem corrente. Confirme as medidas pelo WhatsApp."
+        : product.category === "brinco"
+          ? "Zircônia redonda. Confirme a quantidade e a disponibilidade pelo WhatsApp."
+          : "Consulte as medidas disponíveis pelo WhatsApp.";
 
     detailPrice.textContent = money(product.priceCents);
     detailBuy.href = productLink(product);
@@ -261,7 +263,7 @@
       });
 
       lengthSelect.value = "todos";
-      lengthSelect.disabled = selectedCategory === "pulseira";
+      lengthSelect.disabled = !["todos", "corrente"].includes(selectedCategory);
 
       render();
     });

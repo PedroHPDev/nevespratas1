@@ -767,3 +767,8 @@ body.modal-open {
     transform: none;
   }
 }
+
+/* Fundo da logo integrado ao catálogo e filtros adaptáveis. */
+.brand img { mix-blend-mode: lighten; }
+.tabs { flex-wrap: wrap; }
+.filters { flex-wrap: wrap; }
