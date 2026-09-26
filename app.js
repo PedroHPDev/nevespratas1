@@ -7,7 +7,7 @@
  try{const saved=JSON.parse(localStorage.getItem(key)||'{}');for(const [id,q] of Object.entries(saved||{}))if(byId.has(id)&&Number.isInteger(q)&&q>0)cart[id]=Math.min(q,99);}catch{}
  const node=(tag,cls,text)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(text!==undefined)e.textContent=text;return e;};
  const name=p=>p.name+(p.length?' — '+p.length+' cm':'');
- const wa=text=>'https://wa.me/5511983842947?text='+encodeURIComponent(text);
+ const wa=text=>'https://wa.me/5511979833774?text='+encodeURIComponent(text);
  const entries=()=>Object.entries(cart).map(([id,q])=>({p:byId.get(id),q}));
  const total=()=>entries().reduce((s,{p,q})=>s+p.priceCents*q,0);
  const qty=()=>Object.values(cart).reduce((a,b)=>a+b,0);
