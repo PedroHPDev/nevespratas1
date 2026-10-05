@@ -1,6 +1,5 @@
 "use strict";
-// Brincos e pingentes: preço original Klaf + 60%, arredondado para cima ao real inteiro.
-// Correntes e pulseiras preservadas. Atualização: 22/09/2026.
+// Preços e dados preservados. Fotos com fundo preto: 04/10/2026.
 const PRODUCTS = [
   {
     "id": "NP-001",
@@ -8,7 +7,7 @@ const PRODUCTS = [
     "length": 40,
     "priceCents": 8300,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/07/IMG_20250709_181536-CORR-ESPE-PIPOCA-15MM-40CM-22G-scaled.jpg"
+    "image": "NP-001.webp"
   },
   {
     "id": "NP-002",
@@ -16,7 +15,7 @@ const PRODUCTS = [
     "length": 40,
     "priceCents": 8300,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250205_173152-elo-portg-50cm-2mm-3g-scaled.jpg"
+    "image": "NP-021.webp"
   },
   {
     "id": "NP-003",
@@ -24,7 +23,7 @@ const PRODUCTS = [
     "length": 40,
     "priceCents": 3500,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/09/IMG_20240930_161012-scaled.jpg"
+    "image": "NP-019.webp"
   },
   {
     "id": "NP-004",
@@ -32,7 +31,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 9600,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/10/IMG_20251001_174851-corre-50cm-grume-flat-2mm-31g-masc-scaled.jpg"
+    "image": "NP-004.webp"
   },
   {
     "id": "NP-005",
@@ -40,7 +39,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 23300,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/10/IMG_20251002_174310-corre-45cm-pipoca-envelhecida-3mm-62g-esp-scaled.jpg"
+    "image": "NP-005.webp"
   },
   {
     "id": "NP-006",
@@ -48,7 +47,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 6900,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/10/IMG_20251002_174157-corre-45cm-nuvem-diamantada-3mm-2g-esp-scaled.jpg"
+    "image": "NP-006.webp"
   },
   {
     "id": "NP-007",
@@ -56,7 +55,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 6600,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/10/IMG_20251001_175822-corre-45cm-3x1-15mm-2g-masc-scaled.jpg"
+    "image": "NP-007.webp"
   },
   {
     "id": "NP-008",
@@ -64,7 +63,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 8900,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/10/IMG_20251001_175413-corre-45cm-cartie-2x55mm-27g-masc-scaled.jpg"
+    "image": "NP-008.webp"
   },
   {
     "id": "NP-009",
@@ -72,7 +71,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 7900,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/10/IMG_20251001_175119-corre-45cm-piastrine-2mm-24g-masc-scaled.jpg"
+    "image": "NP-009.webp"
   },
   {
     "id": "NP-010",
@@ -80,7 +79,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 6400,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/07/IMG_20250709_181816-CORR-ESPE-ELO-PORT-12MM-45CM-17G-scaled.jpg"
+    "image": "NP-010.webp"
   },
   {
     "id": "NP-011",
@@ -88,7 +87,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 10700,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/07/IMG_20250709_180425-CORR-FEM-MINHOCA-1MM-45CM-31G-scaled.jpg"
+    "image": "NP-011.webp"
   },
   {
     "id": "NP-012",
@@ -96,7 +95,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 15400,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250205_173810-cordao-ita-45cm-41g-scaled.jpg"
+    "image": "NP-012.webp"
   },
   {
     "id": "NP-013",
@@ -104,7 +103,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 11300,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250205_173656-piastrine-45cm-2mm-3g-scaled.jpg"
+    "image": "NP-013.webp"
   },
   {
     "id": "NP-014",
@@ -112,7 +111,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 9400,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250205_173352-rabo-de-rato-ita-45cm-1mm-25g-scaled.jpg"
+    "image": "NP-014.webp"
   },
   {
     "id": "NP-015",
@@ -120,7 +119,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 8600,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/08/elo-portugues-45cm-2mm-25g-1-scaled.jpg"
+    "image": "NP-015.webp"
   },
   {
     "id": "NP-016",
@@ -128,7 +127,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 4500,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/09/IMG_20240930_161012-scaled.jpg"
+    "image": "NP-019.webp"
   },
   {
     "id": "NP-017",
@@ -136,7 +135,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 6200,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/08/v15-45cm-18g-1-scaled.jpg"
+    "image": "NP-017.webp"
   },
   {
     "id": "NP-018",
@@ -144,7 +143,7 @@ const PRODUCTS = [
     "length": 50,
     "priceCents": 13400,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/06/IMG_20260605_164925-veneziana-18x38-50cm-39g.jpg"
+    "image": "NP-018.webp"
   },
   {
     "id": "NP-019",
@@ -152,7 +151,7 @@ const PRODUCTS = [
     "length": 50,
     "priceCents": 5200,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/09/IMG_20240930_161012-scaled.jpg"
+    "image": "NP-019.webp"
   },
   {
     "id": "NP-020",
@@ -160,7 +159,7 @@ const PRODUCTS = [
     "length": 50,
     "priceCents": 9700,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/03/IMG_20250318_154656-28g-f05-2mm-50cm-scaled.jpg"
+    "image": "NP-020.webp"
   },
   {
     "id": "NP-021",
@@ -168,7 +167,7 @@ const PRODUCTS = [
     "length": 50,
     "priceCents": 9000,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250205_173152-elo-portg-50cm-2mm-3g-scaled.jpg"
+    "image": "NP-021.webp"
   },
   {
     "id": "NP-022",
@@ -176,7 +175,7 @@ const PRODUCTS = [
     "length": 50,
     "priceCents": 18000,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250205_173058-cordao-ita-50cm-15mm-48g-scaled.jpg"
+    "image": "NP-022.webp"
   },
   {
     "id": "NP-023",
@@ -184,7 +183,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 5900,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/v2/ac9056fc-a9d7-50df-82bd-80f2d7be7716/produtos/0c096ebf-f477-42af-bef9-e9a896e6b23d/800.webp"
+    "image": "NP-023.webp"
   },
   {
     "id": "NP-024",
@@ -192,7 +191,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 8900,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/06/IMG_20260605_163629-elo-portugues-f05-2mm-60cm-27g-mascu.jpg"
+    "image": "NP-024.webp"
   },
   {
     "id": "NP-025",
@@ -200,7 +199,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 14500,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/04/IMG_20260408_115946.jpg"
+    "image": "NP-025.webp"
   },
   {
     "id": "NP-026",
@@ -208,7 +207,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 21700,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/04/IMG_20260408_115748.jpg"
+    "image": "NP-026.webp"
   },
   {
     "id": "NP-027",
@@ -216,7 +215,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 21800,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/10/IMG_20251002_174603-corre-60cm-cordao-bahiano-ita-2mm-58g-esp-scaled.jpg"
+    "image": "NP-027.webp"
   },
   {
     "id": "NP-028",
@@ -224,7 +223,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 30400,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/10/IMG_20251002_174449-corre-60cm-ita-minhoca-2mm-81g-esp-scaled.jpg"
+    "image": "NP-028.webp"
   },
   {
     "id": "NP-029",
@@ -232,7 +231,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 34500,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/10/IMG_20251001_174530-corre-60cm-grume-flat-4mm-105g-masc-scaled.jpg"
+    "image": "NP-029.webp"
   },
   {
     "id": "NP-030",
@@ -240,7 +239,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 9700,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/03/IMG_20250318_154508-3g-f05-cartie-2x4mm-60cm-scaled.jpg"
+    "image": "NP-030.webp"
   },
   {
     "id": "NP-031",
@@ -248,7 +247,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 13800,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250205_172846-v19-60cm-4g-scaled.jpg"
+    "image": "NP-041.webp"
   },
   {
     "id": "NP-032",
@@ -256,7 +255,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 28000,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250205_172745-grume-dupla-60cm-3mm-88g-scaled.jpg"
+    "image": "NP-032.webp"
   },
   {
     "id": "NP-033",
@@ -264,7 +263,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 19100,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/08/70cm-veneziana-A.-2mmx5mm-66g-1-scaled.jpg"
+    "image": "NP-050.webp"
   },
   {
     "id": "NP-034",
@@ -272,7 +271,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 8300,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/09/IMG_20240923_121440-scaled.jpg"
+    "image": "NP-034.webp"
   },
   {
     "id": "NP-035",
@@ -280,7 +279,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 19800,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/09/IMG_20240923_121108-66g-60cm-scaled.jpg"
+    "image": "NP-035.webp"
   },
   {
     "id": "NP-036",
@@ -288,7 +287,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 34200,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/06/IMG_20260605_164744-v30-70cm-10g.jpg"
+    "image": "NP-036.webp"
   },
   {
     "id": "NP-037",
@@ -296,7 +295,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 24000,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/06/IMG_20260605_163755-cartie-70cm-2x3mm-73g.jpg"
+    "image": "NP-037.webp"
   },
   {
     "id": "NP-038",
@@ -304,7 +303,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 10900,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/06/IMG_20260605_163908-Cartie-elo-oval-f05-2x4mm-70cm-33g-masc.jpg"
+    "image": "NP-038.webp"
   },
   {
     "id": "NP-039",
@@ -312,7 +311,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 53600,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/05/70CM-CARTIER-35MM-158G-A-scaled.jpg"
+    "image": "NP-052.webp"
   },
   {
     "id": "NP-040",
@@ -320,7 +319,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 19800,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/10/IMG_20251001_173921-corre-70cm-elo-cadeado-2mm-6g-masc-scaled.jpg"
+    "image": "NP-040.webp"
   },
   {
     "id": "NP-041",
@@ -328,7 +327,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 11500,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250205_172846-v19-60cm-4g-scaled.jpg"
+    "image": "NP-041.webp"
   },
   {
     "id": "NP-042",
@@ -336,7 +335,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 19800,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250205_172607-3x1-70cm-3mm-62g-scaled.jpg"
+    "image": "NP-042.webp"
   },
   {
     "id": "NP-043",
@@ -344,7 +343,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 97000,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250205_172518-grume-70cm-65mm-295g-scaled.jpg"
+    "image": "NP-043.webp"
   },
   {
     "id": "NP-044",
@@ -352,7 +351,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 34500,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250205_172350-grume-dupla-70cm-4mm-105g-scaled.jpg"
+    "image": "NP-044.webp"
   },
   {
     "id": "NP-045",
@@ -360,7 +359,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 10900,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250205_172210-grume-70cm-15mm-33g-scaled.jpg"
+    "image": "NP-045.webp"
   },
   {
     "id": "NP-046",
@@ -368,7 +367,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 118600,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/10/IMG_20241002_135816-36.1g-7mm-70cm-scaled.jpg"
+    "image": "NP-046.webp"
   },
   {
     "id": "NP-047",
@@ -376,7 +375,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 16500,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/08/70C-3X1-2MM-61G-1-scaled.jpg"
+    "image": "NP-047.webp"
   },
   {
     "id": "NP-048",
@@ -384,7 +383,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 28000,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/08/70cm-grume-3mm-10g-1-scaled.jpg"
+    "image": "NP-048.webp"
   },
   {
     "id": "NP-049",
@@ -392,7 +391,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 36200,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/08/70cm-grume-4mm-125g-1-scaled.jpg"
+    "image": "NP-049.webp"
   },
   {
     "id": "NP-050",
@@ -400,7 +399,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 21400,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/08/70cm-veneziana-A.-2mmx5mm-66g-1-scaled.jpg"
+    "image": "NP-050.webp"
   },
   {
     "id": "NP-051",
@@ -408,7 +407,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 12200,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/05/70CM-PIASTRINE-F-2MM-46G-A-scaled.jpg"
+    "image": "NP-051.webp"
   },
   {
     "id": "NP-052",
@@ -416,7 +415,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 51000,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/05/70CM-CARTIER-35MM-158G-A-scaled.jpg"
+    "image": "NP-052.webp"
   },
   {
     "id": "NP-053",
@@ -424,7 +423,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 52900,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/05/70CM-3X1A-5MM-125G-A-scaled.jpg"
+    "image": "NP-053.webp"
   },
   {
     "id": "NP-054",
@@ -432,7 +431,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 36200,
     "category": "corrente",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/05/70CM-3X1-4MM-135G-A-scaled.jpg"
+    "image": "NP-054.webp"
   },
   {
     "id": "NP-055",
@@ -440,7 +439,7 @@ const PRODUCTS = [
     "length": 0,
     "priceCents": 28000,
     "category": "pulseira",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/06/IMG_20260605_162917-puls-grume-dupla-5mm-85g-masc.jpg"
+    "image": "NP-055.webp"
   },
   {
     "id": "NP-056",
@@ -448,7 +447,7 @@ const PRODUCTS = [
     "length": 0,
     "priceCents": 16800,
     "category": "pulseira",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/06/IMG_20260605_163107-pulseira-cartie-3x5mm-51g-masc.jpg"
+    "image": "NP-056.webp"
   },
   {
     "id": "NP-057",
@@ -456,7 +455,7 @@ const PRODUCTS = [
     "length": 0,
     "priceCents": 7900,
     "category": "pulseira",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/06/IMG_20260605_162747-puls-cartie-2x3mm-24g-mascu.jpg"
+    "image": "NP-057.webp"
   },
   {
     "id": "NP-058",
@@ -464,7 +463,7 @@ const PRODUCTS = [
     "length": 0,
     "priceCents": 5800,
     "category": "pulseira",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/10/IMG_20251007_172519-pul-mascul-veneziana-2x7mm-3g-masc-scaled.jpg"
+    "image": "NP-058.webp"
   },
   {
     "id": "NP-059",
@@ -472,7 +471,7 @@ const PRODUCTS = [
     "length": 0,
     "priceCents": 91500,
     "category": "pulseira",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/10/IMG_20251007_162229-bracelete-bali-masculino-244g-masc-scaled.jpg"
+    "image": "NP-059.webp"
   },
   {
     "id": "NP-060",
@@ -480,7 +479,7 @@ const PRODUCTS = [
     "length": 0,
     "priceCents": 4600,
     "category": "pulseira",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250206_161015-pul-piastrine-2mm-13g-scaled.jpg"
+    "image": "NP-060.webp"
   },
   {
     "id": "NP-061",
@@ -488,7 +487,7 @@ const PRODUCTS = [
     "length": 0,
     "priceCents": 9600,
     "category": "pulseira",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250206_160757-pul-grume-dupla-3mm-32g-scaled.jpg"
+    "image": "NP-061.webp"
   },
   {
     "id": "NP-062",
@@ -496,7 +495,7 @@ const PRODUCTS = [
     "length": 0,
     "priceCents": 36500,
     "category": "pulseira",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/10/IMG_20241018_152908-111g-chapa-7mm-scaled.jpg"
+    "image": "NP-062.webp"
   },
   {
     "id": "NP-063",
@@ -504,7 +503,7 @@ const PRODUCTS = [
     "length": 0,
     "priceCents": 25300,
     "category": "pulseira",
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/10/IMG_20241018_152720-123g-chapa-7mm-scaled.jpg"
+    "image": "NP-063.webp"
   },
   {
     "id": "NP-064",
@@ -513,7 +512,7 @@ const PRODUCTS = [
     "category": "brinco",
     "originalPriceCents": 477,
     "priceCents": 800,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/12/IMG_20251125_084030-scaled.jpg"
+    "image": "NP-064.webp"
   },
   {
     "id": "NP-065",
@@ -522,7 +521,7 @@ const PRODUCTS = [
     "category": "brinco",
     "originalPriceCents": 600,
     "priceCents": 1000,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/12/IMG_20251125_083831-scaled.jpg"
+    "image": "NP-065.webp"
   },
   {
     "id": "NP-066",
@@ -531,7 +530,7 @@ const PRODUCTS = [
     "category": "brinco",
     "originalPriceCents": 665,
     "priceCents": 1100,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/12/IMG_20251125_083713-scaled.jpg"
+    "image": "NP-066.webp"
   },
   {
     "id": "NP-067",
@@ -540,7 +539,7 @@ const PRODUCTS = [
     "category": "brinco",
     "originalPriceCents": 908,
     "priceCents": 1500,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/12/IMG_20251125_083541-scaled.jpg"
+    "image": "NP-067.webp"
   },
   {
     "id": "NP-068",
@@ -549,7 +548,7 @@ const PRODUCTS = [
     "category": "brinco",
     "originalPriceCents": 999,
     "priceCents": 1600,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/12/IMG_20251125_083425-scaled.jpg"
+    "image": "NP-068.webp"
   },
   {
     "id": "NP-069",
@@ -558,7 +557,7 @@ const PRODUCTS = [
     "category": "brinco",
     "originalPriceCents": 1330,
     "priceCents": 2200,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/12/IMG_20251125_083256-scaled.jpg"
+    "image": "NP-069.webp"
   },
   {
     "id": "NP-070",
@@ -567,7 +566,7 @@ const PRODUCTS = [
     "category": "brinco",
     "originalPriceCents": 1480,
     "priceCents": 2400,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/12/IMG_20251125_083142-scaled.jpg"
+    "image": "NP-070.webp"
   },
   {
     "id": "NP-071",
@@ -576,7 +575,7 @@ const PRODUCTS = [
     "category": "brinco",
     "originalPriceCents": 1978,
     "priceCents": 3200,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/12/IMG_20251125_083042-scaled.jpg"
+    "image": "NP-071.webp"
   },
   {
     "id": "NP-072",
@@ -585,7 +584,7 @@ const PRODUCTS = [
     "category": "brinco",
     "originalPriceCents": 2109,
     "priceCents": 3400,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/12/IMG_20251125_082811-scaled.jpg"
+    "image": "NP-072.webp"
   },
   {
     "id": "NP-073",
@@ -594,7 +593,7 @@ const PRODUCTS = [
     "category": "brinco",
     "originalPriceCents": 3952,
     "priceCents": 6400,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/12/IMG_20251125_082541-scaled.jpg"
+    "image": "NP-073.webp"
   },
   {
     "id": "NP-074",
@@ -603,7 +602,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 1883,
     "priceCents": 3100,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/07/IMG_20260605_155626.jpg"
+    "image": "NP-074.webp"
   },
   {
     "id": "NP-075",
@@ -612,7 +611,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 2152,
     "priceCents": 3500,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/07/IMG_20260605_155747.jpg"
+    "image": "NP-075.webp"
   },
   {
     "id": "NP-076",
@@ -621,7 +620,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 807,
     "priceCents": 1300,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/07/IMG_20260605_155712.jpg"
+    "image": "NP-076.webp"
   },
   {
     "id": "NP-077",
@@ -630,7 +629,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 807,
     "priceCents": 1300,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/07/IMG_20260605_155813.jpg"
+    "image": "NP-077.webp"
   },
   {
     "id": "NP-078",
@@ -639,7 +638,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 1076,
     "priceCents": 1800,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/06/IMG_20260605_155131.jpg"
+    "image": "NP-078.webp"
   },
   {
     "id": "NP-079",
@@ -648,7 +647,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 4573,
     "priceCents": 7400,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/06/IMG_20260605_141220.jpg"
+    "image": "NP-079.webp"
   },
   {
     "id": "NP-080",
@@ -657,7 +656,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 5111,
     "priceCents": 8200,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/06/IMG_20260605_140756.jpg"
+    "image": "NP-080.webp"
   },
   {
     "id": "NP-081",
@@ -666,7 +665,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 12374,
     "priceCents": 19800,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/06/IMG_20260605_140431.jpg"
+    "image": "NP-081.webp"
   },
   {
     "id": "NP-082",
@@ -675,7 +674,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 7532,
     "priceCents": 12100,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/06/IMG_20260605_140331.jpg"
+    "image": "NP-082.webp"
   },
   {
     "id": "NP-083",
@@ -684,7 +683,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 2690,
     "priceCents": 4400,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/06/IMG_20260605_140156.jpg"
+    "image": "NP-083.webp"
   },
   {
     "id": "NP-084",
@@ -693,7 +692,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 1614,
     "priceCents": 2600,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/06/IMG_20260605_140051.jpg"
+    "image": "NP-084.webp"
   },
   {
     "id": "NP-085",
@@ -702,7 +701,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 2152,
     "priceCents": 3500,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/06/IMG_20260605_135924.jpg"
+    "image": "NP-085.webp"
   },
   {
     "id": "NP-086",
@@ -711,7 +710,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 753,
     "priceCents": 1300,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/09/IMG_20250819_130329-PING-CRUZ-PALITO-2CM-03G-scaled.jpg"
+    "image": "NP-086.webp"
   },
   {
     "id": "NP-087",
@@ -720,7 +719,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 7000,
     "priceCents": 11200,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/06/IMG_20250510_162502-scaled.jpg"
+    "image": "NP-087.webp"
   },
   {
     "id": "NP-088",
@@ -729,7 +728,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 10850,
     "priceCents": 17400,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/06/IMG_20250510_162414-62g-55cm-scaled.jpg"
+    "image": "NP-088.webp"
   },
   {
     "id": "NP-089",
@@ -738,7 +737,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 5775,
     "priceCents": 9300,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/06/IMG_20250510_162310-33g-35cm-scaled.jpg"
+    "image": "NP-089.webp"
   },
   {
     "id": "NP-090",
@@ -747,7 +746,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 14000,
     "priceCents": 22400,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/05/IMG_20250510_162211-8g-65cm-scaled.jpg"
+    "image": "NP-090.webp"
   },
   {
     "id": "NP-091",
@@ -756,7 +755,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 4200,
     "priceCents": 6800,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/05/IMG_20250510_161929-24g-35cm-scaled.jpg"
+    "image": "NP-091.webp"
   },
   {
     "id": "NP-092",
@@ -765,7 +764,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 5425,
     "priceCents": 8700,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/05/IMG_20250510_161720-31g-35cm-scaled.jpg"
+    "image": "NP-092.webp"
   },
   {
     "id": "NP-093",
@@ -774,7 +773,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 6456,
     "priceCents": 10400,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/04/IMG_20250409_164540-scaled.jpg"
+    "image": "NP-093.webp"
   },
   {
     "id": "NP-094",
@@ -783,7 +782,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 2152,
     "priceCents": 3500,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/04/IMG_20250409_164826-scaled.jpg"
+    "image": "NP-094.webp"
   },
   {
     "id": "NP-095",
@@ -792,7 +791,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 3497,
     "priceCents": 5600,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/04/IMG_20250409_165035-scaled.jpg"
+    "image": "NP-095.webp"
   },
   {
     "id": "NP-096",
@@ -801,7 +800,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 3497,
     "priceCents": 5600,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/04/IMG_20250409_165148-scaled.jpg"
+    "image": "NP-096.webp"
   },
   {
     "id": "NP-097",
@@ -810,7 +809,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 3228,
     "priceCents": 5200,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/04/IMG_20250409_165335-scaled.jpg"
+    "image": "NP-097.webp"
   },
   {
     "id": "NP-098",
@@ -819,7 +818,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 3497,
     "priceCents": 5600,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/04/IMG_20250409_165957-scaled.jpg"
+    "image": "NP-098.webp"
   },
   {
     "id": "NP-099",
@@ -828,7 +827,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 1883,
     "priceCents": 3100,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/04/IMG_20250409_170313-scaled.jpg"
+    "image": "NP-099.webp"
   },
   {
     "id": "NP-100",
@@ -837,7 +836,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 1883,
     "priceCents": 3100,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/04/IMG_20250409_170359-scaled.jpg"
+    "image": "NP-100.webp"
   },
   {
     "id": "NP-101",
@@ -846,7 +845,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 1925,
     "priceCents": 3100,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_155226-ping-cifrao-11g-scaled.jpg"
+    "image": "NP-101.webp"
   },
   {
     "id": "NP-102",
@@ -855,7 +854,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 5425,
     "priceCents": 8700,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_155159-Ping-sao-jorge-31g-scaled.jpg"
+    "image": "NP-102.webp"
   },
   {
     "id": "NP-103",
@@ -864,7 +863,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 18375,
     "priceCents": 29400,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_154721-ping-face-105g-scaled.jpg"
+    "image": "NP-103.webp"
   },
   {
     "id": "NP-104",
@@ -873,7 +872,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 10675,
     "priceCents": 17100,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_154541-ping-santos-61g-scaled.jpg"
+    "image": "NP-104.webp"
   },
   {
     "id": "NP-105",
@@ -882,7 +881,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 13475,
     "priceCents": 21600,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_154330-ping-cruz-77g-scaled.jpg"
+    "image": "NP-105.webp"
   },
   {
     "id": "NP-106",
@@ -891,7 +890,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 1575,
     "priceCents": 2600,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_154250-ping-okley-09g-scaled.jpg"
+    "image": "NP-106.webp"
   },
   {
     "id": "NP-107",
@@ -900,7 +899,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 3325,
     "priceCents": 5400,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_154219-ping-quiksilver-19g-scaled.jpg"
+    "image": "NP-107.webp"
   },
   {
     "id": "NP-108",
@@ -909,7 +908,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 2975,
     "priceCents": 4800,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_154119-ping-face-cristo-17g-scaled.jpg"
+    "image": "NP-108.webp"
   },
   {
     "id": "NP-109",
@@ -918,7 +917,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 4025,
     "priceCents": 6500,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_154027-ping-okley-23g-scaled.jpg"
+    "image": "NP-109.webp"
   },
   {
     "id": "NP-110",
@@ -927,7 +926,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 5425,
     "priceCents": 8700,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_153946-ping-medalha-sao-jorge-31g-scaled.jpg"
+    "image": "NP-110.webp"
   },
   {
     "id": "NP-111",
@@ -936,7 +935,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 4900,
     "priceCents": 7900,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_153846-ping-fe-28g-scaled.jpg"
+    "image": "NP-111.webp"
   },
   {
     "id": "NP-112",
@@ -945,7 +944,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 19775,
     "priceCents": 31700,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_153752-ping-sao-jorge-113g-scaled.jpg"
+    "image": "NP-112.webp"
   },
   {
     "id": "NP-113",
@@ -954,7 +953,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 15575,
     "priceCents": 25000,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_153722-ping-estrela-davi-89g-scaled.jpg"
+    "image": "NP-113.webp"
   },
   {
     "id": "NP-114",
@@ -963,7 +962,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 3850,
     "priceCents": 6200,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_153100-ping-cristo-redentor-22g-scaled.jpg"
+    "image": "NP-114.webp"
   },
   {
     "id": "NP-115",
@@ -972,7 +971,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 2275,
     "priceCents": 3700,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_152933-ping-jesus-13g-scaled.jpg"
+    "image": "NP-115.webp"
   },
   {
     "id": "NP-116",
@@ -981,7 +980,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 4725,
     "priceCents": 7600,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_152756-ping-santos-27g-scaled.jpg"
+    "image": "NP-116.webp"
   },
   {
     "id": "NP-117",
@@ -990,7 +989,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 6125,
     "priceCents": 9800,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_152648-ping-sao-jorge-35g-scaled.jpg"
+    "image": "NP-117.webp"
   },
   {
     "id": "NP-118",
@@ -999,7 +998,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 2975,
     "priceCents": 4800,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_152613-ping-cruz-da-vida-17g-scaled.jpg"
+    "image": "NP-118.webp"
   },
   {
     "id": "NP-119",
@@ -1008,7 +1007,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 9800,
     "priceCents": 15700,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_152319-ping-face-de-cristo-56g-scaled.jpg"
+    "image": "NP-119.webp"
   },
   {
     "id": "NP-120",
@@ -1017,7 +1016,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 7875,
     "priceCents": 12600,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_152136-ping-tio-patinhas-45g-scaled.jpg"
+    "image": "NP-120.webp"
   },
   {
     "id": "NP-121",
@@ -1026,7 +1025,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 2450,
     "priceCents": 4000,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_151847-ping-cruz-roseira-14g-scaled.jpg"
+    "image": "NP-121.webp"
   },
   {
     "id": "NP-122",
@@ -1035,7 +1034,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 6475,
     "priceCents": 10400,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_151647-ping-palmeiras-37g-scaled.jpg"
+    "image": "NP-122.webp"
   },
   {
     "id": "NP-123",
@@ -1044,7 +1043,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 3150,
     "priceCents": 5100,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_151623-ping-cifrao-18g-scaled.jpg"
+    "image": "NP-123.webp"
   },
   {
     "id": "NP-124",
@@ -1053,6 +1052,6 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 10850,
     "priceCents": 17400,
-    "image": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250208_151449-ping-sao-jorge-62g-scaled.jpg"
+    "image": "NP-124.webp"
   }
 ];
