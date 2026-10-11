@@ -1053,5 +1053,173 @@ const PRODUCTS = [
     "originalPriceCents": 10850,
     "priceCents": 17400,
     "image": "NP-124.webp"
+  },
+  {
+    "id": "NP-125",
+    "name": "Pingente Letra Cravejada B",
+    "priceCents": 4275,
+    "originalPriceCents": 2850,
+    "category": "feminino",
+    "image": "NP-125.webp"
+  },
+  {
+    "id": "NP-126",
+    "name": "Pingente Letra Cravejada C",
+    "priceCents": 4275,
+    "originalPriceCents": 2850,
+    "category": "feminino",
+    "image": "NP-126.webp"
+  },
+  {
+    "id": "NP-127",
+    "name": "Pingente Letra Cravejada D",
+    "priceCents": 4275,
+    "originalPriceCents": 2850,
+    "category": "feminino",
+    "image": "NP-127.webp"
+  },
+  {
+    "id": "NP-128",
+    "name": "Pingente Letra Cravejada F",
+    "priceCents": 4275,
+    "originalPriceCents": 2850,
+    "category": "feminino",
+    "image": "NP-128.webp"
+  },
+  {
+    "id": "NP-129",
+    "name": "Pingente Letra Cravejada G",
+    "priceCents": 4275,
+    "originalPriceCents": 2850,
+    "category": "feminino",
+    "image": "NP-129.webp"
+  },
+  {
+    "id": "NP-130",
+    "name": "Pingente Letra Cravejada E",
+    "priceCents": 4275,
+    "originalPriceCents": 2850,
+    "category": "feminino",
+    "image": "NP-130.webp"
+  },
+  {
+    "id": "NP-131",
+    "name": "Pingente Letra Cravejada I",
+    "priceCents": 4275,
+    "originalPriceCents": 2850,
+    "category": "feminino",
+    "image": "NP-131.webp"
+  },
+  {
+    "id": "NP-132",
+    "name": "Pingente Letra Cravejada J",
+    "priceCents": 4275,
+    "originalPriceCents": 2850,
+    "category": "feminino",
+    "image": "NP-132.webp"
+  },
+  {
+    "id": "NP-133",
+    "name": "Pingente Letra Cravejada K",
+    "priceCents": 4275,
+    "originalPriceCents": 2850,
+    "category": "feminino",
+    "image": "NP-133.webp"
+  },
+  {
+    "id": "NP-134",
+    "name": "Pingente Letra Cravejada L",
+    "priceCents": 4275,
+    "originalPriceCents": 2850,
+    "category": "feminino",
+    "image": "NP-134.webp"
+  },
+  {
+    "id": "NP-135",
+    "name": "Pingente Letra Cravejada H",
+    "priceCents": 4275,
+    "originalPriceCents": 2850,
+    "category": "feminino",
+    "image": "NP-135.webp"
+  },
+  {
+    "id": "NP-136",
+    "name": "Pingente Letra Cravejada N",
+    "priceCents": 4275,
+    "originalPriceCents": 2850,
+    "category": "feminino",
+    "image": "NP-136.webp"
+  },
+  {
+    "id": "NP-137",
+    "name": "Pingente Letra Cravejada O",
+    "priceCents": 4275,
+    "originalPriceCents": 2850,
+    "category": "feminino",
+    "image": "NP-137.webp"
+  },
+  {
+    "id": "NP-138",
+    "name": "Pingente Letra Cravejada P",
+    "priceCents": 4275,
+    "originalPriceCents": 2850,
+    "category": "feminino",
+    "image": "NP-138.webp"
+  },
+  {
+    "id": "NP-139",
+    "name": "Pingente Letra Cravejada M",
+    "priceCents": 4275,
+    "originalPriceCents": 2850,
+    "category": "feminino",
+    "image": "NP-139.webp"
+  },
+  {
+    "id": "NP-140",
+    "name": "Pingente Letra Cravejada R",
+    "priceCents": 4275,
+    "originalPriceCents": 2850,
+    "category": "feminino",
+    "image": "NP-140.webp"
+  },
+  {
+    "id": "NP-141",
+    "name": "Pingente Letra Cravejada S",
+    "priceCents": 4275,
+    "originalPriceCents": 2850,
+    "category": "feminino",
+    "image": "NP-141.webp"
+  },
+  {
+    "id": "NP-142",
+    "name": "Pingente Letra Cravejada T",
+    "priceCents": 4275,
+    "originalPriceCents": 2850,
+    "category": "feminino",
+    "image": "NP-142.webp"
+  },
+  {
+    "id": "NP-143",
+    "name": "Pingente Letra Cravejada Q",
+    "priceCents": 4275,
+    "originalPriceCents": 2850,
+    "category": "feminino",
+    "image": "NP-143.webp"
+  },
+  {
+    "id": "NP-144",
+    "name": "Pingente Letra Cravejada V",
+    "priceCents": 4275,
+    "originalPriceCents": 2850,
+    "category": "feminino",
+    "image": "NP-144.webp"
+  },
+  {
+    "id": "NP-145",
+    "name": "Pingente Letra Cravejada U",
+    "priceCents": 4275,
+    "originalPriceCents": 2850,
+    "category": "feminino",
+    "image": "NP-145.webp"
   }
 ];
