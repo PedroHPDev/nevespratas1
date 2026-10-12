@@ -1,0 +1,12 @@
+Neves Pratas — edição de fundo das fotos femininas
+Ferramenta: image_gen integrada. Uma edição por produto.
+Originais preservados em outputs/catalogo-fundo-preto/fotos.
+
+Prompt do lote:
+Use case: precise-object-edit. This is an existing real jewelry PRODUCT PHOTO, edit target, NOT a design reference. Replace ONLY all background/support surfaces (gray tabletop, beige velvet, white display stand, blue mat, foliage, outer environment) with uniform pure black #000000. Retain ONLY the exact jewelry in precisely its existing location, orientation and scale. Preserve every visible chain link, clasp, open end, charm, gemstone, pearl, prong, original material, color and metallic highlight. Preserve the exact number and order of stones/charms. For a letter pendant, preserve that exact letter shape, its holes, its stones, no added chain. Make all gaps and holes black including between links and inside the piece. Do not redesign, add, remove, reshape, relight or simplify jewelry. No artificial sparkle, text, logo, watermarks, props or gray halos. Crisp natural edges and original photography detail. Square product photo on flat black.
+
+Prompt das seis primeiras letras:
+Use case: precise-object-edit. Edit the supplied real jewelry catalog photo ONLY by replacing the entire beige display tray and any surrounding gray/green background with solid pure black #000000. Preserve the exact silver gemstone letter pendant shown in the input, its letter identity, silhouette, holes, gemstone arrangement, orientation, scale, position, highlights and visible thickness. Do not change the letter, redraw it, invent stones, add a chain or clasp. The inside of the letter is also black background. No texture, no text, no watermark. Crisp natural detailed edges; square photograph.
+
+Prompt da primeira pulseira:
+Edit target: the referenced real catalog product photo. Replace ONLY the gray background and the white upper edge with uniform pure black (#000000), including all spaces between chain links and inside the bracelet. Preserve the exact red four-leaf clover silver bracelet: identical chain links, clasp, open position, proportions, red stone color, silver beaded setting, framing and metallic highlights. Do not redraw, redesign, add, remove, relight or invent any part of the jewelry. Clean precise edges, no halo, no text, no logo, no extra objects. Square high-resolution real catalog photograph.

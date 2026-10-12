@@ -1,5 +1,4 @@
 "use strict";
-// Preços e dados preservados. Fotos com fundo preto: 04/10/2026.
 const PRODUCTS = [
   {
     "id": "NP-001",
@@ -7,15 +6,15 @@ const PRODUCTS = [
     "length": 40,
     "priceCents": 8300,
     "category": "corrente",
-    "image": "NP-001.webp"
+    "image": "fotos/NP-001.webp"
   },
   {
     "id": "NP-002",
-    "name": "Corrente Elo Português 2 mm",
+    "name": "Corrente Elo PortuguÃªs 2 mm",
     "length": 40,
     "priceCents": 8300,
     "category": "corrente",
-    "image": "NP-021.webp"
+    "image": "fotos/NP-021.webp"
   },
   {
     "id": "NP-003",
@@ -23,7 +22,7 @@ const PRODUCTS = [
     "length": 40,
     "priceCents": 3500,
     "category": "corrente",
-    "image": "NP-019.webp"
+    "image": "fotos/NP-019.webp"
   },
   {
     "id": "NP-004",
@@ -31,7 +30,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 9600,
     "category": "corrente",
-    "image": "NP-004.webp"
+    "image": "fotos/NP-004.webp"
   },
   {
     "id": "NP-005",
@@ -39,7 +38,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 23300,
     "category": "corrente",
-    "image": "NP-005.webp"
+    "image": "fotos/NP-005.webp"
   },
   {
     "id": "NP-006",
@@ -47,23 +46,23 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 6900,
     "category": "corrente",
-    "image": "NP-006.webp"
+    "image": "fotos/NP-006.webp"
   },
   {
     "id": "NP-007",
-    "name": "Corrente 3 × 1 1,5 mm",
+    "name": "Corrente 3 Ã— 1 1,5 mm",
     "length": 45,
     "priceCents": 6600,
     "category": "corrente",
-    "image": "NP-007.webp"
+    "image": "fotos/NP-007.webp"
   },
   {
     "id": "NP-008",
-    "name": "Corrente Cartie 2 × 5,5 mm",
+    "name": "Corrente Cartie 2 Ã— 5,5 mm",
     "length": 45,
     "priceCents": 8900,
     "category": "corrente",
-    "image": "NP-008.webp"
+    "image": "fotos/NP-008.webp"
   },
   {
     "id": "NP-009",
@@ -71,15 +70,15 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 7900,
     "category": "corrente",
-    "image": "NP-009.webp"
+    "image": "fotos/NP-009.webp"
   },
   {
     "id": "NP-010",
-    "name": "Corrente Italiana Elo Português 1,2 mm",
+    "name": "Corrente Italiana Elo PortuguÃªs 1,2 mm",
     "length": 45,
     "priceCents": 6400,
     "category": "corrente",
-    "image": "NP-010.webp"
+    "image": "fotos/NP-010.webp"
   },
   {
     "id": "NP-011",
@@ -87,15 +86,15 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 10700,
     "category": "corrente",
-    "image": "NP-011.webp"
+    "image": "fotos/NP-011.webp"
   },
   {
     "id": "NP-012",
-    "name": "Corrente Italiana Cordão 1,5 mm",
+    "name": "Corrente Italiana CordÃ£o 1,5 mm",
     "length": 45,
     "priceCents": 15400,
     "category": "corrente",
-    "image": "NP-012.webp"
+    "image": "fotos/NP-012.webp"
   },
   {
     "id": "NP-013",
@@ -103,7 +102,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 11300,
     "category": "corrente",
-    "image": "NP-013.webp"
+    "image": "fotos/NP-013.webp"
   },
   {
     "id": "NP-014",
@@ -111,15 +110,15 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 9400,
     "category": "corrente",
-    "image": "NP-014.webp"
+    "image": "fotos/NP-014.webp"
   },
   {
     "id": "NP-015",
-    "name": "Corrente Elo Português 2 mm",
+    "name": "Corrente Elo PortuguÃªs 2 mm",
     "length": 45,
     "priceCents": 8600,
     "category": "corrente",
-    "image": "NP-015.webp"
+    "image": "fotos/NP-015.webp"
   },
   {
     "id": "NP-016",
@@ -127,7 +126,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 4500,
     "category": "corrente",
-    "image": "NP-019.webp"
+    "image": "fotos/NP-019.webp"
   },
   {
     "id": "NP-017",
@@ -135,15 +134,15 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 6200,
     "category": "corrente",
-    "image": "NP-017.webp"
+    "image": "fotos/NP-017.webp"
   },
   {
     "id": "NP-018",
-    "name": "Corrente Veneziana 1,8 × 3,8 mm",
+    "name": "Corrente Veneziana 1,8 Ã— 3,8 mm",
     "length": 50,
     "priceCents": 13400,
     "category": "corrente",
-    "image": "NP-018.webp"
+    "image": "fotos/NP-018.webp"
   },
   {
     "id": "NP-019",
@@ -151,31 +150,31 @@ const PRODUCTS = [
     "length": 50,
     "priceCents": 5200,
     "category": "corrente",
-    "image": "NP-019.webp"
+    "image": "fotos/NP-019.webp"
   },
   {
     "id": "NP-020",
-    "name": "Corrente Elo Português F05 2 mm",
+    "name": "Corrente Elo PortuguÃªs F05 2 mm",
     "length": 50,
     "priceCents": 9700,
     "category": "corrente",
-    "image": "NP-020.webp"
+    "image": "fotos/NP-020.webp"
   },
   {
     "id": "NP-021",
-    "name": "Corrente Elo Português 1,9 mm",
+    "name": "Corrente Elo PortuguÃªs 1,9 mm",
     "length": 50,
     "priceCents": 9000,
     "category": "corrente",
-    "image": "NP-021.webp"
+    "image": "fotos/NP-021.webp"
   },
   {
     "id": "NP-022",
-    "name": "Corrente Italiana Cordão Fino 1,5 mm",
+    "name": "Corrente Italiana CordÃ£o Fino 1,5 mm",
     "length": 50,
     "priceCents": 18000,
     "category": "corrente",
-    "image": "NP-022.webp"
+    "image": "fotos/NP-022.webp"
   },
   {
     "id": "NP-023",
@@ -183,23 +182,23 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 5900,
     "category": "corrente",
-    "image": "NP-023.webp"
+    "image": "fotos/NP-023.webp"
   },
   {
     "id": "NP-024",
-    "name": "Corrente Elo Português F05 2 mm",
+    "name": "Corrente Elo PortuguÃªs F05 2 mm",
     "length": 60,
     "priceCents": 8900,
     "category": "corrente",
-    "image": "NP-024.webp"
+    "image": "fotos/NP-024.webp"
   },
   {
     "id": "NP-025",
-    "name": "Corrente 3 × 1 2 mm",
+    "name": "Corrente 3 Ã— 1 2 mm",
     "length": 60,
     "priceCents": 14500,
     "category": "corrente",
-    "image": "NP-025.webp"
+    "image": "fotos/NP-025.webp"
   },
   {
     "id": "NP-026",
@@ -207,15 +206,15 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 21700,
     "category": "corrente",
-    "image": "NP-026.webp"
+    "image": "fotos/NP-026.webp"
   },
   {
     "id": "NP-027",
-    "name": "Corrente Cordão Baiano 2 mm",
+    "name": "Corrente CordÃ£o Baiano 2 mm",
     "length": 60,
     "priceCents": 21800,
     "category": "corrente",
-    "image": "NP-027.webp"
+    "image": "fotos/NP-027.webp"
   },
   {
     "id": "NP-028",
@@ -223,7 +222,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 30400,
     "category": "corrente",
-    "image": "NP-028.webp"
+    "image": "fotos/NP-028.webp"
   },
   {
     "id": "NP-029",
@@ -231,15 +230,15 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 34500,
     "category": "corrente",
-    "image": "NP-029.webp"
+    "image": "fotos/NP-029.webp"
   },
   {
     "id": "NP-030",
-    "name": "Corrente Cartie F05 2 × 4 mm",
+    "name": "Corrente Cartie F05 2 Ã— 4 mm",
     "length": 60,
     "priceCents": 9700,
     "category": "corrente",
-    "image": "NP-030.webp"
+    "image": "fotos/NP-030.webp"
   },
   {
     "id": "NP-031",
@@ -247,7 +246,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 13800,
     "category": "corrente",
-    "image": "NP-041.webp"
+    "image": "fotos/NP-041.webp"
   },
   {
     "id": "NP-032",
@@ -255,23 +254,23 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 28000,
     "category": "corrente",
-    "image": "NP-032.webp"
+    "image": "fotos/NP-032.webp"
   },
   {
     "id": "NP-033",
-    "name": "Corrente Veneziana 2 × 5 mm",
+    "name": "Corrente Veneziana 2 Ã— 5 mm",
     "length": 60,
     "priceCents": 19100,
     "category": "corrente",
-    "image": "NP-050.webp"
+    "image": "fotos/NP-050.webp"
   },
   {
     "id": "NP-034",
-    "name": "Corrente Masculina 3 × 1 1,5 mm",
+    "name": "Corrente Masculina 3 Ã— 1 1,5 mm",
     "length": 60,
     "priceCents": 8300,
     "category": "corrente",
-    "image": "NP-034.webp"
+    "image": "fotos/NP-034.webp"
   },
   {
     "id": "NP-035",
@@ -279,7 +278,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 19800,
     "category": "corrente",
-    "image": "NP-035.webp"
+    "image": "fotos/NP-035.webp"
   },
   {
     "id": "NP-036",
@@ -287,31 +286,31 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 34200,
     "category": "corrente",
-    "image": "NP-036.webp"
+    "image": "fotos/NP-036.webp"
   },
   {
     "id": "NP-037",
-    "name": "Corrente Cartie 2 × 3 mm",
+    "name": "Corrente Cartie 2 Ã— 3 mm",
     "length": 70,
     "priceCents": 24000,
     "category": "corrente",
-    "image": "NP-037.webp"
+    "image": "fotos/NP-037.webp"
   },
   {
     "id": "NP-038",
-    "name": "Corrente Cartie Elo Oval F05 2 × 4 mm",
+    "name": "Corrente Cartie Elo Oval F05 2 Ã— 4 mm",
     "length": 70,
     "priceCents": 10900,
     "category": "corrente",
-    "image": "NP-038.webp"
+    "image": "fotos/NP-038.webp"
   },
   {
     "id": "NP-039",
-    "name": "Corrente Masculina Cartie 4 × 7 mm",
+    "name": "Corrente Masculina Cartie 4 Ã— 7 mm",
     "length": 70,
     "priceCents": 53600,
     "category": "corrente",
-    "image": "NP-052.webp"
+    "image": "fotos/NP-052.webp"
   },
   {
     "id": "NP-040",
@@ -319,7 +318,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 19800,
     "category": "corrente",
-    "image": "NP-040.webp"
+    "image": "fotos/NP-040.webp"
   },
   {
     "id": "NP-041",
@@ -327,15 +326,15 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 11500,
     "category": "corrente",
-    "image": "NP-041.webp"
+    "image": "fotos/NP-041.webp"
   },
   {
     "id": "NP-042",
-    "name": "Corrente 3 × 1 3 mm",
+    "name": "Corrente 3 Ã— 1 3 mm",
     "length": 70,
     "priceCents": 19800,
     "category": "corrente",
-    "image": "NP-042.webp"
+    "image": "fotos/NP-042.webp"
   },
   {
     "id": "NP-043",
@@ -343,7 +342,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 97000,
     "category": "corrente",
-    "image": "NP-043.webp"
+    "image": "fotos/NP-043.webp"
   },
   {
     "id": "NP-044",
@@ -351,7 +350,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 34500,
     "category": "corrente",
-    "image": "NP-044.webp"
+    "image": "fotos/NP-044.webp"
   },
   {
     "id": "NP-045",
@@ -359,7 +358,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 10900,
     "category": "corrente",
-    "image": "NP-045.webp"
+    "image": "fotos/NP-045.webp"
   },
   {
     "id": "NP-046",
@@ -367,15 +366,15 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 118600,
     "category": "corrente",
-    "image": "NP-046.webp"
+    "image": "fotos/NP-046.webp"
   },
   {
     "id": "NP-047",
-    "name": "Corrente Masculina 3 × 1 2 mm",
+    "name": "Corrente Masculina 3 Ã— 1 2 mm",
     "length": 70,
     "priceCents": 16500,
     "category": "corrente",
-    "image": "NP-047.webp"
+    "image": "fotos/NP-047.webp"
   },
   {
     "id": "NP-048",
@@ -383,7 +382,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 28000,
     "category": "corrente",
-    "image": "NP-048.webp"
+    "image": "fotos/NP-048.webp"
   },
   {
     "id": "NP-049",
@@ -391,15 +390,15 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 36200,
     "category": "corrente",
-    "image": "NP-049.webp"
+    "image": "fotos/NP-049.webp"
   },
   {
     "id": "NP-050",
-    "name": "Corrente Masculina Veneziana 2 × 5 mm",
+    "name": "Corrente Masculina Veneziana 2 Ã— 5 mm",
     "length": 70,
     "priceCents": 21400,
     "category": "corrente",
-    "image": "NP-050.webp"
+    "image": "fotos/NP-050.webp"
   },
   {
     "id": "NP-051",
@@ -407,31 +406,31 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 12200,
     "category": "corrente",
-    "image": "NP-051.webp"
+    "image": "fotos/NP-051.webp"
   },
   {
     "id": "NP-052",
-    "name": "Corrente Masculina Cartier 3,5 × 7 mm",
+    "name": "Corrente Masculina Cartier 3,5 Ã— 7 mm",
     "length": 70,
     "priceCents": 51000,
     "category": "corrente",
-    "image": "NP-052.webp"
+    "image": "fotos/NP-052.webp"
   },
   {
     "id": "NP-053",
-    "name": "Corrente Masculina 3 × 1 5 mm",
+    "name": "Corrente Masculina 3 Ã— 1 5 mm",
     "length": 70,
     "priceCents": 52900,
     "category": "corrente",
-    "image": "NP-053.webp"
+    "image": "fotos/NP-053.webp"
   },
   {
     "id": "NP-054",
-    "name": "Corrente Masculina 3 × 1 4 mm",
+    "name": "Corrente Masculina 3 Ã— 1 4 mm",
     "length": 70,
     "priceCents": 36200,
     "category": "corrente",
-    "image": "NP-054.webp"
+    "image": "fotos/NP-054.webp"
   },
   {
     "id": "NP-055",
@@ -439,31 +438,31 @@ const PRODUCTS = [
     "length": 0,
     "priceCents": 28000,
     "category": "pulseira",
-    "image": "NP-055.webp"
+    "image": "fotos/NP-055.webp"
   },
   {
     "id": "NP-056",
-    "name": "Pulseira Cartie 3 × 5 mm",
+    "name": "Pulseira Cartie 3 Ã— 5 mm",
     "length": 0,
     "priceCents": 16800,
     "category": "pulseira",
-    "image": "NP-056.webp"
+    "image": "fotos/NP-056.webp"
   },
   {
     "id": "NP-057",
-    "name": "Pulseira Cartie 2 × 3 mm",
+    "name": "Pulseira Cartie 2 Ã— 3 mm",
     "length": 0,
     "priceCents": 7900,
     "category": "pulseira",
-    "image": "NP-057.webp"
+    "image": "fotos/NP-057.webp"
   },
   {
     "id": "NP-058",
-    "name": "Pulseira Veneziana 2 × 7 mm",
+    "name": "Pulseira Veneziana 2 Ã— 7 mm",
     "length": 0,
     "priceCents": 5800,
     "category": "pulseira",
-    "image": "NP-058.webp"
+    "image": "fotos/NP-058.webp"
   },
   {
     "id": "NP-059",
@@ -471,7 +470,7 @@ const PRODUCTS = [
     "length": 0,
     "priceCents": 91500,
     "category": "pulseira",
-    "image": "NP-059.webp"
+    "image": "fotos/NP-059.webp"
   },
   {
     "id": "NP-060",
@@ -479,7 +478,7 @@ const PRODUCTS = [
     "length": 0,
     "priceCents": 4600,
     "category": "pulseira",
-    "image": "NP-060.webp"
+    "image": "fotos/NP-060.webp"
   },
   {
     "id": "NP-061",
@@ -487,15 +486,15 @@ const PRODUCTS = [
     "length": 0,
     "priceCents": 9600,
     "category": "pulseira",
-    "image": "NP-061.webp"
+    "image": "fotos/NP-061.webp"
   },
   {
     "id": "NP-062",
-    "name": "Pulseira Masculina 3 × 1 Chapa 7 mm",
+    "name": "Pulseira Masculina 3 Ã— 1 Chapa 7 mm",
     "length": 0,
     "priceCents": 36500,
     "category": "pulseira",
-    "image": "NP-062.webp"
+    "image": "fotos/NP-062.webp"
   },
   {
     "id": "NP-063",
@@ -503,97 +502,97 @@ const PRODUCTS = [
     "length": 0,
     "priceCents": 25300,
     "category": "pulseira",
-    "image": "NP-063.webp"
+    "image": "fotos/NP-063.webp"
   },
   {
     "id": "NP-064",
-    "name": "Brinco Zircônia Redonda 2 mm",
+    "name": "Brinco ZircÃ´nia Redonda 2 mm",
     "length": 0,
     "category": "brinco",
     "originalPriceCents": 477,
     "priceCents": 800,
-    "image": "NP-064.webp"
+    "image": "fotos/NP-064.webp"
   },
   {
     "id": "NP-065",
-    "name": "Brinco Zircônia Redonda 3 mm",
+    "name": "Brinco ZircÃ´nia Redonda 3 mm",
     "length": 0,
     "category": "brinco",
     "originalPriceCents": 600,
     "priceCents": 1000,
-    "image": "NP-065.webp"
+    "image": "fotos/NP-065.webp"
   },
   {
     "id": "NP-066",
-    "name": "Brinco Zircônia Redonda 4 mm",
+    "name": "Brinco ZircÃ´nia Redonda 4 mm",
     "length": 0,
     "category": "brinco",
     "originalPriceCents": 665,
     "priceCents": 1100,
-    "image": "NP-066.webp"
+    "image": "fotos/NP-066.webp"
   },
   {
     "id": "NP-067",
-    "name": "Brinco Zircônia Redonda 5 mm",
+    "name": "Brinco ZircÃ´nia Redonda 5 mm",
     "length": 0,
     "category": "brinco",
     "originalPriceCents": 908,
     "priceCents": 1500,
-    "image": "NP-067.webp"
+    "image": "fotos/NP-067.webp"
   },
   {
     "id": "NP-068",
-    "name": "Brinco Zircônia Redonda 6 mm",
+    "name": "Brinco ZircÃ´nia Redonda 6 mm",
     "length": 0,
     "category": "brinco",
     "originalPriceCents": 999,
     "priceCents": 1600,
-    "image": "NP-068.webp"
+    "image": "fotos/NP-068.webp"
   },
   {
     "id": "NP-069",
-    "name": "Brinco Zircônia Redonda 7 mm",
+    "name": "Brinco ZircÃ´nia Redonda 7 mm",
     "length": 0,
     "category": "brinco",
     "originalPriceCents": 1330,
     "priceCents": 2200,
-    "image": "NP-069.webp"
+    "image": "fotos/NP-069.webp"
   },
   {
     "id": "NP-070",
-    "name": "Brinco Zircônia Redonda 8 mm",
+    "name": "Brinco ZircÃ´nia Redonda 8 mm",
     "length": 0,
     "category": "brinco",
     "originalPriceCents": 1480,
     "priceCents": 2400,
-    "image": "NP-070.webp"
+    "image": "fotos/NP-070.webp"
   },
   {
     "id": "NP-071",
-    "name": "Brinco Zircônia Redonda 9 mm",
+    "name": "Brinco ZircÃ´nia Redonda 9 mm",
     "length": 0,
     "category": "brinco",
     "originalPriceCents": 1978,
     "priceCents": 3200,
-    "image": "NP-071.webp"
+    "image": "fotos/NP-071.webp"
   },
   {
     "id": "NP-072",
-    "name": "Brinco Zircônia Redonda 10 mm",
+    "name": "Brinco ZircÃ´nia Redonda 10 mm",
     "length": 0,
     "category": "brinco",
     "originalPriceCents": 2109,
     "priceCents": 3400,
-    "image": "NP-072.webp"
+    "image": "fotos/NP-072.webp"
   },
   {
     "id": "NP-073",
-    "name": "Brinco Zircônia Redonda 12 mm",
+    "name": "Brinco ZircÃ´nia Redonda 12 mm",
     "length": 0,
     "category": "brinco",
     "originalPriceCents": 3952,
     "priceCents": 6400,
-    "image": "NP-073.webp"
+    "image": "fotos/NP-073.webp"
   },
   {
     "id": "NP-074",
@@ -602,7 +601,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 1883,
     "priceCents": 3100,
-    "image": "NP-074.webp"
+    "image": "fotos/NP-074.webp"
   },
   {
     "id": "NP-075",
@@ -611,7 +610,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 2152,
     "priceCents": 3500,
-    "image": "NP-075.webp"
+    "image": "fotos/NP-075.webp"
   },
   {
     "id": "NP-076",
@@ -620,7 +619,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 807,
     "priceCents": 1300,
-    "image": "NP-076.webp"
+    "image": "fotos/NP-076.webp"
   },
   {
     "id": "NP-077",
@@ -629,7 +628,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 807,
     "priceCents": 1300,
-    "image": "NP-077.webp"
+    "image": "fotos/NP-077.webp"
   },
   {
     "id": "NP-078",
@@ -638,70 +637,70 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 1076,
     "priceCents": 1800,
-    "image": "NP-078.webp"
+    "image": "fotos/NP-078.webp"
   },
   {
     "id": "NP-079",
-    "name": "Pingente Medalha Oval São Jorge 1,5 cm",
+    "name": "Pingente Medalha Oval SÃ£o Jorge 1,5 cm",
     "length": 0,
     "category": "pingente",
     "originalPriceCents": 4573,
     "priceCents": 7400,
-    "image": "NP-079.webp"
+    "image": "fotos/NP-079.webp"
   },
   {
     "id": "NP-080",
-    "name": "Pingente Medalha Oval São Miguel Arcanjo 1,5 cm",
+    "name": "Pingente Medalha Oval SÃ£o Miguel Arcanjo 1,5 cm",
     "length": 0,
     "category": "pingente",
     "originalPriceCents": 5111,
     "priceCents": 8200,
-    "image": "NP-080.webp"
+    "image": "fotos/NP-080.webp"
   },
   {
     "id": "NP-081",
-    "name": "Pingente Medalha Redonda São Bento Frente e Verso 2,5 cm",
+    "name": "Pingente Medalha Redonda SÃ£o Bento Frente e Verso 2,5 cm",
     "length": 0,
     "category": "pingente",
     "originalPriceCents": 12374,
     "priceCents": 19800,
-    "image": "NP-081.webp"
+    "image": "fotos/NP-081.webp"
   },
   {
     "id": "NP-082",
-    "name": "Pingente Medalha Redonda São Bento Frente e Verso 2 cm",
+    "name": "Pingente Medalha Redonda SÃ£o Bento Frente e Verso 2 cm",
     "length": 0,
     "category": "pingente",
     "originalPriceCents": 7532,
     "priceCents": 12100,
-    "image": "NP-082.webp"
+    "image": "fotos/NP-082.webp"
   },
   {
     "id": "NP-083",
-    "name": "Pingente Medalha Redonda São Bento Frente e Verso 1,5 cm",
+    "name": "Pingente Medalha Redonda SÃ£o Bento Frente e Verso 1,5 cm",
     "length": 0,
     "category": "pingente",
     "originalPriceCents": 2690,
     "priceCents": 4400,
-    "image": "NP-083.webp"
+    "image": "fotos/NP-083.webp"
   },
   {
     "id": "NP-084",
-    "name": "Pingente Medalha Redonda São Bento Frente e Verso 1 cm",
+    "name": "Pingente Medalha Redonda SÃ£o Bento Frente e Verso 1 cm",
     "length": 0,
     "category": "pingente",
     "originalPriceCents": 1614,
     "priceCents": 2600,
-    "image": "NP-084.webp"
+    "image": "fotos/NP-084.webp"
   },
   {
     "id": "NP-085",
-    "name": "Pingente Placa Redonda São Jorge Vazada 1,5 cm",
+    "name": "Pingente Placa Redonda SÃ£o Jorge Vazada 1,5 cm",
     "length": 0,
     "category": "pingente",
     "originalPriceCents": 2152,
     "priceCents": 3500,
-    "image": "NP-085.webp"
+    "image": "fotos/NP-085.webp"
   },
   {
     "id": "NP-086",
@@ -710,7 +709,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 753,
     "priceCents": 1300,
-    "image": "NP-086.webp"
+    "image": "fotos/NP-086.webp"
   },
   {
     "id": "NP-087",
@@ -719,16 +718,16 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 7000,
     "priceCents": 11200,
-    "image": "NP-087.webp"
+    "image": "fotos/NP-087.webp"
   },
   {
     "id": "NP-088",
-    "name": "Pingente Cruz Média Fios Meio #MC81",
+    "name": "Pingente Cruz MÃ©dia Fios Meio #MC81",
     "length": 0,
     "category": "pingente",
     "originalPriceCents": 10850,
     "priceCents": 17400,
-    "image": "NP-088.webp"
+    "image": "fotos/NP-088.webp"
   },
   {
     "id": "NP-089",
@@ -737,7 +736,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 5775,
     "priceCents": 9300,
-    "image": "NP-089.webp"
+    "image": "fotos/NP-089.webp"
   },
   {
     "id": "NP-090",
@@ -746,7 +745,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 14000,
     "priceCents": 22400,
-    "image": "NP-090.webp"
+    "image": "fotos/NP-090.webp"
   },
   {
     "id": "NP-091",
@@ -755,16 +754,16 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 4200,
     "priceCents": 6800,
-    "image": "NP-091.webp"
+    "image": "fotos/NP-091.webp"
   },
   {
     "id": "NP-092",
-    "name": "Pingente Cruz Média Vazada #MC84",
+    "name": "Pingente Cruz MÃ©dia Vazada #MC84",
     "length": 0,
     "category": "pingente",
     "originalPriceCents": 5425,
     "priceCents": 8700,
-    "image": "NP-092.webp"
+    "image": "fotos/NP-092.webp"
   },
   {
     "id": "NP-093",
@@ -773,7 +772,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 6456,
     "priceCents": 10400,
-    "image": "NP-093.webp"
+    "image": "fotos/NP-093.webp"
   },
   {
     "id": "NP-094",
@@ -782,7 +781,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 2152,
     "priceCents": 3500,
-    "image": "NP-094.webp"
+    "image": "fotos/NP-094.webp"
   },
   {
     "id": "NP-095",
@@ -791,7 +790,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 3497,
     "priceCents": 5600,
-    "image": "NP-095.webp"
+    "image": "fotos/NP-095.webp"
   },
   {
     "id": "NP-096",
@@ -800,7 +799,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 3497,
     "priceCents": 5600,
-    "image": "NP-096.webp"
+    "image": "fotos/NP-096.webp"
   },
   {
     "id": "NP-097",
@@ -809,7 +808,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 3228,
     "priceCents": 5200,
-    "image": "NP-097.webp"
+    "image": "fotos/NP-097.webp"
   },
   {
     "id": "NP-098",
@@ -818,7 +817,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 3497,
     "priceCents": 5600,
-    "image": "NP-098.webp"
+    "image": "fotos/NP-098.webp"
   },
   {
     "id": "NP-099",
@@ -827,7 +826,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 1883,
     "priceCents": 3100,
-    "image": "NP-099.webp"
+    "image": "fotos/NP-099.webp"
   },
   {
     "id": "NP-100",
@@ -836,25 +835,25 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 1883,
     "priceCents": 3100,
-    "image": "NP-100.webp"
+    "image": "fotos/NP-100.webp"
   },
   {
     "id": "NP-101",
-    "name": "Pingente Cifrão P #MC52",
+    "name": "Pingente CifrÃ£o P #MC52",
     "length": 0,
     "category": "pingente",
     "originalPriceCents": 1925,
     "priceCents": 3100,
-    "image": "NP-101.webp"
+    "image": "fotos/NP-101.webp"
   },
   {
     "id": "NP-102",
-    "name": "Pingente São Jorge Aro Oval M #MC44",
+    "name": "Pingente SÃ£o Jorge Aro Oval M #MC44",
     "length": 0,
     "category": "pingente",
     "originalPriceCents": 5425,
     "priceCents": 8700,
-    "image": "NP-102.webp"
+    "image": "fotos/NP-102.webp"
   },
   {
     "id": "NP-103",
@@ -863,7 +862,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 18375,
     "priceCents": 29400,
-    "image": "NP-103.webp"
+    "image": "fotos/NP-103.webp"
   },
   {
     "id": "NP-104",
@@ -872,7 +871,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 10675,
     "priceCents": 17100,
-    "image": "NP-104.webp"
+    "image": "fotos/NP-104.webp"
   },
   {
     "id": "NP-105",
@@ -881,7 +880,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 13475,
     "priceCents": 21600,
-    "image": "NP-105.webp"
+    "image": "fotos/NP-105.webp"
   },
   {
     "id": "NP-106",
@@ -890,7 +889,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 1575,
     "priceCents": 2600,
-    "image": "NP-106.webp"
+    "image": "fotos/NP-106.webp"
   },
   {
     "id": "NP-107",
@@ -899,7 +898,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 3325,
     "priceCents": 5400,
-    "image": "NP-107.webp"
+    "image": "fotos/NP-107.webp"
   },
   {
     "id": "NP-108",
@@ -908,7 +907,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 2975,
     "priceCents": 4800,
-    "image": "NP-108.webp"
+    "image": "fotos/NP-108.webp"
   },
   {
     "id": "NP-109",
@@ -917,34 +916,34 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 4025,
     "priceCents": 6500,
-    "image": "NP-109.webp"
+    "image": "fotos/NP-109.webp"
   },
   {
     "id": "NP-110",
-    "name": "Pingente Medalha São Jorge Oval M #MC43",
+    "name": "Pingente Medalha SÃ£o Jorge Oval M #MC43",
     "length": 0,
     "category": "pingente",
     "originalPriceCents": 5425,
     "priceCents": 8700,
-    "image": "NP-110.webp"
+    "image": "fotos/NP-110.webp"
   },
   {
     "id": "NP-111",
-    "name": "Pingente Fé G #MC45",
+    "name": "Pingente FÃ© G #MC45",
     "length": 0,
     "category": "pingente",
     "originalPriceCents": 4900,
     "priceCents": 7900,
-    "image": "NP-111.webp"
+    "image": "fotos/NP-111.webp"
   },
   {
     "id": "NP-112",
-    "name": "Pingente São Jorge Aro GG #MC48",
+    "name": "Pingente SÃ£o Jorge Aro GG #MC48",
     "length": 0,
     "category": "pingente",
     "originalPriceCents": 19775,
     "priceCents": 31700,
-    "image": "NP-112.webp"
+    "image": "fotos/NP-112.webp"
   },
   {
     "id": "NP-113",
@@ -953,7 +952,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 15575,
     "priceCents": 25000,
-    "image": "NP-113.webp"
+    "image": "fotos/NP-113.webp"
   },
   {
     "id": "NP-114",
@@ -962,7 +961,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 3850,
     "priceCents": 6200,
-    "image": "NP-114.webp"
+    "image": "fotos/NP-114.webp"
   },
   {
     "id": "NP-115",
@@ -971,7 +970,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 2275,
     "priceCents": 3700,
-    "image": "NP-115.webp"
+    "image": "fotos/NP-115.webp"
   },
   {
     "id": "NP-116",
@@ -980,16 +979,16 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 4725,
     "priceCents": 7600,
-    "image": "NP-116.webp"
+    "image": "fotos/NP-116.webp"
   },
   {
     "id": "NP-117",
-    "name": "Pingente São Jorge Aro Trabalhado M #MC19",
+    "name": "Pingente SÃ£o Jorge Aro Trabalhado M #MC19",
     "length": 0,
     "category": "pingente",
     "originalPriceCents": 6125,
     "priceCents": 9800,
-    "image": "NP-117.webp"
+    "image": "fotos/NP-117.webp"
   },
   {
     "id": "NP-118",
@@ -998,7 +997,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 2975,
     "priceCents": 4800,
-    "image": "NP-118.webp"
+    "image": "fotos/NP-118.webp"
   },
   {
     "id": "NP-119",
@@ -1007,7 +1006,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 9800,
     "priceCents": 15700,
-    "image": "NP-119.webp"
+    "image": "fotos/NP-119.webp"
   },
   {
     "id": "NP-120",
@@ -1016,7 +1015,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 7875,
     "priceCents": 12600,
-    "image": "NP-120.webp"
+    "image": "fotos/NP-120.webp"
   },
   {
     "id": "NP-121",
@@ -1025,7 +1024,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 2450,
     "priceCents": 4000,
-    "image": "NP-121.webp"
+    "image": "fotos/NP-121.webp"
   },
   {
     "id": "NP-122",
@@ -1034,193 +1033,1755 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 6475,
     "priceCents": 10400,
-    "image": "NP-122.webp"
+    "image": "fotos/NP-122.webp"
   },
   {
     "id": "NP-123",
-    "name": "Pingente Cifrão M #MC03",
+    "name": "Pingente CifrÃ£o M #MC03",
     "length": 0,
     "category": "pingente",
     "originalPriceCents": 3150,
     "priceCents": 5100,
-    "image": "NP-123.webp"
+    "image": "fotos/NP-123.webp"
   },
   {
     "id": "NP-124",
-    "name": "Pingente São Jorge Grande #MC18",
+    "name": "Pingente SÃ£o Jorge Grande #MC18",
     "length": 0,
     "category": "pingente",
     "originalPriceCents": 10850,
     "priceCents": 17400,
-    "image": "NP-124.webp"
+    "image": "fotos/NP-124.webp"
   },
   {
     "id": "NP-125",
     "name": "Pingente Letra Cravejada B",
-    "priceCents": 4275,
+    "priceCents": 3200,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "NP-125.webp"
+    "image": "fotos/NP-125-preto.webp",
+    "collection": "letras",
+    "supplierPromoCents": 2130,
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
+    "originalImage": "fotos/NP-125-original.webp"
   },
   {
     "id": "NP-126",
     "name": "Pingente Letra Cravejada C",
-    "priceCents": 4275,
+    "priceCents": 3200,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "NP-126.webp"
+    "image": "fotos/NP-126-preto.webp",
+    "collection": "letras",
+    "supplierPromoCents": 2130,
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
+    "originalImage": "fotos/NP-126-original.webp"
   },
   {
     "id": "NP-127",
     "name": "Pingente Letra Cravejada D",
-    "priceCents": 4275,
+    "priceCents": 3200,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "NP-127.webp"
+    "image": "fotos/NP-127-preto.webp",
+    "collection": "letras",
+    "supplierPromoCents": 2130,
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
+    "originalImage": "fotos/NP-127-original.webp"
   },
   {
     "id": "NP-128",
     "name": "Pingente Letra Cravejada F",
-    "priceCents": 4275,
+    "priceCents": 3200,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "NP-128.webp"
+    "image": "fotos/NP-128-preto.webp",
+    "collection": "letras",
+    "supplierPromoCents": 2130,
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
+    "originalImage": "fotos/NP-128-original.webp"
   },
   {
     "id": "NP-129",
     "name": "Pingente Letra Cravejada G",
-    "priceCents": 4275,
+    "priceCents": 3200,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "NP-129.webp"
+    "image": "fotos/NP-129-preto.webp",
+    "collection": "letras",
+    "supplierPromoCents": 2130,
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
+    "originalImage": "fotos/NP-129-original.webp"
   },
   {
     "id": "NP-130",
     "name": "Pingente Letra Cravejada E",
-    "priceCents": 4275,
+    "priceCents": 3200,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "NP-130.webp"
+    "image": "fotos/NP-130-preto.webp",
+    "collection": "letras",
+    "supplierPromoCents": 2130,
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
+    "originalImage": "fotos/NP-130-original.webp"
   },
   {
     "id": "NP-131",
     "name": "Pingente Letra Cravejada I",
-    "priceCents": 4275,
+    "priceCents": 3200,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "NP-131.webp"
+    "image": "fotos/NP-131-preto.webp",
+    "collection": "letras",
+    "supplierPromoCents": 2130,
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
+    "originalImage": "fotos/NP-131-original.webp"
   },
   {
     "id": "NP-132",
     "name": "Pingente Letra Cravejada J",
-    "priceCents": 4275,
+    "priceCents": 3200,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "NP-132.webp"
+    "image": "fotos/NP-132-preto.webp",
+    "collection": "letras",
+    "supplierPromoCents": 2130,
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
+    "originalImage": "fotos/NP-132-original.webp"
   },
   {
     "id": "NP-133",
     "name": "Pingente Letra Cravejada K",
-    "priceCents": 4275,
+    "priceCents": 3200,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "NP-133.webp"
+    "image": "fotos/NP-133-preto.webp",
+    "collection": "letras",
+    "supplierPromoCents": 2130,
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
+    "originalImage": "fotos/NP-133-original.webp"
   },
   {
     "id": "NP-134",
     "name": "Pingente Letra Cravejada L",
-    "priceCents": 4275,
+    "priceCents": 3200,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "NP-134.webp"
+    "image": "fotos/NP-134-preto.webp",
+    "collection": "letras",
+    "supplierPromoCents": 2130,
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
+    "originalImage": "fotos/NP-134-original.webp"
   },
   {
     "id": "NP-135",
     "name": "Pingente Letra Cravejada H",
-    "priceCents": 4275,
+    "priceCents": 3200,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "NP-135.webp"
+    "image": "fotos/NP-135-preto.webp",
+    "collection": "letras",
+    "supplierPromoCents": 2130,
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
+    "originalImage": "fotos/NP-135-original.webp"
   },
   {
     "id": "NP-136",
     "name": "Pingente Letra Cravejada N",
-    "priceCents": 4275,
+    "priceCents": 3200,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "NP-136.webp"
+    "image": "fotos/NP-136-preto.webp",
+    "collection": "letras",
+    "supplierPromoCents": 2130,
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
+    "originalImage": "fotos/NP-136-original.webp"
   },
   {
     "id": "NP-137",
     "name": "Pingente Letra Cravejada O",
-    "priceCents": 4275,
+    "priceCents": 3200,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "NP-137.webp"
+    "image": "fotos/NP-137-preto.webp",
+    "collection": "letras",
+    "supplierPromoCents": 2130,
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
+    "originalImage": "fotos/NP-137-original.webp"
   },
   {
     "id": "NP-138",
     "name": "Pingente Letra Cravejada P",
-    "priceCents": 4275,
+    "priceCents": 3200,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "NP-138.webp"
+    "image": "fotos/NP-138-preto.webp",
+    "collection": "letras",
+    "supplierPromoCents": 2130,
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
+    "originalImage": "fotos/NP-138-original.webp"
   },
   {
     "id": "NP-139",
     "name": "Pingente Letra Cravejada M",
-    "priceCents": 4275,
+    "priceCents": 3200,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "NP-139.webp"
+    "image": "fotos/NP-139-preto.webp",
+    "collection": "letras",
+    "supplierPromoCents": 2130,
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
+    "originalImage": "fotos/NP-139-original.webp"
   },
   {
     "id": "NP-140",
     "name": "Pingente Letra Cravejada R",
-    "priceCents": 4275,
+    "priceCents": 3200,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "NP-140.webp"
+    "image": "fotos/NP-140-preto.webp",
+    "collection": "letras",
+    "supplierPromoCents": 2130,
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
+    "originalImage": "fotos/NP-140-original.webp"
   },
   {
     "id": "NP-141",
     "name": "Pingente Letra Cravejada S",
-    "priceCents": 4275,
+    "priceCents": 3200,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "NP-141.webp"
+    "image": "fotos/NP-141-preto.webp",
+    "collection": "letras",
+    "supplierPromoCents": 2130,
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
+    "originalImage": "fotos/NP-141-original.webp"
   },
   {
     "id": "NP-142",
     "name": "Pingente Letra Cravejada T",
-    "priceCents": 4275,
+    "priceCents": 3200,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "NP-142.webp"
+    "image": "fotos/NP-142-preto.webp",
+    "collection": "letras",
+    "supplierPromoCents": 2130,
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
+    "originalImage": "fotos/NP-142-original.webp"
   },
   {
     "id": "NP-143",
     "name": "Pingente Letra Cravejada Q",
-    "priceCents": 4275,
+    "priceCents": 3200,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "NP-143.webp"
+    "image": "fotos/NP-143-preto.webp",
+    "collection": "letras",
+    "supplierPromoCents": 2130,
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
+    "originalImage": "fotos/NP-143-original.webp"
   },
   {
     "id": "NP-144",
     "name": "Pingente Letra Cravejada V",
-    "priceCents": 4275,
+    "priceCents": 3200,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "NP-144.webp"
+    "image": "fotos/NP-144-preto.webp",
+    "collection": "letras",
+    "supplierPromoCents": 2130,
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
+    "originalImage": "fotos/NP-144-original.webp"
   },
   {
     "id": "NP-145",
     "name": "Pingente Letra Cravejada U",
-    "priceCents": 4275,
+    "priceCents": 3200,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "NP-145.webp"
+    "image": "fotos/NP-145-preto.webp",
+    "collection": "letras",
+    "supplierPromoCents": 2130,
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
+    "originalImage": "fotos/NP-145-original.webp"
+  },
+  {
+    "name": "Pulseira Trevo Vermelho Liso Meio",
+    "category": "feminino",
+    "collection": "trevos",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-trevo-vermelho-liso-meio-md",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/04/IMG_20260415_122710-puls-trevo-vermelho-liso-meio-13g.jpg",
+    "supplierPromoCents": 1940,
+    "priceCents": 3000,
+    "id": "NP-146",
+    "image": "fotos/NP-146-preto.webp",
+    "supplierName": "Pulseira Trevo Vermelho Liso Meio #MD",
+    "originalImage": "fotos/NP-146.webp"
+  },
+  {
+    "name": "Pulseira Trevo Azul Royal Liso Meio",
+    "category": "feminino",
+    "collection": "trevos",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-trevo-azul-royal-liso-meio-md",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/04/IMG_20260415_122608-pul-trevo-azul-royal-liso-meio-15g.jpg",
+    "supplierPromoCents": 2239,
+    "priceCents": 3400,
+    "id": "NP-147",
+    "image": "fotos/NP-147-preto.webp",
+    "supplierName": "Pulseira Trevo Azul Royal Liso Meio #MD",
+    "originalImage": "fotos/NP-147.webp"
+  },
+  {
+    "name": "Pulseira Trevo Verde Grande Lapidado Meio",
+    "category": "feminino",
+    "collection": "trevos",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-trevo-verde-grande-lapidado-meio-md",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/04/IMG_20260415_122324-pul-trevo-verde-grande-lapidado-meio-26g.jpg",
+    "supplierPromoCents": 3880,
+    "priceCents": 5900,
+    "id": "NP-148",
+    "image": "fotos/NP-148-preto.webp",
+    "supplierName": "Pulseira Trevo Verde Grande Lapidado Meio #MD",
+    "originalImage": "fotos/NP-148.webp"
+  },
+  {
+    "name": "Pulseira Trevo Rosa Pequeno Lapidado Meio",
+    "category": "feminino",
+    "collection": "trevos",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-trevo-rosa-pequeno-lapidado-meio-md",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/04/IMG_20260415_122514-puls-trevo-rosa-pequeno-lapidado-meio-17g.jpg",
+    "supplierPromoCents": 2537,
+    "priceCents": 3900,
+    "id": "NP-149",
+    "image": "fotos/NP-149-preto.webp",
+    "supplierName": "Pulseira Trevo Rosa Pequeno Lapidado Meio #MD",
+    "originalImage": "fotos/NP-149.webp"
+  },
+  {
+    "name": "Pulseira Trevo Roxo Grande Meio",
+    "category": "feminino",
+    "collection": "trevos",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-trevo-roxo-grande-meio-md",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/04/IMG_20260415_122017-pul-trevo-roxo-grande-liso-meio-19g.jpg",
+    "supplierPromoCents": 2836,
+    "priceCents": 4300,
+    "id": "NP-150",
+    "image": "fotos/NP-150-preto.webp",
+    "supplierName": "Pulseira Trevo Roxo Grande Meio #MD",
+    "originalImage": "fotos/NP-150.webp"
+  },
+  {
+    "name": "Pulseira 3 Trevo Roxo Grande Fio",
+    "category": "feminino",
+    "collection": "trevos",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-3-trevo-roxo-grande-fio-md",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/04/IMG_20260415_121618-pul-3-trevo-roxo-grande-fio-39G.jpg",
+    "supplierPromoCents": 5821,
+    "priceCents": 8800,
+    "id": "NP-151",
+    "image": "fotos/NP-151-preto.webp",
+    "supplierName": "Pulseira 3 Trevo Roxo Grande Fio #MD",
+    "originalImage": "fotos/NP-151.webp"
+  },
+  {
+    "name": "Pulseira 3 Trevo Rosa Lapidado Pequeno",
+    "category": "feminino",
+    "collection": "trevos",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-3-trevo-rosa-lapidado-pequeno",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/03/IMG_20250318_124818-25g-scaled.jpg",
+    "supplierPromoCents": 3731,
+    "priceCents": 5600,
+    "id": "NP-152",
+    "image": "fotos/NP-152-preto.webp",
+    "supplierName": "Pulseira 3 Trevo Rosa Lapidado Pequeno #MC",
+    "originalImage": "fotos/NP-152.webp"
+  },
+  {
+    "name": "Pulseira 3 Trevo Verde Lapidado Pequeno",
+    "category": "feminino",
+    "collection": "trevos",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-3-trevo-verde-lapidado-pequeno",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/03/IMG_20250318_124431-25g-scaled.jpg",
+    "supplierPromoCents": 3731,
+    "priceCents": 5600,
+    "id": "NP-153",
+    "image": "fotos/NP-153-preto.webp",
+    "supplierName": "Pulseira 3 Trevo Verde Lapidado Pequeno #MC",
+    "originalImage": "fotos/NP-153.webp"
+  },
+  {
+    "name": "Pulseira Trevo Verde Lapidado Pendente Meio",
+    "category": "feminino",
+    "collection": "trevos",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-trevo-verde-lapidado-pendente-meio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/01/IMG_20250122_132155-17-scaled.jpg",
+    "supplierPromoCents": 2537,
+    "priceCents": 3900,
+    "id": "NP-154",
+    "image": "fotos/NP-154-preto.webp",
+    "supplierName": "Pulseira Trevo Verde Lapidado Pendente Meio #MC",
+    "originalImage": "fotos/NP-154.webp"
+  },
+  {
+    "name": "Pulseira Trevo Branco Grande Pendente",
+    "category": "feminino",
+    "collection": "trevos",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-trevo-branco-grande-pendente",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/11/IMG_20241104_104152-16G-GRANDE-scaled.jpg",
+    "supplierPromoCents": 2388,
+    "priceCents": 3600,
+    "id": "NP-155",
+    "image": "fotos/NP-155-preto.webp",
+    "supplierName": "Pulseira Trevo Branco Grande Pendente #MC",
+    "originalImage": "fotos/NP-155.webp"
+  },
+  {
+    "name": "Pulseira 3 Trevo Preto Liso Fio",
+    "category": "feminino",
+    "collection": "trevos",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-3-trevo-preto-liso-fio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/11/IMG_20241104_100732-25G-LISO-scaled.jpg",
+    "supplierPromoCents": 4020,
+    "priceCents": 6100,
+    "id": "NP-156",
+    "image": "fotos/NP-156-preto.webp",
+    "supplierName": "Pulseira 3 Trevo Preto Liso Fio",
+    "originalImage": "fotos/NP-156.webp"
+  },
+  {
+    "name": "Pulseira Trevo Preto Liso Pendente",
+    "category": "feminino",
+    "collection": "trevos",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-trevo-preto-pendente-2",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/09/IMG_20240920_172248-14g-scaled.jpg",
+    "supplierPromoCents": 2239,
+    "priceCents": 3400,
+    "id": "NP-157",
+    "image": "fotos/NP-157-preto.webp",
+    "supplierName": "Pulseira Trevo Preto Liso Pendente #MC",
+    "originalImage": "fotos/NP-157.webp"
+  },
+  {
+    "name": "Pulseira 3 Trevo Rosa Liso",
+    "category": "feminino",
+    "collection": "trevos",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-3-trevo-rosa",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/09/IMG_20240914_175054-scaled.jpg",
+    "supplierPromoCents": 3731,
+    "priceCents": 5600,
+    "id": "NP-158",
+    "image": "fotos/NP-158-preto.webp",
+    "supplierName": "Pulseira 3 Trevo Rosa Liso #PU-04",
+    "originalImage": "fotos/NP-158.webp"
+  },
+  {
+    "name": "Pulseira Trevo Rosa Liso",
+    "category": "feminino",
+    "collection": "trevos",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-trevo-rosa",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/09/IMG_20240914_175135-scaled.jpg",
+    "supplierPromoCents": 2239,
+    "priceCents": 3400,
+    "id": "NP-159",
+    "image": "fotos/NP-159-preto.webp",
+    "supplierName": "Pulseira Trevo Rosa Liso #MC",
+    "originalImage": "fotos/NP-159.webp"
+  },
+  {
+    "name": "Pulseira Trevo Transparente Pequeno",
+    "category": "feminino",
+    "collection": "trevos",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-trevo-transparente",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/09/IMG_20240914_174014-scaled.jpg",
+    "supplierPromoCents": 2537,
+    "priceCents": 3900,
+    "id": "NP-160",
+    "image": "fotos/NP-160-preto.webp",
+    "supplierName": "Pulseira Trevo Transparente Pequeno #MC",
+    "originalImage": "fotos/NP-160.webp"
+  },
+  {
+    "name": "Pulseira Trevo Preto Lapidado Grande",
+    "category": "feminino",
+    "collection": "trevos",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-trevo-preto-grande",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/09/IMG_20240914_155307-26g-scaled.jpg",
+    "supplierPromoCents": 3880,
+    "priceCents": 5900,
+    "id": "NP-161",
+    "image": "fotos/NP-161-preto.webp",
+    "supplierName": "Pulseira Trevo Preto Lapidado Grande #MC",
+    "originalImage": "fotos/NP-161.webp"
+  },
+  {
+    "name": "Gargantilha Trevo Pequeno Verde Lapidado Meio 4 Zirconia Fio",
+    "category": "feminino",
+    "collection": "gargantilhas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/gargantilha-trevo-pequeno-verde-lapidado-meio-4-zirconia-fio-45cm-md",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/04/IMG_20260414_163742-garg-trevo-pequeno-verda-lapidado-com-4-zirc-fio-45cm-36g.jpg",
+    "supplierPromoCents": 5373,
+    "priceCents": 8100,
+    "id": "NP-162",
+    "image": "fotos/NP-162-preto.webp",
+    "supplierName": "Gargantilha Trevo Pequeno Verde Lapidado Meio 4 Zirconia Fio 45cm #MD",
+    "length": 45,
+    "originalImage": "fotos/NP-162.webp"
+  },
+  {
+    "name": "Gargantilha Trevo Azul Perola Meio",
+    "category": "feminino",
+    "collection": "gargantilhas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/gargantilha-trevo-azul-perola-meio-45cm-md",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/04/IMG_20260414_163936-garg-trevo-azul-perola-meio-45cm-23g.jpg",
+    "supplierPromoCents": 3433,
+    "priceCents": 5200,
+    "id": "NP-163",
+    "image": "fotos/NP-163-preto.webp",
+    "supplierName": "Gargantilha Trevo Azul Perola Meio 45cm #MD",
+    "length": 45,
+    "originalImage": "fotos/NP-163.webp"
+  },
+  {
+    "name": "Gargantilha Trevo Azul Royal Liso Meio",
+    "category": "feminino",
+    "collection": "gargantilhas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/gargantilha-trevo-azul-royal-liso-meio-45cm-md",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/04/IMG_20260414_163836-garg-trevo-azul-royal-liso-meio-45cm-23g.jpg",
+    "supplierPromoCents": 3433,
+    "priceCents": 5200,
+    "id": "NP-164",
+    "image": "fotos/NP-164-preto.webp",
+    "supplierName": "Gargantilha Trevo Azul Royal Liso Meio 45cm #MD",
+    "length": 45,
+    "originalImage": "fotos/NP-164.webp"
+  },
+  {
+    "name": "Gargantilha Trevo Rosa Liso Meio",
+    "category": "feminino",
+    "collection": "gargantilhas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/gargantilha-trevo-rosa-liso-meio-45cm-md",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/04/IMG_20260414_163536-garg-trevo-rosa-liso-meio-45cm-23g.jpg",
+    "supplierPromoCents": 3433,
+    "priceCents": 5200,
+    "id": "NP-165",
+    "image": "fotos/NP-165-preto.webp",
+    "supplierName": "Gargantilha Trevo Rosa Liso Meio 45cm #MD",
+    "length": 45,
+    "originalImage": "fotos/NP-165.webp"
+  },
+  {
+    "name": "Gargantilha 5 Trevo Rosa Liso",
+    "category": "feminino",
+    "collection": "gargantilhas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/gargantilha-5-trevo-rosa-liso-45cm-md",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/04/IMG_20260414_163443-garg-5-trevo-rosa-liso-45cm-46g.jpg",
+    "supplierPromoCents": 6865,
+    "priceCents": 10300,
+    "id": "NP-166",
+    "image": "fotos/NP-166-preto.webp",
+    "supplierName": "Gargantilha 5 Trevo Rosa Liso 45cm #MD",
+    "length": 45,
+    "originalImage": "fotos/NP-166.webp"
+  },
+  {
+    "name": "Gargantilha Trevo Grande Roxo Meio",
+    "category": "feminino",
+    "collection": "gargantilhas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/gargantilha-trevo-grande-roxo-meio-45cm-md",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/04/IMG_20260414_163323-garg-trevo-grande-roxo-meio-45cm-28g.jpg",
+    "supplierPromoCents": 4179,
+    "priceCents": 6300,
+    "id": "NP-167",
+    "image": "fotos/NP-167-preto.webp",
+    "supplierName": "Gargantilha Trevo Grande Roxo Meio 45cm #MD",
+    "length": 45,
+    "originalImage": "fotos/NP-167.webp"
+  },
+  {
+    "name": "Gargantilha 5 Trevo Grande Roxo",
+    "category": "feminino",
+    "collection": "gargantilhas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/gargantilha-5-trevo-grande-roxo-45cm-md",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/04/IMG_20260414_163221-garg-5-trevo-grande-roxo-45cm-67g.jpg",
+    "supplierPromoCents": 10000,
+    "priceCents": 15000,
+    "id": "NP-168",
+    "image": "fotos/NP-168-preto.webp",
+    "supplierName": "Gargantilha 5 Trevo Grande Roxo 45cm #MD",
+    "length": 45,
+    "originalImage": "fotos/NP-168.webp"
+  },
+  {
+    "name": "Gargantilha 5 Trevo Preto Liso",
+    "category": "feminino",
+    "collection": "gargantilhas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/gargantilha-5-trevo-preto-liso-40cm-2",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/09/IMG_20250320_105524-garg-5-trevo-liso-40cm-4.5g-scaled.jpg",
+    "supplierPromoCents": 6716,
+    "priceCents": 10100,
+    "id": "NP-169",
+    "image": "fotos/NP-169-preto.webp",
+    "supplierName": "Gargantilha 5 Trevo Preto Liso 45cm",
+    "length": 45,
+    "originalImage": "fotos/NP-169.webp"
+  },
+  {
+    "name": "Gargantilha 5 Trevo Branco",
+    "category": "feminino",
+    "collection": "gargantilhas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/gargantilha-5-trevo-branco-60cm",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250213_170116-scaled.jpg",
+    "supplierPromoCents": 7462,
+    "priceCents": 11200,
+    "id": "NP-170",
+    "image": "fotos/NP-170-preto.webp",
+    "supplierName": "Gargantilha 5 Trevo Branco 60cm #MC",
+    "length": 60,
+    "originalImage": "fotos/NP-170.webp"
+  },
+  {
+    "name": "Gargantilha 5 Trevo Azul Royal Resina",
+    "category": "feminino",
+    "collection": "gargantilhas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/gargantilha-5-trevo-azul-royal-40cm",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250213_170036-scaled.jpg",
+    "supplierPromoCents": 6418,
+    "priceCents": 9700,
+    "id": "NP-171",
+    "image": "fotos/NP-171-preto.webp",
+    "supplierName": "Gargantilha 5 Trevo Azul Royal Resina 40cm",
+    "length": 40,
+    "originalImage": "fotos/NP-171.webp"
+  },
+  {
+    "name": "Gargantilha 5 Trevo Verde Liso",
+    "category": "feminino",
+    "collection": "gargantilhas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/gargantilha-5-trevo-verde-liso-40cm",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250213_165936-scaled.jpg",
+    "supplierPromoCents": 6716,
+    "priceCents": 10100,
+    "id": "NP-172",
+    "image": "fotos/NP-172-preto.webp",
+    "supplierName": "Gargantilha 5 Trevo Verde Liso 40cm #MC",
+    "length": 40,
+    "originalImage": "fotos/NP-172.webp"
+  },
+  {
+    "name": "Gargantilha 5 Trevos Branco",
+    "category": "feminino",
+    "collection": "gargantilhas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/gargantilha-5-trevos-branco-40cm",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250213_165805-scaled.jpg",
+    "supplierPromoCents": 6716,
+    "priceCents": 10100,
+    "id": "NP-173",
+    "image": "fotos/NP-173-preto.webp",
+    "supplierName": "Gargantilha 5 Trevos Branco 40cm #MC",
+    "length": 40,
+    "originalImage": "fotos/NP-173.webp"
+  },
+  {
+    "name": "Gargantilha Trevo Branco Meio",
+    "category": "feminino",
+    "collection": "gargantilhas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/gargantilha-trevo-branco-meio-40cm",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/02/IMG_20250213_165036-scaled.jpg",
+    "supplierPromoCents": 3433,
+    "priceCents": 5200,
+    "id": "NP-174",
+    "image": "fotos/NP-174-preto.webp",
+    "supplierName": "Gargantilha Trevo Branco Meio 45cm #MC",
+    "length": 45,
+    "originalImage": "fotos/NP-174.webp"
+  },
+  {
+    "name": "Gargantilha Trevo Rosa Lapidado Grande Pendente",
+    "category": "feminino",
+    "collection": "gargantilhas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/gargantilha-trevo-rosa-lapidado-grande-pendente-meio-45cm",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/11/IMG_20241101_121951-32G-ROSA-LAPIDADO-GRANDE-45CM-scaled.jpg",
+    "supplierPromoCents": 4776,
+    "priceCents": 7200,
+    "id": "NP-175",
+    "image": "fotos/NP-175-preto.webp",
+    "supplierName": "Gargantilha Trevo Rosa Lapidado Grande Pendente 45cm #MC",
+    "length": 45,
+    "originalImage": "fotos/NP-175.webp"
+  },
+  {
+    "name": "Gargantilha Trevo Preto Grande Lapidado Meio",
+    "category": "feminino",
+    "collection": "gargantilhas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/gargantilha-trevo-preto-grande-lapidado-meio-45cm",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/11/IMG_20241101_121658-31G-TREVO-GRANDE-LAPIDADO-35CM-scaled.jpg",
+    "supplierPromoCents": 4627,
+    "priceCents": 7000,
+    "id": "NP-176",
+    "image": "fotos/NP-176-preto.webp",
+    "supplierName": "Gargantilha Trevo Preto Grande Lapidado Meio 45cm",
+    "length": 45,
+    "originalImage": "fotos/NP-176.webp"
+  },
+  {
+    "name": "Gargantilha 3 Borboletas Branca",
+    "category": "feminino",
+    "collection": "gargantilhas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/gargantilha-3-borboletas-branca-45cm",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/10/IMG_20241017_091958borboleta-branca-45cm-37g-scaled.jpg",
+    "supplierPromoCents": 6327,
+    "priceCents": 9500,
+    "id": "NP-177",
+    "image": "fotos/NP-177-preto.webp",
+    "supplierName": "Gargantilha 3 Borboletas Branca 45cm",
+    "length": 45,
+    "originalImage": "fotos/NP-177.webp"
+  },
+  {
+    "name": "Gargantilha Trevo Verde Pequeno com 4 Zirconias Fio",
+    "category": "feminino",
+    "collection": "gargantilhas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/colar-trevo-verde-lapidado-com-zirconias-fio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/09/IMG_20240920_202723-45g-60cm-scaled.jpg",
+    "supplierPromoCents": 6716,
+    "priceCents": 10100,
+    "id": "NP-178",
+    "image": "fotos/NP-178-preto.webp",
+    "supplierName": "Gargantilha Trevo Verde Pequeno com 4 Zirconias Fio 60cm #MC",
+    "length": 60,
+    "originalImage": "fotos/NP-178.webp"
+  },
+  {
+    "name": "Gargantilha 5 Trevo Rosa Liso Grande Fio",
+    "category": "feminino",
+    "collection": "gargantilhas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/gargantilha-5-trevo-rosa-40cm",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/09/IMG_20240914_174553-43g-40cm-scaled.jpg",
+    "supplierPromoCents": 9253,
+    "priceCents": 13900,
+    "id": "NP-179",
+    "image": "fotos/NP-179-preto.webp",
+    "supplierName": "Gargantilha 5 Trevo Rosa Liso Grande Fio 40cm",
+    "length": 40,
+    "originalImage": "fotos/NP-179.webp"
+  },
+  {
+    "name": "Gargantilha Trevo Verde Lapidado Meio",
+    "category": "feminino",
+    "collection": "gargantilhas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/gargantilha-trevo-verde-45cm",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/09/IMG_20240914_170403-24g-45cm-scaled.jpg",
+    "supplierPromoCents": 3731,
+    "priceCents": 5600,
+    "id": "NP-180",
+    "image": "fotos/NP-180-preto.webp",
+    "supplierName": "Gargantilha Trevo Verde Lapidado Meio 45cm #MC",
+    "length": 45,
+    "originalImage": "fotos/NP-180.webp"
+  },
+  {
+    "name": "Gargantilha Trevo Vermelho Liso",
+    "category": "feminino",
+    "collection": "gargantilhas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/gargantilha-trevo-vermelho-45cm",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/09/IMG_20240914_161424-24g-45cm-scaled.jpg",
+    "supplierPromoCents": 3731,
+    "priceCents": 5600,
+    "id": "NP-181",
+    "image": "fotos/NP-181-preto.webp",
+    "supplierName": "Gargantilha Trevo Vermelho Liso 45cm #MC",
+    "length": 45,
+    "originalImage": "fotos/NP-181.webp"
+  },
+  {
+    "name": "Gargantilha 5 Trevo Azul Lapidado",
+    "category": "feminino",
+    "collection": "gargantilhas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/gargantilha-5-trevo-azul-60cm",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/09/IMG_20240914_143154-65g-60cm-scaled.jpg",
+    "supplierPromoCents": 9701,
+    "priceCents": 14600,
+    "id": "NP-182",
+    "image": "fotos/NP-182-preto.webp",
+    "supplierName": "Gargantilha 5 Trevo Azul Lapidado 60cm #MC",
+    "length": 60,
+    "originalImage": "fotos/NP-182.webp"
+  },
+  {
+    "name": "Gargantilha Trevo Azul",
+    "category": "feminino",
+    "collection": "gargantilhas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/gargantilha-trevo-azul",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/09/IMG_20240912_104404-27g-45cm-scaled.jpg",
+    "supplierPromoCents": 4030,
+    "priceCents": 6100,
+    "id": "NP-183",
+    "image": "fotos/NP-183-preto.webp",
+    "supplierName": "Gargantilha Trevo Azul 45cm #MC",
+    "length": 45,
+    "originalImage": "fotos/NP-183.webp"
+  },
+  {
+    "name": "Gargantilha 5 Trevo Azul Lapidado",
+    "category": "feminino",
+    "collection": "gargantilhas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/gargantilha-5-trevo-azul-40cm",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/09/IMG_20240912_104303-58g-40cm-scaled.jpg",
+    "supplierPromoCents": 8656,
+    "priceCents": 13000,
+    "id": "NP-184",
+    "image": "fotos/NP-184-preto.webp",
+    "supplierName": "Gargantilha 5 Trevo Azul Lapidado 40cm #MC",
+    "length": 40,
+    "originalImage": "fotos/NP-184.webp"
+  },
+  {
+    "name": "Pulseira 4 Zirconia Baguete Grande Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-4-zirconia-baguete-grande-meio-pu-45",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/04/IMG_20260408_115314.jpg",
+    "supplierPromoCents": 3283,
+    "priceCents": 5000,
+    "id": "NP-185",
+    "image": "fotos/NP-185-preto.webp",
+    "supplierName": "Pulseira 4 Zirconia Baguete Grande Meio #PU-45",
+    "originalImage": "fotos/NP-185.webp"
+  },
+  {
+    "name": "Pulseira 4 Borboleta Zirconia Color fio RVVA",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-4-borboleta-zirconia-color-fio-rvva-pu-33",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/03/IMG_20260325_171319-Pul-4-borboleta-zirco-color-fio-RVVA-MD1-19g.jpg",
+    "supplierPromoCents": 2836,
+    "priceCents": 4300,
+    "id": "NP-186",
+    "image": "fotos/NP-186-preto.webp",
+    "supplierName": "Pulseira 4 Borboleta Zirconia Color fio RVVA #PU-33",
+    "originalImage": "fotos/NP-186.webp"
+  },
+  {
+    "name": "Pulseira 3 Borboleta Zirconia Verde Fio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-3-borboleta-zirconia-verde-fio-pu-32",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/03/IMG_20260325_171209-pul-3-borbole-zirco-verde-fio-MD1-18g.jpg",
+    "supplierPromoCents": 2686,
+    "priceCents": 4100,
+    "id": "NP-187",
+    "image": "fotos/NP-187-preto.webp",
+    "supplierName": "Pulseira 3 Borboleta Zirconia Verde Fio #PU-32",
+    "originalImage": "fotos/NP-187.webp"
+  },
+  {
+    "name": "Pulseira 6 Zirconias Gota Color Meio AMVARA",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-6-zirconias-gota-color-meio-amvara-pu-31",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/03/IMG_20260325_181841.jpg",
+    "supplierPromoCents": 3134,
+    "priceCents": 4800,
+    "id": "NP-188",
+    "image": "fotos/NP-188-preto.webp",
+    "supplierName": "Pulseira 6 Zirconias Gota Color Meio AMVARA #PU-31",
+    "originalImage": "fotos/NP-188.webp"
+  },
+  {
+    "name": "Pulseira 7 Zirconia Color Pequena Pendente Fio ALVBRAP",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-7-zirconia-color-pequena-pendente-fio-alvbrap-md1",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/03/IMG_20260324_171632-pul-7-zirco-color-pequena-pend-fio-ALVBRAP-MD1-22g.jpg",
+    "supplierPromoCents": 3283,
+    "priceCents": 5000,
+    "id": "NP-189",
+    "image": "fotos/NP-189-preto.webp",
+    "supplierName": "Pulseira 7 Zirconia Color Pequena Pendente Fio ALVBRAP #PU-36",
+    "originalImage": "fotos/NP-189.webp"
+  },
+  {
+    "name": "Pulseira 4 Zirconia Coração Color Fio VVRA",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-4-zirconia-coracao-color-fio-vvra-pu-14",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/03/IMG_20260325_132804-pul-4-zirco-coracao-color-fio-VRRA-MD1-26g.jpg",
+    "supplierPromoCents": 3880,
+    "priceCents": 5900,
+    "id": "NP-190",
+    "image": "fotos/NP-190-preto.webp",
+    "supplierName": "Pulseira 4 Zirconia Coração Color Fio VVRA #PU-14",
+    "originalImage": "fotos/NP-190.webp"
+  },
+  {
+    "name": "Pulseira 6 Zirconia Coração Verde Mosaico Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-6-zirconia-coracao-verde-mosaico-meio-md1",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/03/IMG_20260324_180153-pul-6-zirco-coracao-verde-mosaico-meio-MD1-19g.jpg",
+    "supplierPromoCents": 2836,
+    "priceCents": 4300,
+    "id": "NP-191",
+    "image": "fotos/NP-191-preto.webp",
+    "supplierName": "Pulseira 6 Zirconia Coração Verde Mosaico Meio #PU-17",
+    "originalImage": "fotos/NP-191.webp"
+  },
+  {
+    "name": "Pulseira 8 Zirconia Azul Claro Fio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-8-zirconia-azul-claro-fio-md1",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/03/IMG_20260324_180433-pul-8-zirco-azul-claro-fio-MD1-2g.jpg",
+    "supplierPromoCents": 2985,
+    "priceCents": 4500,
+    "id": "NP-192",
+    "image": "fotos/NP-192-preto.webp",
+    "supplierName": "Pulseira 8 Zirconia Azul Claro Fio #MD1",
+    "originalImage": "fotos/NP-192.webp"
+  },
+  {
+    "name": "Pulseira 8 Zirconia Rosa Clara Pequena Fio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-8-zirconia-rosa-clara-pequena-fio-md1",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/03/IMG_20260324_180710-pul-8-zirc-rosa-clara-pequena-fio-MD1-2g.jpg",
+    "supplierPromoCents": 2985,
+    "priceCents": 4500,
+    "id": "NP-193",
+    "image": "fotos/NP-193-preto.webp",
+    "supplierName": "Pulseira 8 Zirconia Rosa Clara Pequena Fio #MD1",
+    "originalImage": "fotos/NP-193.webp"
+  },
+  {
+    "name": "Pulseira 5 Zirconia Rosa Clara Lisa Fio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-5-zirconia-rosa-clara-lisa-fio-md1",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/03/IMG_20260324_171437-pul-4-zirco-rosa-clara-lisa-fio-MD1-22g.jpg",
+    "supplierPromoCents": 3283,
+    "priceCents": 5000,
+    "id": "NP-194",
+    "image": "fotos/NP-194-preto.webp",
+    "supplierName": "Pulseira 5 Zirconia Rosa Clara Lisa Fio #MD1",
+    "originalImage": "fotos/NP-194.webp"
+  },
+  {
+    "name": "Pulseira 6 Zirconia Coração Vermelho Mosaico Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-6-zirconia-coracao-vermelho-mosaico-meio-md1",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/03/IMG_20260324_175942-pul-6-zirc-coracao-vermelho-mosaico-meio-MD1-19g.jpg",
+    "supplierPromoCents": 2836,
+    "priceCents": 4300,
+    "id": "NP-195",
+    "image": "fotos/NP-195-preto.webp",
+    "supplierName": "Pulseira 6 Zirconia Coração Vermelho Mosaico Meio #PU-19",
+    "originalImage": "fotos/NP-195.webp"
+  },
+  {
+    "name": "Pulseira 8 Zirconia Coração Pequeno Laranja Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-8-zirconia-coracao-pequeno-laranja-meio-pu-15",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/03/IMG_20260324_180251-pul-8-zirc-coracao-laranja-pequeno-meio-MD1-19G.jpg",
+    "supplierPromoCents": 2686,
+    "priceCents": 4100,
+    "id": "NP-196",
+    "image": "fotos/NP-196-preto.webp",
+    "supplierName": "Pulseira 8 Zirconia Coração Pequeno Laranja Meio #PU-15",
+    "originalImage": "fotos/NP-196.webp"
+  },
+  {
+    "name": "Pulseira 5 Zirconias Navete Pequenas Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-5-zirconias-navete-meio-md1",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/03/IMG_20260324_120712-puls-5-zirconis-navate-meio-MD1-17G.jpg",
+    "supplierPromoCents": 2537,
+    "priceCents": 3900,
+    "id": "NP-197",
+    "image": "fotos/NP-197-preto.webp",
+    "supplierName": "Pulseira 5 Zirconias Navete Pequenas Meio #MD1",
+    "originalImage": "fotos/NP-197.webp"
+  },
+  {
+    "name": "Pulseira 5 Zircônias Navete Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-5-zirconias-navete-meio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/12/IMG_20251127_102112-pul-5-zirc-navete-meio-21g-scaled.jpg",
+    "supplierPromoCents": 3283,
+    "priceCents": 5000,
+    "id": "NP-198",
+    "image": "fotos/NP-198-preto.webp",
+    "supplierName": "Pulseira 5 Zircônias Navete Meio #PU-46",
+    "originalImage": "fotos/NP-198.webp"
+  },
+  {
+    "name": "Pulseira 2 Zircônias 3 Moedas Vazadas Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-2-zirconias-3-moedas-vazadas-meio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/12/IMG_20251127_101956-pul-2-zirco-3-moedas-vazadas-meio-19g-scaled.jpg",
+    "supplierPromoCents": 2985,
+    "priceCents": 4500,
+    "id": "NP-199",
+    "image": "fotos/NP-199-preto.webp",
+    "supplierName": "Pulseira 2 Zircônias 3 Moedas Vazadas Meio #PU-58",
+    "originalImage": "fotos/NP-199.webp"
+  },
+  {
+    "name": "Pulseira 2 Zircônias Coração Love Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-2-zirconias-coracao-love-meio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/12/IMG_20251127_101707-pul-2-zirc-coracao-love-meio-35g-scaled.jpg",
+    "supplierPromoCents": 5224,
+    "priceCents": 7900,
+    "id": "NP-200",
+    "image": "fotos/NP-200-preto.webp",
+    "supplierName": "Pulseira 2 Zircônias Coração Love Meio #PU-92",
+    "originalImage": "fotos/NP-200.webp"
+  },
+  {
+    "name": "Pulseira 2 Zircônias Circulo Tubinho Grande Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-2-zirconias-circulo-tubinho-grande-meio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/12/IMG_20251127_101555-pul-2-zico-circulo-tubinho-grande-meio-2g-scaled.jpg",
+    "supplierPromoCents": 2985,
+    "priceCents": 4500,
+    "id": "NP-201",
+    "image": "fotos/NP-201-preto.webp",
+    "supplierName": "Pulseira 2 Zircônias Circulo Tubinho Grande Meio #PU-55",
+    "originalImage": "fotos/NP-201.webp"
+  },
+  {
+    "name": "Pulseira 4 Zircônias Navete Fio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-4-zirconias-navete-fio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/12/IMG_20251127_101134-pul-4-zirco-navete-fio-21g-scaled.jpg",
+    "supplierPromoCents": 3134,
+    "priceCents": 4800,
+    "id": "NP-202",
+    "image": "fotos/NP-202-preto.webp",
+    "supplierName": "Pulseira 4 Zircônias Navete Fio #PU-47",
+    "originalImage": "fotos/NP-202.webp"
+  },
+  {
+    "name": "Pulseira 2 Zirconias Pendente Fio 1 Rabo de Sereia Pendente Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-2-zirconias-pendente-fio-1-rabo-de-sereia-pendente-meio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/12/IMG_20251127_100807-pul-2-zirco-pend-fio-1-rabo-de-serai-pend-meio-2g-scaled.jpg",
+    "supplierPromoCents": 2985,
+    "priceCents": 4500,
+    "id": "NP-203",
+    "image": "fotos/NP-203-preto.webp",
+    "supplierName": "Pulseira 2 Zirconias Pendente Fio 1 Rabo de Sereia Pendente Meio #PU-82",
+    "originalImage": "fotos/NP-203.webp"
+  },
+  {
+    "name": "Pulseira 6 Zirconias Coração Meio Lapidado Mosaico",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-6-zirconias-coracao-meio-lapidado-mosaico",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/12/IMG_20251127_095806-pul-6-zirconia-coracao-meio-lapidado-mosaico-24g-scaled.jpg",
+    "supplierPromoCents": 2988,
+    "priceCents": 4500,
+    "id": "NP-204",
+    "image": "fotos/NP-204-preto.webp",
+    "supplierName": "Pulseira 6 Zirconias Coração Meio Lapidado Mosaico",
+    "originalImage": "fotos/NP-204.webp"
+  },
+  {
+    "name": "Pulseira 7 Zircônias Coração Fio Lapidado Mosaico",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-7-zirconias-coracao-fio-lapidado-mosaico",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/12/IMG_20251127_095419-pul-7-zirconia-coralcao-fio-lapidado-mosaico-scaled.jpg",
+    "supplierPromoCents": 4030,
+    "priceCents": 6100,
+    "id": "NP-205",
+    "image": "fotos/NP-205-preto.webp",
+    "supplierName": "Pulseira 7 Zircônias Coração Fio Lapidado Mosaico #MD",
+    "originalImage": "fotos/NP-205.webp"
+  },
+  {
+    "name": "Pulseira 5 Zircônias Baguete Meio Pequena",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-5-zirconias-baguete-meio-pequena",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/12/IMG_20251127_095315-pul-5-zirconi-baguete-meio-pequen-2g-scaled.jpg",
+    "supplierPromoCents": 2985,
+    "priceCents": 4500,
+    "id": "NP-206",
+    "image": "fotos/NP-206-preto.webp",
+    "supplierName": "Pulseira 5 Zircônias Baguete Meio Pequena #PU-44",
+    "originalImage": "fotos/NP-206.webp"
+  },
+  {
+    "name": "Pulseira 6 Zirconia Coração Tubinho Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-6-zirconia-coracao-tubinho-meio-2",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/12/IMG_20251127_095202-pul-6-zirconia-coracao-tubinho-meio-21g-1-scaled.jpg",
+    "supplierPromoCents": 3283,
+    "priceCents": 5000,
+    "id": "NP-207",
+    "image": "fotos/NP-207-preto.webp",
+    "supplierName": "Pulseira 6 Zirconia Coração Tubinho Meio #PU-56",
+    "originalImage": "fotos/NP-207.webp"
+  },
+  {
+    "name": "Pulseira 5 Zircônias Estrela Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-5-zirconias-estrela-meio-md",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/12/IMG_20251129_123107-PUL-5-ZIRCONIA-ESTRELA-MEIO-2G-MD-scaled.jpg",
+    "supplierPromoCents": 2686,
+    "priceCents": 4100,
+    "id": "NP-208",
+    "image": "fotos/NP-208-preto.webp",
+    "supplierName": "Pulseira 5 Zircônias Estrela Meio #PU-49",
+    "originalImage": "fotos/NP-208.webp"
+  },
+  {
+    "name": "Pulseira 4 Zircônias Estrela Color Fio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-4-zirconias-estrela-color-fio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/11/IMG_20251125_175500-pul-4-zirconia-estrela-color-fio-18G-scaled.jpg",
+    "supplierPromoCents": 2686,
+    "priceCents": 4100,
+    "id": "NP-209",
+    "image": "fotos/NP-209-preto.webp",
+    "supplierName": "Pulseira 4 Zircônias Estrela Color Fio #PU-12",
+    "originalImage": "fotos/NP-209.webp"
+  },
+  {
+    "name": "Pulseira 4 Zircônias Color Fio - RVAR",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pul-4-zirconias-color-fio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/11/IMG_20251125_175306-pul-4-zirc-color-fio-18G-scaled.jpg",
+    "supplierPromoCents": 2686,
+    "priceCents": 4100,
+    "id": "NP-210",
+    "image": "fotos/NP-210-preto.webp",
+    "supplierName": "Pulseira 4 Zircônias Color Fio - RVAR #PU-11",
+    "originalImage": "fotos/NP-210.webp"
+  },
+  {
+    "name": "Pulseira 4 Zircônia Gota Pequena Color Fio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-4-zirconia-gota-pequena-color-fio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/11/IMG_20251125_174824-pul-4-zirc-gota-pequena-color-fio-16G-scaled.jpg",
+    "supplierPromoCents": 2388,
+    "priceCents": 3600,
+    "id": "NP-211",
+    "image": "fotos/NP-211-preto.webp",
+    "supplierName": "Pulseira 4 Zircônia Gota Pequena Color Fio #PU-13",
+    "originalImage": "fotos/NP-211.webp"
+  },
+  {
+    "name": "Pulseira 5 Zircônias Navete Cinza Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-5-zirconias-navete-cinza-meio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/11/IMG_20251125_174710-pul-5-zirc-navete-cinza-meio-2G-scaled.jpg",
+    "supplierPromoCents": 2985,
+    "priceCents": 4500,
+    "id": "NP-212",
+    "image": "fotos/NP-212-preto.webp",
+    "supplierName": "Pulseira 5 Zircônias Navete Cinza Meio #MD",
+    "originalImage": "fotos/NP-212.webp"
+  },
+  {
+    "name": "Pulseira 5 Zirconias Coração Pequeno Color",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-5-zirconias-coracao-pequeno-color",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/11/IMG_20251125_172814-pul-5-zirc-coracao-pequeno-color-15G-scaled.jpg",
+    "supplierPromoCents": 2388,
+    "priceCents": 3600,
+    "id": "NP-213",
+    "image": "fotos/NP-213-preto.webp",
+    "supplierName": "Pulseira 5 Zirconias Coração Pequeno Color #PU-41",
+    "originalImage": "fotos/NP-213.webp"
+  },
+  {
+    "name": "Pulseira 5 Zircônias Borboleta Rosa Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-4-zirconias-borboleta-rosa-meio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/11/IMG_20251125_172644-pul-4-zirc-borboleta-rosa-meio-18G-scaled.jpg",
+    "supplierPromoCents": 2537,
+    "priceCents": 3900,
+    "id": "NP-214",
+    "image": "fotos/NP-214-preto.webp",
+    "supplierName": "Pulseira 5 Zircônias Borboleta Rosa Meio #PU-27",
+    "originalImage": "fotos/NP-214.webp"
+  },
+  {
+    "name": "Pulseira 7 Zircônias Coração Azul Tiffani Fio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-7-zirconias-coracao-azul-tiffani-fio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/11/IMG_20251125_172539-pul-7-zirc-coracao-AZUL-TIFANI-fio-27G-scaled.jpg",
+    "supplierPromoCents": 4030,
+    "priceCents": 6100,
+    "id": "NP-215",
+    "image": "fotos/NP-215-preto.webp",
+    "supplierName": "Pulseira 7 Zircônias Coração Azul Tiffani Fio #MD",
+    "originalImage": "fotos/NP-215.webp"
+  },
+  {
+    "name": "Pulseira 5 Zircônias Borboleta Verde Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-4-zirconias-borboleta-verde-meio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/11/IMG_20251125_172452-pul-4-zirc-borboleta-verde-meio-18G-scaled.jpg",
+    "supplierPromoCents": 2686,
+    "priceCents": 4100,
+    "id": "NP-216",
+    "image": "fotos/NP-216-preto.webp",
+    "supplierName": "Pulseira 5 Zircônias Borboleta Verde Meio",
+    "originalImage": "fotos/NP-216.webp"
+  },
+  {
+    "name": "Pulseira 5 Zircônias Borboleta Vermelha Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-5-zirconias-borboleta-vermelha-meio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/11/IMG_20251125_172138-pul-5-zirco-borboleta-vermelha-meio-19G-scaled.jpg",
+    "supplierPromoCents": 2836,
+    "priceCents": 4300,
+    "id": "NP-217",
+    "image": "fotos/NP-217-preto.webp",
+    "supplierName": "Pulseira 5 Zircônias Borboleta Vermelha Meio #PU-28",
+    "originalImage": "fotos/NP-217.webp"
+  },
+  {
+    "name": "Pulseira 7 Zircônia Coração Vermelho Fio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-7-zirconia-coracao-vermelho-fio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/11/IMG_20251125_172019-pul-7-zirc-coracao-vermelho-fio-26g-scaled.jpg",
+    "supplierPromoCents": 3880,
+    "priceCents": 5900,
+    "id": "NP-218",
+    "image": "fotos/NP-218-preto.webp",
+    "supplierName": "Pulseira 7 Zircônia Coração Vermelho Fio #MD",
+    "originalImage": "fotos/NP-218.webp"
+  },
+  {
+    "name": "Pulseira 5 Zirconias Coração Color Meio RVRVA",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-5-zirconias-coracao-color-meio-rvrva",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/11/IMG_20251125_171918-pul-5-zirco-coracao-color-meio-RVRVA-17g-scaled.jpg",
+    "supplierPromoCents": 2537,
+    "priceCents": 3900,
+    "id": "NP-219",
+    "image": "fotos/NP-219-preto.webp",
+    "supplierName": "Pulseira 5 Zirconias Coração Color Meio RVRVA #PU-03",
+    "originalImage": "fotos/NP-219.webp"
+  },
+  {
+    "name": "Pulseira 4 Zircônias Baguete Color  Pequena LVRA",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-4-zirconias-baguete-color-pequena-lvra",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/11/IMG_20251125_171647-pul-4-zirc-baguete-color-pequena-LVRA-18g-scaled.jpg",
+    "supplierPromoCents": 2686,
+    "priceCents": 4100,
+    "id": "NP-220",
+    "image": "fotos/NP-220-preto.webp",
+    "supplierName": "Pulseira 4 Zircônias Baguete Color  Pequena LVRA #PU-10",
+    "originalImage": "fotos/NP-220.webp"
+  },
+  {
+    "name": "Pulseira Zirconia Verde Pendente Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-zirconia-verde-pendente-meio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/11/IMG_20251125_171556-pul-zirc-verde-pend-meio-15g-65MM-scaled.jpg",
+    "supplierPromoCents": 2537,
+    "priceCents": 3900,
+    "id": "NP-221",
+    "image": "fotos/NP-221-preto.webp",
+    "supplierName": "Pulseira Zirconia Verde Pendente Meio #PU-05",
+    "originalImage": "fotos/NP-221.webp"
+  },
+  {
+    "name": "Pulseira 4 Zirconias Azul Claro Resina Fio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-4-zirconias-azul-claro-resina-fio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/11/IMG_20251125_131850-pul-4-zirco-resina-azul-claro-fio-31G-9mm-scaled.jpg",
+    "supplierPromoCents": 3859,
+    "priceCents": 5800,
+    "id": "NP-222",
+    "image": "fotos/NP-222-preto.webp",
+    "supplierName": "Pulseira 4 Zirconias Azul Claro Resina Fio #PU-147",
+    "originalImage": "fotos/NP-222.webp"
+  },
+  {
+    "name": "Pulseira 4 Zircônias Coração Color  VRRV",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-4-zirconias-coracao-color-vrrv",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/11/IMG_20251125_131155-19G-pul-4-zirc-coracao-color-VRRV-19g-scaled.jpg",
+    "supplierPromoCents": 3880,
+    "priceCents": 5900,
+    "id": "NP-223",
+    "image": "fotos/NP-223-preto.webp",
+    "supplierName": "Pulseira 4 Zircônias Coração Color  VRRV",
+    "originalImage": "fotos/NP-223.webp"
+  },
+  {
+    "name": "Pulseira 4 Zircônias Vermelha Resina Fio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-4-zirconias-vermelha-resina-fio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/11/IMG_20251125_130801-28G-pul-4-zirconia-resina-vermelha-fio-28g-9mm-scaled.jpg",
+    "supplierPromoCents": 3112,
+    "priceCents": 4700,
+    "id": "NP-224",
+    "image": "fotos/NP-224-preto.webp",
+    "supplierName": "Pulseira 4 Zircônias Vermelha Resina Fio",
+    "originalImage": "fotos/NP-224.webp"
+  },
+  {
+    "name": "Pulseira 4 Zircônias Azul Lapidado Mosaico Fio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-5-zirconias-azul-lapidado-mosaico-fio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/11/IMG_20251125_130647-pul-4-zirc-azul-lapidado-mosaico-fio-25G-9mm-scaled.jpg",
+    "supplierPromoCents": 3731,
+    "priceCents": 5600,
+    "id": "NP-225",
+    "image": "fotos/NP-225-preto.webp",
+    "supplierName": "Pulseira 4 Zircônias Azul Lapidado Mosaico Fio #PU-98",
+    "originalImage": "fotos/NP-225.webp"
+  },
+  {
+    "name": "Pulseira 6 Zircônias Rosa Claro Fio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-6-zirconias-rosa-claro",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/11/IMG_20251125_130123-pul-6-zirc-ROSA-CLARO-fio-19G-scaled.jpg",
+    "supplierPromoCents": 2836,
+    "priceCents": 4300,
+    "id": "NP-226",
+    "image": "fotos/NP-226-preto.webp",
+    "supplierName": "Pulseira 6 Zircônias Rosa Claro Fio",
+    "originalImage": "fotos/NP-226.webp"
+  },
+  {
+    "name": "Pulseira 5 Zircônias Borboletas Color VVARA",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-5-zirconias-borboletas-color",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/11/IMG_20251125_125911-pul-5-zirco-borboleta-color-VVLRA-19G-scaled.jpg",
+    "supplierPromoCents": 2836,
+    "priceCents": 4300,
+    "id": "NP-227",
+    "image": "fotos/NP-227-preto.webp",
+    "supplierName": "Pulseira 5 Zircônias Borboletas Color VVARA #PU-30",
+    "originalImage": "fotos/NP-227.webp"
+  },
+  {
+    "name": "Pulseira 5 Zirconias Branca Leitosa Fio 4 Luas Pendentes",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-4-zirconias-branca-leitosa-fio-4-luas-pendentes",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/01/IMG_20250122_171902-31g-scaled.jpg",
+    "supplierPromoCents": 4776,
+    "priceCents": 7200,
+    "id": "NP-228",
+    "image": "fotos/NP-228-preto.webp",
+    "supplierName": "Pulseira 5 Zirconias Branca Leitosa Fio 4 Luas Pendentes #PU-88",
+    "originalImage": "fotos/NP-228.webp"
+  },
+  {
+    "name": "Pulseira 5 Zirconias Estrelas Color Pendente",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-5-zirconias-estrelas-color-pendente",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/01/IMG_20250122_170833-2g-scaled.jpg",
+    "supplierPromoCents": 2490,
+    "priceCents": 3800,
+    "id": "NP-229",
+    "image": "fotos/NP-229-preto.webp",
+    "supplierName": "Pulseira 5 Zirconias Estrelas Color Pendente #PU-40",
+    "originalImage": "fotos/NP-229.webp"
+  },
+  {
+    "name": "Pulseira 5 Zirconias Gota Color Pendente VVARA",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-6-zirconias-gota-color-pendente",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/01/IMG_20250122_170218-17g-scaled.jpg",
+    "supplierPromoCents": 2388,
+    "priceCents": 3600,
+    "id": "NP-230",
+    "image": "fotos/NP-230-preto.webp",
+    "supplierName": "Pulseira 5 Zirconias Gota Color Pendente VVARA #PU-39",
+    "originalImage": "fotos/NP-230.webp"
+  },
+  {
+    "name": "Pulseira 6 Zirconias Verde Claro Coração Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-6-zirconias-verde-claro-coracao-meio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/01/IMG_20250122_162157-verde-claro-21g-scaled.jpg",
+    "supplierPromoCents": 3134,
+    "priceCents": 4800,
+    "id": "NP-231",
+    "image": "fotos/NP-231-preto.webp",
+    "supplierName": "Pulseira 6 Zirconias Verde Claro Coração Meio #MD",
+    "originalImage": "fotos/NP-231.webp"
+  },
+  {
+    "name": "Pulseira 6 Zirconias Pink Infinito Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-6-zirconias-pink-infinito-meio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/01/IMG_20250122_161519-pink-21g-scaled.jpg",
+    "supplierPromoCents": 3134,
+    "priceCents": 4800,
+    "id": "NP-232",
+    "image": "fotos/NP-232-preto.webp",
+    "supplierName": "Pulseira 6 Zirconias Pink Infinito Meio #PU-24",
+    "originalImage": "fotos/NP-232.webp"
+  },
+  {
+    "name": "Pulseira Zirconias Terço",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-zirconias-terco",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/11/IMG_20241028_141142-35g-scaled.jpg",
+    "supplierPromoCents": 5224,
+    "priceCents": 7900,
+    "id": "NP-233",
+    "image": "fotos/NP-233-preto.webp",
+    "supplierName": "Pulseira Zirconias Terço #PU-65",
+    "originalImage": "fotos/NP-233.webp"
+  },
+  {
+    "name": "Pulseira 5 Zirconias Color Pendente Fio 6mm ARVPR",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-5-zirconias-color-pendente-fio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/10/IMG_20241019_192325-22g-scaled.jpg",
+    "supplierPromoCents": 3283,
+    "priceCents": 5000,
+    "id": "NP-234",
+    "image": "fotos/NP-234-preto.webp",
+    "supplierName": "Pulseira 5 Zirconias Color Pendente Fio 6mm ARVPR #PU-35",
+    "originalImage": "fotos/NP-234.webp"
+  },
+  {
+    "name": "Pulseira 2 Zirconias 3 Coração Vazado Intercalados Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-2-zirconias-3-coracao-vazado-meio",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/10/IMG_20241019_191806-21g-scaled.jpg",
+    "supplierPromoCents": 2985,
+    "priceCents": 4500,
+    "id": "NP-235",
+    "image": "fotos/NP-235-preto.webp",
+    "supplierName": "Pulseira 2 Zirconias 3 Coração Vazado Intercalados Meio #PU-57",
+    "originalImage": "fotos/NP-235.webp"
+  },
+  {
+    "name": "Pulseira 3 Zirconias Borboletas Verde Fio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-montagem-borboleta-zirc-verde",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/09/IMG_20240903_180018-19g-scaled.jpg",
+    "supplierPromoCents": 2686,
+    "priceCents": 4100,
+    "id": "NP-236",
+    "image": "fotos/NP-236-preto.webp",
+    "supplierName": "Pulseira 3 Zirconias Borboletas Verde Fio",
+    "originalImage": "fotos/NP-236.webp"
+  },
+  {
+    "name": "Pulseira 4 Zirconias Menina Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-montagem-menina",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/09/IMG_20240902_191204-21g-scaled.jpg",
+    "supplierPromoCents": 2836,
+    "priceCents": 4300,
+    "id": "NP-237",
+    "image": "fotos/NP-237-preto.webp",
+    "supplierName": "Pulseira 4 Zirconias Menina Meio #PU-62",
+    "originalImage": "fotos/NP-237.webp"
+  },
+  {
+    "name": "Pulseira 4 Zirconia Baguetes Media Fio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-montagem-com-zirconia-61",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/08/IMG_20240803_112923-24G-scaled.jpg",
+    "supplierPromoCents": 3283,
+    "priceCents": 5000,
+    "id": "NP-238",
+    "image": "fotos/NP-238-preto.webp",
+    "supplierName": "Pulseira 4 Zirconia Baguetes Media Fio #PU-43",
+    "originalImage": "fotos/NP-238.webp"
+  },
+  {
+    "name": "Pulseira Zirconia Azul Clara Pendente Meio 2 Moedas Pendente Fio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-montagem-com-zirconia-46",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/08/IMG_20240802_174320-17g-scaled.jpg",
+    "supplierPromoCents": 2537,
+    "priceCents": 3900,
+    "id": "NP-239",
+    "image": "fotos/NP-239-preto.webp",
+    "supplierName": "Pulseira Zirconia Azul Clara Pendente Meio 2 Moedas Pendente Fio #PU-07",
+    "originalImage": "fotos/NP-239.webp"
+  },
+  {
+    "name": "Pulseira Zirconia Olho Azul Escuro Meio 2 Bolas Fio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-montagem-com-zirconia-41",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/08/IMG_20240802_175150-18g-scaled.jpg",
+    "supplierPromoCents": 2686,
+    "priceCents": 4100,
+    "id": "NP-240",
+    "image": "fotos/NP-240-preto.webp",
+    "supplierName": "Pulseira Zirconia Olho Azul Escuro Meio 2 Bolas Fio #PU-08",
+    "originalImage": "fotos/NP-240.webp"
+  },
+  {
+    "name": "Pulseira 9 Zirconia Pendente Color 5mm",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-montagem-com-zirconia-35",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/08/IMG_20240802_173851-24g-scaled.jpg",
+    "supplierPromoCents": 3584,
+    "priceCents": 5400,
+    "id": "NP-241",
+    "image": "fotos/NP-241-preto.webp",
+    "supplierName": "Pulseira 9 Zirconia Pendente Color 5mm",
+    "originalImage": "fotos/NP-241.webp"
+  },
+  {
+    "name": "Pulseira 5 Zirconia Pendente 5mm",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-montagem-com-zirconia-34",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/08/IMG_20240802_173619-21g-scaled.jpg",
+    "supplierPromoCents": 2985,
+    "priceCents": 4500,
+    "id": "NP-242",
+    "image": "fotos/NP-242-preto.webp",
+    "supplierName": "Pulseira 5 Zirconia Pendente 5mm #PU-60",
+    "originalImage": "fotos/NP-242.webp"
+  },
+  {
+    "name": "Pulseira 6 Zirconia Vermelha Infinito Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-montagem-com-zirconia-17",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/08/IMG_20240802_170034-scaled.jpg",
+    "supplierPromoCents": 2985,
+    "priceCents": 4500,
+    "id": "NP-243",
+    "image": "fotos/NP-243-preto.webp",
+    "supplierName": "Pulseira 6 Zirconia Vermelha Infinito Meio #PU-25",
+    "originalImage": "fotos/NP-243.webp"
+  },
+  {
+    "name": "Pulseira 6 Zirconia Azul Claro Infinito Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-montagem-com-zirconia-16",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/08/IMG_20240802_165855-20g-scaled.jpg",
+    "supplierPromoCents": 2985,
+    "priceCents": 4500,
+    "id": "NP-244",
+    "image": "fotos/NP-244-preto.webp",
+    "supplierName": "Pulseira 6 Zirconia Azul Claro Infinito Meio #PU-22",
+    "originalImage": "fotos/NP-244.webp"
+  },
+  {
+    "name": "Pulseira 6 Zirconia Verde Claro Infinito Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-montagem-com-zirconia-15",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/08/IMG_20240802_165712-21g-scaled.jpg",
+    "supplierPromoCents": 3134,
+    "priceCents": 4800,
+    "id": "NP-245",
+    "image": "fotos/NP-245-preto.webp",
+    "supplierName": "Pulseira 6 Zirconia Verde Claro Infinito Meio #PU-21",
+    "originalImage": "fotos/NP-245.webp"
+  },
+  {
+    "name": "Pulseira 4 Zirconias Coração Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-montagem-com-zirconia-5",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/08/IMG_20240802_151553-23g-scaled.jpg",
+    "supplierPromoCents": 3433,
+    "priceCents": 5200,
+    "id": "NP-246",
+    "image": "fotos/NP-246-preto.webp",
+    "supplierName": "Pulseira 4 Zirconias Coração Meio #MD",
+    "originalImage": "fotos/NP-246.webp"
+  },
+  {
+    "name": "Pulseira 4 Zirconias Fio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-montagem-com-zirconias-73",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/05/IMG_20240506_183804-19g-a-scaled.jpg",
+    "supplierPromoCents": 2836,
+    "priceCents": 4300,
+    "id": "NP-247",
+    "image": "fotos/NP-247-preto.webp",
+    "supplierName": "Pulseira 4 Zirconias Fio #PU-61",
+    "originalImage": "fotos/NP-247.webp"
+  },
+  {
+    "name": "Pulseira 9 Zirconias Pendentes Fio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-montagem-com-zirconias-70",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/05/IMG_20240506_182838-26g-a-scaled.jpg",
+    "supplierPromoCents": 4030,
+    "priceCents": 6100,
+    "id": "NP-248",
+    "image": "fotos/NP-248-preto.webp",
+    "supplierName": "Pulseira 9 Zirconias Pendentes Fio #MD",
+    "originalImage": "fotos/NP-248.webp"
+  },
+  {
+    "name": "Pulseira 5 Zirconias Color Pendentes Fio 5mm VAVRA",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-montagem-com-zirconias-69",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/05/IMG_20240506_182522-16g-a-scaled.jpg",
+    "supplierPromoCents": 2537,
+    "priceCents": 3900,
+    "id": "NP-249",
+    "image": "fotos/NP-249-preto.webp",
+    "supplierName": "Pulseira 5 Zirconias Color Pendentes Fio 5mm VAVRA #PU-34",
+    "originalImage": "fotos/NP-249.webp"
+  },
+  {
+    "name": "Pulseira 4 Zirconias Baguete Oval Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-montagem-com-zirconias-56",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/05/IMG_20240506_175116-24g-a-scaled.jpg",
+    "supplierPromoCents": 3880,
+    "priceCents": 5900,
+    "id": "NP-250",
+    "image": "fotos/NP-250-preto.webp",
+    "supplierName": "Pulseira 4 Zirconias Baguete Oval Meio",
+    "originalImage": "fotos/NP-250.webp"
+  },
+  {
+    "name": "Pulseira 4 Zirconias Coração Fio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-montagem-com-zirconias-49",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/05/IMG_20240506_172553-24g-a-scaled.jpg",
+    "supplierPromoCents": 3880,
+    "priceCents": 5900,
+    "id": "NP-251",
+    "image": "fotos/NP-251-preto.webp",
+    "supplierName": "Pulseira 4 Zirconias Coração Fio #PU-52",
+    "originalImage": "fotos/NP-251.webp"
+  },
+  {
+    "name": "Pulseira Zirconia Gota Vermelha Pendente Circulo Vazado Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-montagem-com-zirconias-30",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/04/IMG_20240422_162135-18G-scaled.jpg",
+    "supplierPromoCents": 2836,
+    "priceCents": 4300,
+    "id": "NP-252",
+    "image": "fotos/NP-252-preto.webp",
+    "supplierName": "Pulseira Zirconia Gota Vermelha Pendente Circulo Vazado Meio #PU-02",
+    "originalImage": "fotos/NP-252.webp"
+  },
+  {
+    "name": "Pulseira Zirconia Lilas Pendente Meio",
+    "category": "feminino",
+    "collection": "zirconias",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-montagem-com-zirconias-9",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/04/IMG_20240418_180200-15g-scaled.jpg",
+    "supplierPromoCents": 2239,
+    "priceCents": 3400,
+    "id": "NP-253",
+    "image": "fotos/NP-253-preto.webp",
+    "supplierName": "Pulseira Zirconia Lilas Pendente Meio #PU-06",
+    "originalImage": "fotos/NP-253.webp"
+  },
+  {
+    "name": "Pulseira 3 Borboleta Resina Preta Fio",
+    "category": "feminino",
+    "collection": "perolas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-3-borboleta-resina-preta-fio-md1",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2026/03/IMG_20260324_172506-pul-3-borboletas-resina-preta-fio-MD1-21g.jpg",
+    "supplierPromoCents": 3430,
+    "priceCents": 5200,
+    "id": "NP-254",
+    "image": "fotos/NP-254-preto.webp",
+    "supplierName": "Pulseira 3 Borboleta Resina Preta Fio #PU-91",
+    "originalImage": "fotos/NP-254.webp"
+  },
+  {
+    "name": "Pulseira Perola Meio de 26 Bolinhas de 3mm",
+    "category": "feminino",
+    "collection": "perolas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-perola-meio-de-26-bolinhas-de-3mm",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2025/12/IMG_20251129_123342-PUL-PEROLA-MEIO-DE-26-BOLINHA-DE-3MM-26G-MD-PERO.8MM-scaled.jpg",
+    "supplierPromoCents": 4030,
+    "priceCents": 6100,
+    "id": "NP-255",
+    "image": "fotos/NP-255-preto.webp",
+    "supplierName": "Pulseira Perola Meio de 26 Bolinhas de 3mm #PU-86",
+    "originalImage": "fotos/NP-255.webp"
+  },
+  {
+    "name": "Pulseira 4 Perola Fio 8mm",
+    "category": "feminino",
+    "collection": "perolas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-perola-8mm",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/10/IMG_20241021_112351-24g-perola-8mm-scaled.jpg",
+    "supplierPromoCents": 3433,
+    "priceCents": 5200,
+    "id": "NP-256",
+    "image": "fotos/NP-256-preto.webp",
+    "supplierName": "Pulseira 4 Perola Fio 8mm #PU-85",
+    "originalImage": "fotos/NP-256.webp"
+  },
+  {
+    "name": "Pulseira 4 Margaridas Resina Fio",
+    "category": "feminino",
+    "collection": "perolas",
+    "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pulseira-montagem-resina-e-perola",
+    "sourceImage": "https://cdn.upcatalogo.com.br/img/sites/3947/2024/05/IMG_20240507_165154-17G-A-scaled.jpg",
+    "supplierPromoCents": 4776,
+    "priceCents": 7200,
+    "id": "NP-257",
+    "image": "fotos/NP-257-preto.webp",
+    "supplierName": "Pulseira 4 Margaridas Resina Fio #PU-90",
+    "originalImage": "fotos/NP-257.webp"
   }
 ];
-

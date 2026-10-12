@@ -1,0 +1,11 @@
+NEVES PRATAS — PADRÃO CINZA GRAFITE
+
+257 produtos, incluindo 133 peças femininas com apresentação em cinza grafite no catálogo. O acabamento cinza é aplicado pelo site; os arquivos de imagem mantêm sua base preta.
+As fotos originais estão preservadas na pasta de trabalho anterior.
+
+Abra index.html para visualizar. Para publicar, envie todos os arquivos desta
+pasta, incluindo a pasta fotos, para a raiz do projeto do site. Não basta enviar
+apenas index.html. Esta entrega não altera o site público automaticamente.
+
+Preços femininos: promoção KLAF + 50%, arredondados para cima ao real inteiro.
+Demais produtos e preços preservados.
