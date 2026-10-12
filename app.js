@@ -1,7 +1,7 @@
 "use strict";
 (() => {
  const $=s=>document.querySelector(s), money=n=>new Intl.NumberFormat('pt-BR',{style:'currency',currency:'BRL'}).format(n/100);
- const labels={todos:'Todas as peças',corrente:'Correntes',pulseira:'Pulseiras',brinco:'Brincos',pingente:'Pingentes'};
+ const labels={todos:'Todas as peças',corrente:'Correntes',pulseira:'Pulseiras',brinco:'Brincos',pingente:'Pingentes',feminino:'Feminino'};
  const key='neves-pedido-v1', byId=new Map(PRODUCTS.map(p=>[p.id,p]));
  let cart={},category='todos',detailProduct=null,trigger=null,timer;
  try{const saved=JSON.parse(localStorage.getItem(key)||'{}');for(const [id,q] of Object.entries(saved||{}))if(byId.has(id)&&Number.isInteger(q)&&q>0)cart[id]=Math.min(q,99);}catch{}
@@ -18,7 +18,7 @@
  function open(dialog,button){trigger=button;dialog.showModal();}
  document.querySelectorAll('dialog').forEach(d=>{d.querySelector('[data-close]').addEventListener('click',()=>d.close());d.addEventListener('close',()=>trigger?.focus());});
  function photo(p){const img=node('img');img.src=p.image;img.alt=name(p);img.loading='lazy';img.addEventListener('error',()=>{const fallback=node('span','fallback','Foto indisponível');img.replaceWith(fallback);},{once:true});return img;}
- function details(p,button){detailProduct=p;$('#detail-image').src=p.image;$('#detail-image').alt=name(p);$('#detail-title').textContent=name(p);$('#detail-code').textContent=p.id+' · '+labels[p.category];$('#detail-price').textContent=money(p.priceCents);$('#detail-note').textContent=p.category==='pingente'?'Pingente vendido sem corrente. Confirme as medidas no atendimento.':p.category==='brinco'?'Zircônia redonda. Confirme no atendimento se a venda é por unidade ou par.':p.length?`Comprimento: ${p.length} cm. Consulte os detalhes da peça pelo WhatsApp.`:'Consulte as medidas disponíveis pelo WhatsApp.';open($('#detail'),button);}
+ function details(p,button){detailProduct=p;$('#detail-image').src=p.image;$('#detail-image').alt=name(p);$('#detail-title').textContent=name(p);$('#detail-code').textContent=p.id+' · '+labels[p.category];$('#detail-price').textContent=money(p.priceCents);$('#detail-note').textContent=p.category==='pingente'?'Pingente vendido sem corrente.' Confirme as medidas no atendimento.':p.category==='brinco'?'Zircônia redonda. Confirme no atendimento se a venda é por unidade ou par.':p.length?`Comprimento: ${p.length} cm. Consulte os detalhes da peça pelo WhatsApp.`:'Consulte as medidas disponíveis pelo WhatsApp.';open($('#detail'),button);}
  $('#detail-add').addEventListener('click',()=>{if(detailProduct)add(detailProduct);});
  function render(){const search=$('#search').value.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim(),length=$('#length').value;
  let list=PRODUCTS.filter(p=>(category==='todos'||p.category===category)&&(length==='todos'||p.length===Number(length))&&(name(p)+' '+p.id).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().includes(search));
