@@ -1,8 +1,10 @@
-ALTERACOES DO SITE — sem fotos
+PACOTE INCREMENTAL — NEVES PRATAS
 
-Substitua estes arquivos na raiz do repositório: index.html, app.js, style.css, collections.css e products.js.
+Este pacote contém somente os arquivos alterados e as fotos novas/corrigidas necessárias para atualizar o catálogo existente.
 
-As fotos não estão incluídas neste pacote porque já foram enviadas separadamente.
+Envio:
+- Substitua os arquivos de código na raiz do repositório: index.html, app.js, style.css, collections.css e products.js.
+- Copie as imagens .webp deste pacote também para a raiz do repositório, junto das imagens NP que já existem.
+- Não crie a pasta fotos para este pacote: o products.js foi ajustado para usar os nomes NP-xxx.webp na raiz, compatível com o repositório atual.
 
-Inclui: preços ajustados, layout escuro, seção feminina, categorias e correções de carregamento.
-
+O catálogo inclui 257 produtos, com a seção feminina e os preços comerciais ajustados.
