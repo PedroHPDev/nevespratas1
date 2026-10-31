@@ -1,10 +1,8 @@
-PACOTE INCREMENTAL — NEVES PRATAS
+REPAGINACAO NEVES PRATAS
 
-Este pacote contém somente os arquivos alterados e as fotos novas/corrigidas necessárias para atualizar o catálogo existente.
+Substitua os arquivos de código na raiz do site e copie a pasta videos inteira para a raiz.
 
-Envio:
-- Substitua os arquivos de código na raiz do repositório: index.html, app.js, style.css, collections.css e products.js.
-- Copie as imagens .webp deste pacote também para a raiz do repositório, junto das imagens NP que já existem.
-- Não crie a pasta fotos para este pacote: o products.js foi ajustado para usar os nomes NP-xxx.webp na raiz, compatível com o repositório atual.
+A nova versão adiciona vídeo no destaque principal, uma faixa de novidades em movimento e uma seção visual com a foto do pingente.
 
-O catálogo inclui 257 produtos, com a seção feminina e os preços comerciais ajustados.
+As fotos antigas do catálogo não estão incluídas neste pacote porque já foram enviadas separadamente.
+
