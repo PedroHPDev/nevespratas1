@@ -6,7 +6,7 @@ const PRODUCTS = [
     "length": 40,
     "priceCents": 8990,
     "category": "corrente",
-    "image": "fotos/NP-001.webp"
+    "image": "NP-001.webp"
   },
   {
     "id": "NP-002",
@@ -14,7 +14,7 @@ const PRODUCTS = [
     "length": 40,
     "priceCents": 8990,
     "category": "corrente",
-    "image": "fotos/NP-021.webp"
+    "image": "NP-021.webp"
   },
   {
     "id": "NP-003",
@@ -22,7 +22,7 @@ const PRODUCTS = [
     "length": 40,
     "priceCents": 3500,
     "category": "corrente",
-    "image": "fotos/NP-019.webp"
+    "image": "NP-019.webp"
   },
   {
     "id": "NP-004",
@@ -30,7 +30,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 9990,
     "category": "corrente",
-    "image": "fotos/NP-004.webp"
+    "image": "NP-004.webp"
   },
   {
     "id": "NP-005",
@@ -38,7 +38,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 23990,
     "category": "corrente",
-    "image": "fotos/NP-005.webp"
+    "image": "NP-005.webp"
   },
   {
     "id": "NP-006",
@@ -46,7 +46,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 6990,
     "category": "corrente",
-    "image": "fotos/NP-006.webp"
+    "image": "NP-006.webp"
   },
   {
     "id": "NP-007",
@@ -54,7 +54,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 6990,
     "category": "corrente",
-    "image": "fotos/NP-007.webp"
+    "image": "NP-007.webp"
   },
   {
     "id": "NP-008",
@@ -62,7 +62,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 8990,
     "category": "corrente",
-    "image": "fotos/NP-008.webp"
+    "image": "NP-008.webp"
   },
   {
     "id": "NP-009",
@@ -70,7 +70,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 7990,
     "category": "corrente",
-    "image": "fotos/NP-009.webp"
+    "image": "NP-009.webp"
   },
   {
     "id": "NP-010",
@@ -78,7 +78,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 6990,
     "category": "corrente",
-    "image": "fotos/NP-010.webp"
+    "image": "NP-010.webp"
   },
   {
     "id": "NP-011",
@@ -86,7 +86,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 10990,
     "category": "corrente",
-    "image": "fotos/NP-011.webp"
+    "image": "NP-011.webp"
   },
   {
     "id": "NP-012",
@@ -94,7 +94,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 15990,
     "category": "corrente",
-    "image": "fotos/NP-012.webp"
+    "image": "NP-012.webp"
   },
   {
     "id": "NP-013",
@@ -102,7 +102,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 11990,
     "category": "corrente",
-    "image": "fotos/NP-013.webp"
+    "image": "NP-013.webp"
   },
   {
     "id": "NP-014",
@@ -110,7 +110,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 9990,
     "category": "corrente",
-    "image": "fotos/NP-014.webp"
+    "image": "NP-014.webp"
   },
   {
     "id": "NP-015",
@@ -118,7 +118,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 8990,
     "category": "corrente",
-    "image": "fotos/NP-015.webp"
+    "image": "NP-015.webp"
   },
   {
     "id": "NP-016",
@@ -126,7 +126,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 4990,
     "category": "corrente",
-    "image": "fotos/NP-019.webp"
+    "image": "NP-019.webp"
   },
   {
     "id": "NP-017",
@@ -134,7 +134,7 @@ const PRODUCTS = [
     "length": 45,
     "priceCents": 6990,
     "category": "corrente",
-    "image": "fotos/NP-017.webp"
+    "image": "NP-017.webp"
   },
   {
     "id": "NP-018",
@@ -142,7 +142,7 @@ const PRODUCTS = [
     "length": 50,
     "priceCents": 13990,
     "category": "corrente",
-    "image": "fotos/NP-018.webp"
+    "image": "NP-018.webp"
   },
   {
     "id": "NP-019",
@@ -150,7 +150,7 @@ const PRODUCTS = [
     "length": 50,
     "priceCents": 5990,
     "category": "corrente",
-    "image": "fotos/NP-019.webp"
+    "image": "NP-019.webp"
   },
   {
     "id": "NP-020",
@@ -158,7 +158,7 @@ const PRODUCTS = [
     "length": 50,
     "priceCents": 9990,
     "category": "corrente",
-    "image": "fotos/NP-020.webp"
+    "image": "NP-020.webp"
   },
   {
     "id": "NP-021",
@@ -166,7 +166,7 @@ const PRODUCTS = [
     "length": 50,
     "priceCents": 9990,
     "category": "corrente",
-    "image": "fotos/NP-021.webp"
+    "image": "NP-021.webp"
   },
   {
     "id": "NP-022",
@@ -174,7 +174,7 @@ const PRODUCTS = [
     "length": 50,
     "priceCents": 18990,
     "category": "corrente",
-    "image": "fotos/NP-022.webp"
+    "image": "NP-022.webp"
   },
   {
     "id": "NP-023",
@@ -182,7 +182,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 5990,
     "category": "corrente",
-    "image": "fotos/NP-023.webp"
+    "image": "NP-023.webp"
   },
   {
     "id": "NP-024",
@@ -190,7 +190,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 8990,
     "category": "corrente",
-    "image": "fotos/NP-024.webp"
+    "image": "NP-024.webp"
   },
   {
     "id": "NP-025",
@@ -198,7 +198,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 14990,
     "category": "corrente",
-    "image": "fotos/NP-025.webp"
+    "image": "NP-025.webp"
   },
   {
     "id": "NP-026",
@@ -206,7 +206,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 21990,
     "category": "corrente",
-    "image": "fotos/NP-026.webp"
+    "image": "NP-026.webp"
   },
   {
     "id": "NP-027",
@@ -214,7 +214,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 21990,
     "category": "corrente",
-    "image": "fotos/NP-027.webp"
+    "image": "NP-027.webp"
   },
   {
     "id": "NP-028",
@@ -222,7 +222,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 30990,
     "category": "corrente",
-    "image": "fotos/NP-028.webp"
+    "image": "NP-028.webp"
   },
   {
     "id": "NP-029",
@@ -230,7 +230,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 34990,
     "category": "corrente",
-    "image": "fotos/NP-029.webp"
+    "image": "NP-029.webp"
   },
   {
     "id": "NP-030",
@@ -238,7 +238,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 9990,
     "category": "corrente",
-    "image": "fotos/NP-030.webp"
+    "image": "NP-030.webp"
   },
   {
     "id": "NP-031",
@@ -246,7 +246,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 13990,
     "category": "corrente",
-    "image": "fotos/NP-041.webp"
+    "image": "NP-041.webp"
   },
   {
     "id": "NP-032",
@@ -254,7 +254,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 28990,
     "category": "corrente",
-    "image": "fotos/NP-032.webp"
+    "image": "NP-032.webp"
   },
   {
     "id": "NP-033",
@@ -262,7 +262,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 19990,
     "category": "corrente",
-    "image": "fotos/NP-050.webp"
+    "image": "NP-050.webp"
   },
   {
     "id": "NP-034",
@@ -270,7 +270,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 8990,
     "category": "corrente",
-    "image": "fotos/NP-034.webp"
+    "image": "NP-034.webp"
   },
   {
     "id": "NP-035",
@@ -278,7 +278,7 @@ const PRODUCTS = [
     "length": 60,
     "priceCents": 19990,
     "category": "corrente",
-    "image": "fotos/NP-035.webp"
+    "image": "NP-035.webp"
   },
   {
     "id": "NP-036",
@@ -286,7 +286,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 34990,
     "category": "corrente",
-    "image": "fotos/NP-036.webp"
+    "image": "NP-036.webp"
   },
   {
     "id": "NP-037",
@@ -294,7 +294,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 24990,
     "category": "corrente",
-    "image": "fotos/NP-037.webp"
+    "image": "NP-037.webp"
   },
   {
     "id": "NP-038",
@@ -302,7 +302,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 10990,
     "category": "corrente",
-    "image": "fotos/NP-038.webp"
+    "image": "NP-038.webp"
   },
   {
     "id": "NP-039",
@@ -310,7 +310,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 53990,
     "category": "corrente",
-    "image": "fotos/NP-052.webp"
+    "image": "NP-052.webp"
   },
   {
     "id": "NP-040",
@@ -318,7 +318,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 19990,
     "category": "corrente",
-    "image": "fotos/NP-040.webp"
+    "image": "NP-040.webp"
   },
   {
     "id": "NP-041",
@@ -326,7 +326,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 11990,
     "category": "corrente",
-    "image": "fotos/NP-041.webp"
+    "image": "NP-041.webp"
   },
   {
     "id": "NP-042",
@@ -334,7 +334,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 19990,
     "category": "corrente",
-    "image": "fotos/NP-042.webp"
+    "image": "NP-042.webp"
   },
   {
     "id": "NP-043",
@@ -342,7 +342,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 97990,
     "category": "corrente",
-    "image": "fotos/NP-043.webp"
+    "image": "NP-043.webp"
   },
   {
     "id": "NP-044",
@@ -350,7 +350,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 34990,
     "category": "corrente",
-    "image": "fotos/NP-044.webp"
+    "image": "NP-044.webp"
   },
   {
     "id": "NP-045",
@@ -358,7 +358,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 10990,
     "category": "corrente",
-    "image": "fotos/NP-045.webp"
+    "image": "NP-045.webp"
   },
   {
     "id": "NP-046",
@@ -366,7 +366,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 118990,
     "category": "corrente",
-    "image": "fotos/NP-046.webp"
+    "image": "NP-046.webp"
   },
   {
     "id": "NP-047",
@@ -374,7 +374,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 16990,
     "category": "corrente",
-    "image": "fotos/NP-047.webp"
+    "image": "NP-047.webp"
   },
   {
     "id": "NP-048",
@@ -382,7 +382,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 28990,
     "category": "corrente",
-    "image": "fotos/NP-048.webp"
+    "image": "NP-048.webp"
   },
   {
     "id": "NP-049",
@@ -390,7 +390,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 36990,
     "category": "corrente",
-    "image": "fotos/NP-049.webp"
+    "image": "NP-049.webp"
   },
   {
     "id": "NP-050",
@@ -398,7 +398,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 21990,
     "category": "corrente",
-    "image": "fotos/NP-050.webp"
+    "image": "NP-050.webp"
   },
   {
     "id": "NP-051",
@@ -406,7 +406,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 12990,
     "category": "corrente",
-    "image": "fotos/NP-051.webp"
+    "image": "NP-051.webp"
   },
   {
     "id": "NP-052",
@@ -414,7 +414,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 51990,
     "category": "corrente",
-    "image": "fotos/NP-052.webp"
+    "image": "NP-052.webp"
   },
   {
     "id": "NP-053",
@@ -422,7 +422,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 52990,
     "category": "corrente",
-    "image": "fotos/NP-053.webp"
+    "image": "NP-053.webp"
   },
   {
     "id": "NP-054",
@@ -430,7 +430,7 @@ const PRODUCTS = [
     "length": 70,
     "priceCents": 36990,
     "category": "corrente",
-    "image": "fotos/NP-054.webp"
+    "image": "NP-054.webp"
   },
   {
     "id": "NP-055",
@@ -438,7 +438,7 @@ const PRODUCTS = [
     "length": 0,
     "priceCents": 28990,
     "category": "pulseira",
-    "image": "fotos/NP-055.webp"
+    "image": "NP-055.webp"
   },
   {
     "id": "NP-056",
@@ -446,7 +446,7 @@ const PRODUCTS = [
     "length": 0,
     "priceCents": 16990,
     "category": "pulseira",
-    "image": "fotos/NP-056.webp"
+    "image": "NP-056.webp"
   },
   {
     "id": "NP-057",
@@ -454,7 +454,7 @@ const PRODUCTS = [
     "length": 0,
     "priceCents": 7990,
     "category": "pulseira",
-    "image": "fotos/NP-057.webp"
+    "image": "NP-057.webp"
   },
   {
     "id": "NP-058",
@@ -462,7 +462,7 @@ const PRODUCTS = [
     "length": 0,
     "priceCents": 5990,
     "category": "pulseira",
-    "image": "fotos/NP-058.webp"
+    "image": "NP-058.webp"
   },
   {
     "id": "NP-059",
@@ -470,7 +470,7 @@ const PRODUCTS = [
     "length": 0,
     "priceCents": 91990,
     "category": "pulseira",
-    "image": "fotos/NP-059.webp"
+    "image": "NP-059.webp"
   },
   {
     "id": "NP-060",
@@ -478,7 +478,7 @@ const PRODUCTS = [
     "length": 0,
     "priceCents": 4990,
     "category": "pulseira",
-    "image": "fotos/NP-060.webp"
+    "image": "NP-060.webp"
   },
   {
     "id": "NP-061",
@@ -486,7 +486,7 @@ const PRODUCTS = [
     "length": 0,
     "priceCents": 9990,
     "category": "pulseira",
-    "image": "fotos/NP-061.webp"
+    "image": "NP-061.webp"
   },
   {
     "id": "NP-062",
@@ -494,7 +494,7 @@ const PRODUCTS = [
     "length": 0,
     "priceCents": 36990,
     "category": "pulseira",
-    "image": "fotos/NP-062.webp"
+    "image": "NP-062.webp"
   },
   {
     "id": "NP-063",
@@ -502,7 +502,7 @@ const PRODUCTS = [
     "length": 0,
     "priceCents": 25990,
     "category": "pulseira",
-    "image": "fotos/NP-063.webp"
+    "image": "NP-063.webp"
   },
   {
     "id": "NP-064",
@@ -511,7 +511,7 @@ const PRODUCTS = [
     "category": "brinco",
     "originalPriceCents": 477,
     "priceCents": 1000,
-    "image": "fotos/NP-064.webp"
+    "image": "NP-064.webp"
   },
   {
     "id": "NP-065",
@@ -520,7 +520,7 @@ const PRODUCTS = [
     "category": "brinco",
     "originalPriceCents": 600,
     "priceCents": 1000,
-    "image": "fotos/NP-065.webp"
+    "image": "NP-065.webp"
   },
   {
     "id": "NP-066",
@@ -529,7 +529,7 @@ const PRODUCTS = [
     "category": "brinco",
     "originalPriceCents": 665,
     "priceCents": 1500,
-    "image": "fotos/NP-066.webp"
+    "image": "NP-066.webp"
   },
   {
     "id": "NP-067",
@@ -538,7 +538,7 @@ const PRODUCTS = [
     "category": "brinco",
     "originalPriceCents": 908,
     "priceCents": 1500,
-    "image": "fotos/NP-067.webp"
+    "image": "NP-067.webp"
   },
   {
     "id": "NP-068",
@@ -547,7 +547,7 @@ const PRODUCTS = [
     "category": "brinco",
     "originalPriceCents": 999,
     "priceCents": 2000,
-    "image": "fotos/NP-068.webp"
+    "image": "NP-068.webp"
   },
   {
     "id": "NP-069",
@@ -556,7 +556,7 @@ const PRODUCTS = [
     "category": "brinco",
     "originalPriceCents": 1330,
     "priceCents": 2500,
-    "image": "fotos/NP-069.webp"
+    "image": "NP-069.webp"
   },
   {
     "id": "NP-070",
@@ -565,7 +565,7 @@ const PRODUCTS = [
     "category": "brinco",
     "originalPriceCents": 1480,
     "priceCents": 2500,
-    "image": "fotos/NP-070.webp"
+    "image": "NP-070.webp"
   },
   {
     "id": "NP-071",
@@ -574,7 +574,7 @@ const PRODUCTS = [
     "category": "brinco",
     "originalPriceCents": 1978,
     "priceCents": 3500,
-    "image": "fotos/NP-071.webp"
+    "image": "NP-071.webp"
   },
   {
     "id": "NP-072",
@@ -583,7 +583,7 @@ const PRODUCTS = [
     "category": "brinco",
     "originalPriceCents": 2109,
     "priceCents": 3500,
-    "image": "fotos/NP-072.webp"
+    "image": "NP-072.webp"
   },
   {
     "id": "NP-073",
@@ -592,7 +592,7 @@ const PRODUCTS = [
     "category": "brinco",
     "originalPriceCents": 3952,
     "priceCents": 6990,
-    "image": "fotos/NP-073.webp"
+    "image": "NP-073.webp"
   },
   {
     "id": "NP-074",
@@ -601,7 +601,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 1883,
     "priceCents": 3500,
-    "image": "fotos/NP-074.webp"
+    "image": "NP-074.webp"
   },
   {
     "id": "NP-075",
@@ -610,7 +610,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 2152,
     "priceCents": 3500,
-    "image": "fotos/NP-075.webp"
+    "image": "NP-075.webp"
   },
   {
     "id": "NP-076",
@@ -619,7 +619,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 807,
     "priceCents": 1500,
-    "image": "fotos/NP-076.webp"
+    "image": "NP-076.webp"
   },
   {
     "id": "NP-077",
@@ -628,7 +628,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 807,
     "priceCents": 1500,
-    "image": "fotos/NP-077.webp"
+    "image": "NP-077.webp"
   },
   {
     "id": "NP-078",
@@ -637,7 +637,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 1076,
     "priceCents": 2000,
-    "image": "fotos/NP-078.webp"
+    "image": "NP-078.webp"
   },
   {
     "id": "NP-079",
@@ -646,7 +646,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 4573,
     "priceCents": 7990,
-    "image": "fotos/NP-079.webp"
+    "image": "NP-079.webp"
   },
   {
     "id": "NP-080",
@@ -655,7 +655,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 5111,
     "priceCents": 8990,
-    "image": "fotos/NP-080.webp"
+    "image": "NP-080.webp"
   },
   {
     "id": "NP-081",
@@ -664,7 +664,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 12374,
     "priceCents": 19990,
-    "image": "fotos/NP-081.webp"
+    "image": "NP-081.webp"
   },
   {
     "id": "NP-082",
@@ -673,7 +673,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 7532,
     "priceCents": 12990,
-    "image": "fotos/NP-082.webp"
+    "image": "NP-082.webp"
   },
   {
     "id": "NP-083",
@@ -682,7 +682,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 2690,
     "priceCents": 4990,
-    "image": "fotos/NP-083.webp"
+    "image": "NP-083.webp"
   },
   {
     "id": "NP-084",
@@ -691,7 +691,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 1614,
     "priceCents": 3000,
-    "image": "fotos/NP-084.webp"
+    "image": "NP-084.webp"
   },
   {
     "id": "NP-085",
@@ -700,7 +700,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 2152,
     "priceCents": 3500,
-    "image": "fotos/NP-085.webp"
+    "image": "NP-085.webp"
   },
   {
     "id": "NP-086",
@@ -709,7 +709,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 753,
     "priceCents": 1500,
-    "image": "fotos/NP-086.webp"
+    "image": "NP-086.webp"
   },
   {
     "id": "NP-087",
@@ -718,7 +718,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 7000,
     "priceCents": 11990,
-    "image": "fotos/NP-087.webp"
+    "image": "NP-087.webp"
   },
   {
     "id": "NP-088",
@@ -727,7 +727,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 10850,
     "priceCents": 17990,
-    "image": "fotos/NP-088.webp"
+    "image": "NP-088.webp"
   },
   {
     "id": "NP-089",
@@ -736,7 +736,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 5775,
     "priceCents": 9990,
-    "image": "fotos/NP-089.webp"
+    "image": "NP-089.webp"
   },
   {
     "id": "NP-090",
@@ -745,7 +745,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 14000,
     "priceCents": 22990,
-    "image": "fotos/NP-090.webp"
+    "image": "NP-090.webp"
   },
   {
     "id": "NP-091",
@@ -754,7 +754,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 4200,
     "priceCents": 6990,
-    "image": "fotos/NP-091.webp"
+    "image": "NP-091.webp"
   },
   {
     "id": "NP-092",
@@ -763,7 +763,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 5425,
     "priceCents": 8990,
-    "image": "fotos/NP-092.webp"
+    "image": "NP-092.webp"
   },
   {
     "id": "NP-093",
@@ -772,7 +772,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 6456,
     "priceCents": 10990,
-    "image": "fotos/NP-093.webp"
+    "image": "NP-093.webp"
   },
   {
     "id": "NP-094",
@@ -781,7 +781,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 2152,
     "priceCents": 3500,
-    "image": "fotos/NP-094.webp"
+    "image": "NP-094.webp"
   },
   {
     "id": "NP-095",
@@ -790,7 +790,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 3497,
     "priceCents": 5990,
-    "image": "fotos/NP-095.webp"
+    "image": "NP-095.webp"
   },
   {
     "id": "NP-096",
@@ -799,7 +799,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 3497,
     "priceCents": 5990,
-    "image": "fotos/NP-096.webp"
+    "image": "NP-096.webp"
   },
   {
     "id": "NP-097",
@@ -808,7 +808,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 3228,
     "priceCents": 5990,
-    "image": "fotos/NP-097.webp"
+    "image": "NP-097.webp"
   },
   {
     "id": "NP-098",
@@ -817,7 +817,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 3497,
     "priceCents": 5990,
-    "image": "fotos/NP-098.webp"
+    "image": "NP-098.webp"
   },
   {
     "id": "NP-099",
@@ -826,7 +826,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 1883,
     "priceCents": 3500,
-    "image": "fotos/NP-099.webp"
+    "image": "NP-099.webp"
   },
   {
     "id": "NP-100",
@@ -835,7 +835,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 1883,
     "priceCents": 3500,
-    "image": "fotos/NP-100.webp"
+    "image": "NP-100.webp"
   },
   {
     "id": "NP-101",
@@ -844,7 +844,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 1925,
     "priceCents": 3500,
-    "image": "fotos/NP-101.webp"
+    "image": "NP-101.webp"
   },
   {
     "id": "NP-102",
@@ -853,7 +853,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 5425,
     "priceCents": 8990,
-    "image": "fotos/NP-102.webp"
+    "image": "NP-102.webp"
   },
   {
     "id": "NP-103",
@@ -862,7 +862,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 18375,
     "priceCents": 29990,
-    "image": "fotos/NP-103.webp"
+    "image": "NP-103.webp"
   },
   {
     "id": "NP-104",
@@ -871,7 +871,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 10675,
     "priceCents": 17990,
-    "image": "fotos/NP-104.webp"
+    "image": "NP-104.webp"
   },
   {
     "id": "NP-105",
@@ -880,7 +880,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 13475,
     "priceCents": 21990,
-    "image": "fotos/NP-105.webp"
+    "image": "NP-105.webp"
   },
   {
     "id": "NP-106",
@@ -889,7 +889,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 1575,
     "priceCents": 3000,
-    "image": "fotos/NP-106.webp"
+    "image": "NP-106.webp"
   },
   {
     "id": "NP-107",
@@ -898,7 +898,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 3325,
     "priceCents": 5990,
-    "image": "fotos/NP-107.webp"
+    "image": "NP-107.webp"
   },
   {
     "id": "NP-108",
@@ -907,7 +907,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 2975,
     "priceCents": 4990,
-    "image": "fotos/NP-108.webp"
+    "image": "NP-108.webp"
   },
   {
     "id": "NP-109",
@@ -916,7 +916,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 4025,
     "priceCents": 6990,
-    "image": "fotos/NP-109.webp"
+    "image": "NP-109.webp"
   },
   {
     "id": "NP-110",
@@ -925,7 +925,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 5425,
     "priceCents": 8990,
-    "image": "fotos/NP-110.webp"
+    "image": "NP-110.webp"
   },
   {
     "id": "NP-111",
@@ -934,7 +934,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 4900,
     "priceCents": 7990,
-    "image": "fotos/NP-111.webp"
+    "image": "NP-111.webp"
   },
   {
     "id": "NP-112",
@@ -943,7 +943,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 19775,
     "priceCents": 31990,
-    "image": "fotos/NP-112.webp"
+    "image": "NP-112.webp"
   },
   {
     "id": "NP-113",
@@ -952,7 +952,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 15575,
     "priceCents": 25990,
-    "image": "fotos/NP-113.webp"
+    "image": "NP-113.webp"
   },
   {
     "id": "NP-114",
@@ -961,7 +961,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 3850,
     "priceCents": 6990,
-    "image": "fotos/NP-114.webp"
+    "image": "NP-114.webp"
   },
   {
     "id": "NP-115",
@@ -970,7 +970,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 2275,
     "priceCents": 4000,
-    "image": "fotos/NP-115.webp"
+    "image": "NP-115.webp"
   },
   {
     "id": "NP-116",
@@ -979,7 +979,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 4725,
     "priceCents": 7990,
-    "image": "fotos/NP-116.webp"
+    "image": "NP-116.webp"
   },
   {
     "id": "NP-117",
@@ -988,7 +988,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 6125,
     "priceCents": 9990,
-    "image": "fotos/NP-117.webp"
+    "image": "NP-117.webp"
   },
   {
     "id": "NP-118",
@@ -997,7 +997,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 2975,
     "priceCents": 4990,
-    "image": "fotos/NP-118.webp"
+    "image": "NP-118.webp"
   },
   {
     "id": "NP-119",
@@ -1006,7 +1006,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 9800,
     "priceCents": 15990,
-    "image": "fotos/NP-119.webp"
+    "image": "NP-119.webp"
   },
   {
     "id": "NP-120",
@@ -1015,7 +1015,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 7875,
     "priceCents": 12990,
-    "image": "fotos/NP-120.webp"
+    "image": "NP-120.webp"
   },
   {
     "id": "NP-121",
@@ -1024,7 +1024,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 2450,
     "priceCents": 4990,
-    "image": "fotos/NP-121.webp"
+    "image": "NP-121.webp"
   },
   {
     "id": "NP-122",
@@ -1033,7 +1033,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 6475,
     "priceCents": 10990,
-    "image": "fotos/NP-122.webp"
+    "image": "NP-122.webp"
   },
   {
     "id": "NP-123",
@@ -1042,7 +1042,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 3150,
     "priceCents": 5990,
-    "image": "fotos/NP-123.webp"
+    "image": "NP-123.webp"
   },
   {
     "id": "NP-124",
@@ -1051,7 +1051,7 @@ const PRODUCTS = [
     "category": "pingente",
     "originalPriceCents": 10850,
     "priceCents": 17990,
-    "image": "fotos/NP-124.webp"
+    "image": "NP-124.webp"
   },
   {
     "id": "NP-125",
@@ -1059,7 +1059,7 @@ const PRODUCTS = [
     "priceCents": 3500,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "fotos/NP-125-preto.webp",
+    "image": "NP-125-preto.webp",
     "collection": "letras",
     "supplierPromoCents": 2130,
     "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
@@ -1071,7 +1071,7 @@ const PRODUCTS = [
     "priceCents": 3500,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "fotos/NP-126-preto.webp",
+    "image": "NP-126-preto.webp",
     "collection": "letras",
     "supplierPromoCents": 2130,
     "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
@@ -1083,7 +1083,7 @@ const PRODUCTS = [
     "priceCents": 3500,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "fotos/NP-127-preto.webp",
+    "image": "NP-127-preto.webp",
     "collection": "letras",
     "supplierPromoCents": 2130,
     "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
@@ -1095,7 +1095,7 @@ const PRODUCTS = [
     "priceCents": 3500,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "fotos/NP-128-preto.webp",
+    "image": "NP-128-preto.webp",
     "collection": "letras",
     "supplierPromoCents": 2130,
     "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
@@ -1107,7 +1107,7 @@ const PRODUCTS = [
     "priceCents": 3500,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "fotos/NP-129-preto.webp",
+    "image": "NP-129-preto.webp",
     "collection": "letras",
     "supplierPromoCents": 2130,
     "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
@@ -1119,7 +1119,7 @@ const PRODUCTS = [
     "priceCents": 3500,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "fotos/NP-130-preto.webp",
+    "image": "NP-130-preto.webp",
     "collection": "letras",
     "supplierPromoCents": 2130,
     "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
@@ -1131,7 +1131,7 @@ const PRODUCTS = [
     "priceCents": 3500,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "fotos/NP-131-preto.webp",
+    "image": "NP-131-preto.webp",
     "collection": "letras",
     "supplierPromoCents": 2130,
     "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
@@ -1143,7 +1143,7 @@ const PRODUCTS = [
     "priceCents": 3500,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "fotos/NP-132-preto.webp",
+    "image": "NP-132-preto.webp",
     "collection": "letras",
     "supplierPromoCents": 2130,
     "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
@@ -1155,7 +1155,7 @@ const PRODUCTS = [
     "priceCents": 3500,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "fotos/NP-133-preto.webp",
+    "image": "NP-133-preto.webp",
     "collection": "letras",
     "supplierPromoCents": 2130,
     "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
@@ -1167,7 +1167,7 @@ const PRODUCTS = [
     "priceCents": 3500,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "fotos/NP-134-preto.webp",
+    "image": "NP-134-preto.webp",
     "collection": "letras",
     "supplierPromoCents": 2130,
     "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
@@ -1179,7 +1179,7 @@ const PRODUCTS = [
     "priceCents": 3500,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "fotos/NP-135-preto.webp",
+    "image": "NP-135-preto.webp",
     "collection": "letras",
     "supplierPromoCents": 2130,
     "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
@@ -1191,7 +1191,7 @@ const PRODUCTS = [
     "priceCents": 3500,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "fotos/NP-136-preto.webp",
+    "image": "NP-136-preto.webp",
     "collection": "letras",
     "supplierPromoCents": 2130,
     "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
@@ -1203,7 +1203,7 @@ const PRODUCTS = [
     "priceCents": 3500,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "fotos/NP-137-preto.webp",
+    "image": "NP-137-preto.webp",
     "collection": "letras",
     "supplierPromoCents": 2130,
     "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
@@ -1215,7 +1215,7 @@ const PRODUCTS = [
     "priceCents": 3500,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "fotos/NP-138-preto.webp",
+    "image": "NP-138-preto.webp",
     "collection": "letras",
     "supplierPromoCents": 2130,
     "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
@@ -1227,7 +1227,7 @@ const PRODUCTS = [
     "priceCents": 3500,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "fotos/NP-139-preto.webp",
+    "image": "NP-139-preto.webp",
     "collection": "letras",
     "supplierPromoCents": 2130,
     "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
@@ -1239,7 +1239,7 @@ const PRODUCTS = [
     "priceCents": 3500,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "fotos/NP-140-preto.webp",
+    "image": "NP-140-preto.webp",
     "collection": "letras",
     "supplierPromoCents": 2130,
     "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
@@ -1251,7 +1251,7 @@ const PRODUCTS = [
     "priceCents": 3500,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "fotos/NP-141-preto.webp",
+    "image": "NP-141-preto.webp",
     "collection": "letras",
     "supplierPromoCents": 2130,
     "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
@@ -1263,7 +1263,7 @@ const PRODUCTS = [
     "priceCents": 3500,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "fotos/NP-142-preto.webp",
+    "image": "NP-142-preto.webp",
     "collection": "letras",
     "supplierPromoCents": 2130,
     "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
@@ -1275,7 +1275,7 @@ const PRODUCTS = [
     "priceCents": 3500,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "fotos/NP-143-preto.webp",
+    "image": "NP-143-preto.webp",
     "collection": "letras",
     "supplierPromoCents": 2130,
     "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
@@ -1287,7 +1287,7 @@ const PRODUCTS = [
     "priceCents": 3500,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "fotos/NP-144-preto.webp",
+    "image": "NP-144-preto.webp",
     "collection": "letras",
     "supplierPromoCents": 2130,
     "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
@@ -1299,7 +1299,7 @@ const PRODUCTS = [
     "priceCents": 3500,
     "originalPriceCents": 2850,
     "category": "feminino",
-    "image": "fotos/NP-145-preto.webp",
+    "image": "NP-145-preto.webp",
     "collection": "letras",
     "supplierPromoCents": 2130,
     "sourceUrl": "https://atacadoklaf.upcatalogo.com.br/produto/pingente-letra-cravejada-media",
@@ -1314,7 +1314,7 @@ const PRODUCTS = [
     "supplierPromoCents": 1940,
     "priceCents": 3000,
     "id": "NP-146",
-    "image": "fotos/NP-146-preto.webp",
+    "image": "NP-146-preto.webp",
     "supplierName": "Pulseira Trevo Vermelho Liso Meio #MD",
     "originalImage": "fotos/NP-146.webp"
   },
@@ -1327,7 +1327,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2239,
     "priceCents": 3500,
     "id": "NP-147",
-    "image": "fotos/NP-147-preto.webp",
+    "image": "NP-147-preto.webp",
     "supplierName": "Pulseira Trevo Azul Royal Liso Meio #MD",
     "originalImage": "fotos/NP-147.webp"
   },
@@ -1340,7 +1340,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3880,
     "priceCents": 5990,
     "id": "NP-148",
-    "image": "fotos/NP-148-preto.webp",
+    "image": "NP-148-preto.webp",
     "supplierName": "Pulseira Trevo Verde Grande Lapidado Meio #MD",
     "originalImage": "fotos/NP-148.webp"
   },
@@ -1353,7 +1353,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2537,
     "priceCents": 4000,
     "id": "NP-149",
-    "image": "fotos/NP-149-preto.webp",
+    "image": "NP-149-preto.webp",
     "supplierName": "Pulseira Trevo Rosa Pequeno Lapidado Meio #MD",
     "originalImage": "fotos/NP-149.webp"
   },
@@ -1366,7 +1366,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2836,
     "priceCents": 4990,
     "id": "NP-150",
-    "image": "fotos/NP-150-preto.webp",
+    "image": "NP-150-preto.webp",
     "supplierName": "Pulseira Trevo Roxo Grande Meio #MD",
     "originalImage": "fotos/NP-150.webp"
   },
@@ -1379,7 +1379,7 @@ const PRODUCTS = [
     "supplierPromoCents": 5821,
     "priceCents": 8990,
     "id": "NP-151",
-    "image": "fotos/NP-151-preto.webp",
+    "image": "NP-151-preto.webp",
     "supplierName": "Pulseira 3 Trevo Roxo Grande Fio #MD",
     "originalImage": "fotos/NP-151.webp"
   },
@@ -1392,7 +1392,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3731,
     "priceCents": 5990,
     "id": "NP-152",
-    "image": "fotos/NP-152-preto.webp",
+    "image": "NP-152-preto.webp",
     "supplierName": "Pulseira 3 Trevo Rosa Lapidado Pequeno #MC",
     "originalImage": "fotos/NP-152.webp"
   },
@@ -1405,7 +1405,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3731,
     "priceCents": 5990,
     "id": "NP-153",
-    "image": "fotos/NP-153-preto.webp",
+    "image": "NP-153-preto.webp",
     "supplierName": "Pulseira 3 Trevo Verde Lapidado Pequeno #MC",
     "originalImage": "fotos/NP-153.webp"
   },
@@ -1418,7 +1418,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2537,
     "priceCents": 4000,
     "id": "NP-154",
-    "image": "fotos/NP-154-preto.webp",
+    "image": "NP-154-preto.webp",
     "supplierName": "Pulseira Trevo Verde Lapidado Pendente Meio #MC",
     "originalImage": "fotos/NP-154.webp"
   },
@@ -1431,7 +1431,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2388,
     "priceCents": 4000,
     "id": "NP-155",
-    "image": "fotos/NP-155-preto.webp",
+    "image": "NP-155-preto.webp",
     "supplierName": "Pulseira Trevo Branco Grande Pendente #MC",
     "originalImage": "fotos/NP-155.webp"
   },
@@ -1444,7 +1444,7 @@ const PRODUCTS = [
     "supplierPromoCents": 4020,
     "priceCents": 6990,
     "id": "NP-156",
-    "image": "fotos/NP-156-preto.webp",
+    "image": "NP-156-preto.webp",
     "supplierName": "Pulseira 3 Trevo Preto Liso Fio",
     "originalImage": "fotos/NP-156.webp"
   },
@@ -1457,7 +1457,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2239,
     "priceCents": 3500,
     "id": "NP-157",
-    "image": "fotos/NP-157-preto.webp",
+    "image": "NP-157-preto.webp",
     "supplierName": "Pulseira Trevo Preto Liso Pendente #MC",
     "originalImage": "fotos/NP-157.webp"
   },
@@ -1470,7 +1470,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3731,
     "priceCents": 5990,
     "id": "NP-158",
-    "image": "fotos/NP-158-preto.webp",
+    "image": "NP-158-preto.webp",
     "supplierName": "Pulseira 3 Trevo Rosa Liso #PU-04",
     "originalImage": "fotos/NP-158.webp"
   },
@@ -1483,7 +1483,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2239,
     "priceCents": 3500,
     "id": "NP-159",
-    "image": "fotos/NP-159-preto.webp",
+    "image": "NP-159-preto.webp",
     "supplierName": "Pulseira Trevo Rosa Liso #MC",
     "originalImage": "fotos/NP-159.webp"
   },
@@ -1496,7 +1496,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2537,
     "priceCents": 4000,
     "id": "NP-160",
-    "image": "fotos/NP-160-preto.webp",
+    "image": "NP-160-preto.webp",
     "supplierName": "Pulseira Trevo Transparente Pequeno #MC",
     "originalImage": "fotos/NP-160.webp"
   },
@@ -1509,7 +1509,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3880,
     "priceCents": 5990,
     "id": "NP-161",
-    "image": "fotos/NP-161-preto.webp",
+    "image": "NP-161-preto.webp",
     "supplierName": "Pulseira Trevo Preto Lapidado Grande #MC",
     "originalImage": "fotos/NP-161.webp"
   },
@@ -1522,7 +1522,7 @@ const PRODUCTS = [
     "supplierPromoCents": 5373,
     "priceCents": 8990,
     "id": "NP-162",
-    "image": "fotos/NP-162-preto.webp",
+    "image": "NP-162-preto.webp",
     "supplierName": "Gargantilha Trevo Pequeno Verde Lapidado Meio 4 Zirconia Fio 45cm #MD",
     "length": 45,
     "originalImage": "fotos/NP-162.webp"
@@ -1536,7 +1536,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3433,
     "priceCents": 5990,
     "id": "NP-163",
-    "image": "fotos/NP-163-preto.webp",
+    "image": "NP-163-preto.webp",
     "supplierName": "Gargantilha Trevo Azul Perola Meio 45cm #MD",
     "length": 45,
     "originalImage": "fotos/NP-163.webp"
@@ -1550,7 +1550,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3433,
     "priceCents": 5990,
     "id": "NP-164",
-    "image": "fotos/NP-164-preto.webp",
+    "image": "NP-164-preto.webp",
     "supplierName": "Gargantilha Trevo Azul Royal Liso Meio 45cm #MD",
     "length": 45,
     "originalImage": "fotos/NP-164.webp"
@@ -1564,7 +1564,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3433,
     "priceCents": 5990,
     "id": "NP-165",
-    "image": "fotos/NP-165-preto.webp",
+    "image": "NP-165-preto.webp",
     "supplierName": "Gargantilha Trevo Rosa Liso Meio 45cm #MD",
     "length": 45,
     "originalImage": "fotos/NP-165.webp"
@@ -1578,7 +1578,7 @@ const PRODUCTS = [
     "supplierPromoCents": 6865,
     "priceCents": 10990,
     "id": "NP-166",
-    "image": "fotos/NP-166-preto.webp",
+    "image": "NP-166-preto.webp",
     "supplierName": "Gargantilha 5 Trevo Rosa Liso 45cm #MD",
     "length": 45,
     "originalImage": "fotos/NP-166.webp"
@@ -1592,7 +1592,7 @@ const PRODUCTS = [
     "supplierPromoCents": 4179,
     "priceCents": 6990,
     "id": "NP-167",
-    "image": "fotos/NP-167-preto.webp",
+    "image": "NP-167-preto.webp",
     "supplierName": "Gargantilha Trevo Grande Roxo Meio 45cm #MD",
     "length": 45,
     "originalImage": "fotos/NP-167.webp"
@@ -1606,7 +1606,7 @@ const PRODUCTS = [
     "supplierPromoCents": 10000,
     "priceCents": 15990,
     "id": "NP-168",
-    "image": "fotos/NP-168-preto.webp",
+    "image": "NP-168-preto.webp",
     "supplierName": "Gargantilha 5 Trevo Grande Roxo 45cm #MD",
     "length": 45,
     "originalImage": "fotos/NP-168.webp"
@@ -1620,7 +1620,7 @@ const PRODUCTS = [
     "supplierPromoCents": 6716,
     "priceCents": 10990,
     "id": "NP-169",
-    "image": "fotos/NP-169-preto.webp",
+    "image": "NP-169-preto.webp",
     "supplierName": "Gargantilha 5 Trevo Preto Liso 45cm",
     "length": 45,
     "originalImage": "fotos/NP-169.webp"
@@ -1634,7 +1634,7 @@ const PRODUCTS = [
     "supplierPromoCents": 7462,
     "priceCents": 11990,
     "id": "NP-170",
-    "image": "fotos/NP-170-preto.webp",
+    "image": "NP-170-preto.webp",
     "supplierName": "Gargantilha 5 Trevo Branco 60cm #MC",
     "length": 60,
     "originalImage": "fotos/NP-170.webp"
@@ -1648,7 +1648,7 @@ const PRODUCTS = [
     "supplierPromoCents": 6418,
     "priceCents": 9990,
     "id": "NP-171",
-    "image": "fotos/NP-171-preto.webp",
+    "image": "NP-171-preto.webp",
     "supplierName": "Gargantilha 5 Trevo Azul Royal Resina 40cm",
     "length": 40,
     "originalImage": "fotos/NP-171.webp"
@@ -1662,7 +1662,7 @@ const PRODUCTS = [
     "supplierPromoCents": 6716,
     "priceCents": 10990,
     "id": "NP-172",
-    "image": "fotos/NP-172-preto.webp",
+    "image": "NP-172-preto.webp",
     "supplierName": "Gargantilha 5 Trevo Verde Liso 40cm #MC",
     "length": 40,
     "originalImage": "fotos/NP-172.webp"
@@ -1676,7 +1676,7 @@ const PRODUCTS = [
     "supplierPromoCents": 6716,
     "priceCents": 10990,
     "id": "NP-173",
-    "image": "fotos/NP-173-preto.webp",
+    "image": "NP-173-preto.webp",
     "supplierName": "Gargantilha 5 Trevos Branco 40cm #MC",
     "length": 40,
     "originalImage": "fotos/NP-173.webp"
@@ -1690,7 +1690,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3433,
     "priceCents": 5990,
     "id": "NP-174",
-    "image": "fotos/NP-174-preto.webp",
+    "image": "NP-174-preto.webp",
     "supplierName": "Gargantilha Trevo Branco Meio 45cm #MC",
     "length": 45,
     "originalImage": "fotos/NP-174.webp"
@@ -1704,7 +1704,7 @@ const PRODUCTS = [
     "supplierPromoCents": 4776,
     "priceCents": 7990,
     "id": "NP-175",
-    "image": "fotos/NP-175-preto.webp",
+    "image": "NP-175-preto.webp",
     "supplierName": "Gargantilha Trevo Rosa Lapidado Grande Pendente 45cm #MC",
     "length": 45,
     "originalImage": "fotos/NP-175.webp"
@@ -1718,7 +1718,7 @@ const PRODUCTS = [
     "supplierPromoCents": 4627,
     "priceCents": 7990,
     "id": "NP-176",
-    "image": "fotos/NP-176-preto.webp",
+    "image": "NP-176-preto.webp",
     "supplierName": "Gargantilha Trevo Preto Grande Lapidado Meio 45cm",
     "length": 45,
     "originalImage": "fotos/NP-176.webp"
@@ -1732,7 +1732,7 @@ const PRODUCTS = [
     "supplierPromoCents": 6327,
     "priceCents": 9990,
     "id": "NP-177",
-    "image": "fotos/NP-177-preto.webp",
+    "image": "NP-177-preto.webp",
     "supplierName": "Gargantilha 3 Borboletas Branca 45cm",
     "length": 45,
     "originalImage": "fotos/NP-177.webp"
@@ -1746,7 +1746,7 @@ const PRODUCTS = [
     "supplierPromoCents": 6716,
     "priceCents": 10990,
     "id": "NP-178",
-    "image": "fotos/NP-178-preto.webp",
+    "image": "NP-178-preto.webp",
     "supplierName": "Gargantilha Trevo Verde Pequeno com 4 Zirconias Fio 60cm #MC",
     "length": 60,
     "originalImage": "fotos/NP-178.webp"
@@ -1760,7 +1760,7 @@ const PRODUCTS = [
     "supplierPromoCents": 9253,
     "priceCents": 13990,
     "id": "NP-179",
-    "image": "fotos/NP-179-preto.webp",
+    "image": "NP-179-preto.webp",
     "supplierName": "Gargantilha 5 Trevo Rosa Liso Grande Fio 40cm",
     "length": 40,
     "originalImage": "fotos/NP-179.webp"
@@ -1774,7 +1774,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3731,
     "priceCents": 5990,
     "id": "NP-180",
-    "image": "fotos/NP-180-preto.webp",
+    "image": "NP-180-preto.webp",
     "supplierName": "Gargantilha Trevo Verde Lapidado Meio 45cm #MC",
     "length": 45,
     "originalImage": "fotos/NP-180.webp"
@@ -1788,7 +1788,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3731,
     "priceCents": 5990,
     "id": "NP-181",
-    "image": "fotos/NP-181-preto.webp",
+    "image": "NP-181-preto.webp",
     "supplierName": "Gargantilha Trevo Vermelho Liso 45cm #MC",
     "length": 45,
     "originalImage": "fotos/NP-181.webp"
@@ -1802,7 +1802,7 @@ const PRODUCTS = [
     "supplierPromoCents": 9701,
     "priceCents": 14990,
     "id": "NP-182",
-    "image": "fotos/NP-182-preto.webp",
+    "image": "NP-182-preto.webp",
     "supplierName": "Gargantilha 5 Trevo Azul Lapidado 60cm #MC",
     "length": 60,
     "originalImage": "fotos/NP-182.webp"
@@ -1816,7 +1816,7 @@ const PRODUCTS = [
     "supplierPromoCents": 4030,
     "priceCents": 6990,
     "id": "NP-183",
-    "image": "fotos/NP-183-preto.webp",
+    "image": "NP-183-preto.webp",
     "supplierName": "Gargantilha Trevo Azul 45cm #MC",
     "length": 45,
     "originalImage": "fotos/NP-183.webp"
@@ -1830,7 +1830,7 @@ const PRODUCTS = [
     "supplierPromoCents": 8656,
     "priceCents": 13990,
     "id": "NP-184",
-    "image": "fotos/NP-184-preto.webp",
+    "image": "NP-184-preto.webp",
     "supplierName": "Gargantilha 5 Trevo Azul Lapidado 40cm #MC",
     "length": 40,
     "originalImage": "fotos/NP-184.webp"
@@ -1844,7 +1844,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3283,
     "priceCents": 5990,
     "id": "NP-185",
-    "image": "fotos/NP-185-preto.webp",
+    "image": "NP-185-preto.webp",
     "supplierName": "Pulseira 4 Zirconia Baguete Grande Meio #PU-45",
     "originalImage": "fotos/NP-185.webp"
   },
@@ -1857,7 +1857,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2836,
     "priceCents": 4990,
     "id": "NP-186",
-    "image": "fotos/NP-186-preto.webp",
+    "image": "NP-186-preto.webp",
     "supplierName": "Pulseira 4 Borboleta Zirconia Color fio RVVA #PU-33",
     "originalImage": "fotos/NP-186.webp"
   },
@@ -1870,7 +1870,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2686,
     "priceCents": 4990,
     "id": "NP-187",
-    "image": "fotos/NP-187-preto.webp",
+    "image": "NP-187-preto.webp",
     "supplierName": "Pulseira 3 Borboleta Zirconia Verde Fio #PU-32",
     "originalImage": "fotos/NP-187.webp"
   },
@@ -1883,7 +1883,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3134,
     "priceCents": 4990,
     "id": "NP-188",
-    "image": "fotos/NP-188-preto.webp",
+    "image": "NP-188-preto.webp",
     "supplierName": "Pulseira 6 Zirconias Gota Color Meio AMVARA #PU-31",
     "originalImage": "fotos/NP-188.webp"
   },
@@ -1896,7 +1896,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3283,
     "priceCents": 5990,
     "id": "NP-189",
-    "image": "fotos/NP-189-preto.webp",
+    "image": "NP-189-preto.webp",
     "supplierName": "Pulseira 7 Zirconia Color Pequena Pendente Fio ALVBRAP #PU-36",
     "originalImage": "fotos/NP-189.webp"
   },
@@ -1909,7 +1909,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3880,
     "priceCents": 5990,
     "id": "NP-190",
-    "image": "fotos/NP-190-preto.webp",
+    "image": "NP-190-preto.webp",
     "supplierName": "Pulseira 4 Zirconia Coração Color Fio VVRA #PU-14",
     "originalImage": "fotos/NP-190.webp"
   },
@@ -1922,7 +1922,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2836,
     "priceCents": 4990,
     "id": "NP-191",
-    "image": "fotos/NP-191-preto.webp",
+    "image": "NP-191-preto.webp",
     "supplierName": "Pulseira 6 Zirconia Coração Verde Mosaico Meio #PU-17",
     "originalImage": "fotos/NP-191.webp"
   },
@@ -1935,7 +1935,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2985,
     "priceCents": 4990,
     "id": "NP-192",
-    "image": "fotos/NP-192-preto.webp",
+    "image": "NP-192-preto.webp",
     "supplierName": "Pulseira 8 Zirconia Azul Claro Fio #MD1",
     "originalImage": "fotos/NP-192.webp"
   },
@@ -1948,7 +1948,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2985,
     "priceCents": 4990,
     "id": "NP-193",
-    "image": "fotos/NP-193-preto.webp",
+    "image": "NP-193-preto.webp",
     "supplierName": "Pulseira 8 Zirconia Rosa Clara Pequena Fio #MD1",
     "originalImage": "fotos/NP-193.webp"
   },
@@ -1961,7 +1961,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3283,
     "priceCents": 5990,
     "id": "NP-194",
-    "image": "fotos/NP-194-preto.webp",
+    "image": "NP-194-preto.webp",
     "supplierName": "Pulseira 5 Zirconia Rosa Clara Lisa Fio #MD1",
     "originalImage": "fotos/NP-194.webp"
   },
@@ -1974,7 +1974,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2836,
     "priceCents": 4990,
     "id": "NP-195",
-    "image": "fotos/NP-195-preto.webp",
+    "image": "NP-195-preto.webp",
     "supplierName": "Pulseira 6 Zirconia Coração Vermelho Mosaico Meio #PU-19",
     "originalImage": "fotos/NP-195.webp"
   },
@@ -1987,7 +1987,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2686,
     "priceCents": 4990,
     "id": "NP-196",
-    "image": "fotos/NP-196-preto.webp",
+    "image": "NP-196-preto.webp",
     "supplierName": "Pulseira 8 Zirconia Coração Pequeno Laranja Meio #PU-15",
     "originalImage": "fotos/NP-196.webp"
   },
@@ -2000,7 +2000,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2537,
     "priceCents": 4000,
     "id": "NP-197",
-    "image": "fotos/NP-197-preto.webp",
+    "image": "NP-197-preto.webp",
     "supplierName": "Pulseira 5 Zirconias Navete Pequenas Meio #MD1",
     "originalImage": "fotos/NP-197.webp"
   },
@@ -2013,7 +2013,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3283,
     "priceCents": 5990,
     "id": "NP-198",
-    "image": "fotos/NP-198-preto.webp",
+    "image": "NP-198-preto.webp",
     "supplierName": "Pulseira 5 Zircônias Navete Meio #PU-46",
     "originalImage": "fotos/NP-198.webp"
   },
@@ -2026,7 +2026,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2985,
     "priceCents": 4990,
     "id": "NP-199",
-    "image": "fotos/NP-199-preto.webp",
+    "image": "NP-199-preto.webp",
     "supplierName": "Pulseira 2 Zircônias 3 Moedas Vazadas Meio #PU-58",
     "originalImage": "fotos/NP-199.webp"
   },
@@ -2039,7 +2039,7 @@ const PRODUCTS = [
     "supplierPromoCents": 5224,
     "priceCents": 7990,
     "id": "NP-200",
-    "image": "fotos/NP-200-preto.webp",
+    "image": "NP-200-preto.webp",
     "supplierName": "Pulseira 2 Zircônias Coração Love Meio #PU-92",
     "originalImage": "fotos/NP-200.webp"
   },
@@ -2052,7 +2052,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2985,
     "priceCents": 4990,
     "id": "NP-201",
-    "image": "fotos/NP-201-preto.webp",
+    "image": "NP-201-preto.webp",
     "supplierName": "Pulseira 2 Zircônias Circulo Tubinho Grande Meio #PU-55",
     "originalImage": "fotos/NP-201.webp"
   },
@@ -2065,7 +2065,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3134,
     "priceCents": 4990,
     "id": "NP-202",
-    "image": "fotos/NP-202-preto.webp",
+    "image": "NP-202-preto.webp",
     "supplierName": "Pulseira 4 Zircônias Navete Fio #PU-47",
     "originalImage": "fotos/NP-202.webp"
   },
@@ -2078,7 +2078,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2985,
     "priceCents": 4990,
     "id": "NP-203",
-    "image": "fotos/NP-203-preto.webp",
+    "image": "NP-203-preto.webp",
     "supplierName": "Pulseira 2 Zirconias Pendente Fio 1 Rabo de Sereia Pendente Meio #PU-82",
     "originalImage": "fotos/NP-203.webp"
   },
@@ -2091,7 +2091,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2988,
     "priceCents": 4990,
     "id": "NP-204",
-    "image": "fotos/NP-204-preto.webp",
+    "image": "NP-204-preto.webp",
     "supplierName": "Pulseira 6 Zirconias Coração Meio Lapidado Mosaico",
     "originalImage": "fotos/NP-204.webp"
   },
@@ -2104,7 +2104,7 @@ const PRODUCTS = [
     "supplierPromoCents": 4030,
     "priceCents": 6990,
     "id": "NP-205",
-    "image": "fotos/NP-205-preto.webp",
+    "image": "NP-205-preto.webp",
     "supplierName": "Pulseira 7 Zircônias Coração Fio Lapidado Mosaico #MD",
     "originalImage": "fotos/NP-205.webp"
   },
@@ -2117,7 +2117,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2985,
     "priceCents": 4990,
     "id": "NP-206",
-    "image": "fotos/NP-206-preto.webp",
+    "image": "NP-206-preto.webp",
     "supplierName": "Pulseira 5 Zircônias Baguete Meio Pequena #PU-44",
     "originalImage": "fotos/NP-206.webp"
   },
@@ -2130,7 +2130,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3283,
     "priceCents": 5990,
     "id": "NP-207",
-    "image": "fotos/NP-207-preto.webp",
+    "image": "NP-207-preto.webp",
     "supplierName": "Pulseira 6 Zirconia Coração Tubinho Meio #PU-56",
     "originalImage": "fotos/NP-207.webp"
   },
@@ -2143,7 +2143,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2686,
     "priceCents": 4990,
     "id": "NP-208",
-    "image": "fotos/NP-208-preto.webp",
+    "image": "NP-208-preto.webp",
     "supplierName": "Pulseira 5 Zircônias Estrela Meio #PU-49",
     "originalImage": "fotos/NP-208.webp"
   },
@@ -2156,7 +2156,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2686,
     "priceCents": 4990,
     "id": "NP-209",
-    "image": "fotos/NP-209-preto.webp",
+    "image": "NP-209-preto.webp",
     "supplierName": "Pulseira 4 Zircônias Estrela Color Fio #PU-12",
     "originalImage": "fotos/NP-209.webp"
   },
@@ -2169,7 +2169,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2686,
     "priceCents": 4990,
     "id": "NP-210",
-    "image": "fotos/NP-210-preto.webp",
+    "image": "NP-210-preto.webp",
     "supplierName": "Pulseira 4 Zircônias Color Fio - RVAR #PU-11",
     "originalImage": "fotos/NP-210.webp"
   },
@@ -2182,7 +2182,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2388,
     "priceCents": 4000,
     "id": "NP-211",
-    "image": "fotos/NP-211-preto.webp",
+    "image": "NP-211-preto.webp",
     "supplierName": "Pulseira 4 Zircônia Gota Pequena Color Fio #PU-13",
     "originalImage": "fotos/NP-211.webp"
   },
@@ -2195,7 +2195,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2985,
     "priceCents": 4990,
     "id": "NP-212",
-    "image": "fotos/NP-212-preto.webp",
+    "image": "NP-212-preto.webp",
     "supplierName": "Pulseira 5 Zircônias Navete Cinza Meio #MD",
     "originalImage": "fotos/NP-212.webp"
   },
@@ -2208,7 +2208,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2388,
     "priceCents": 4000,
     "id": "NP-213",
-    "image": "fotos/NP-213-preto.webp",
+    "image": "NP-213-preto.webp",
     "supplierName": "Pulseira 5 Zirconias Coração Pequeno Color #PU-41",
     "originalImage": "fotos/NP-213.webp"
   },
@@ -2221,7 +2221,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2537,
     "priceCents": 4000,
     "id": "NP-214",
-    "image": "fotos/NP-214-preto.webp",
+    "image": "NP-214-preto.webp",
     "supplierName": "Pulseira 5 Zircônias Borboleta Rosa Meio #PU-27",
     "originalImage": "fotos/NP-214.webp"
   },
@@ -2234,7 +2234,7 @@ const PRODUCTS = [
     "supplierPromoCents": 4030,
     "priceCents": 6990,
     "id": "NP-215",
-    "image": "fotos/NP-215-preto.webp",
+    "image": "NP-215-preto.webp",
     "supplierName": "Pulseira 7 Zircônias Coração Azul Tiffani Fio #MD",
     "originalImage": "fotos/NP-215.webp"
   },
@@ -2247,7 +2247,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2686,
     "priceCents": 4990,
     "id": "NP-216",
-    "image": "fotos/NP-216-preto.webp",
+    "image": "NP-216-preto.webp",
     "supplierName": "Pulseira 5 Zircônias Borboleta Verde Meio",
     "originalImage": "fotos/NP-216.webp"
   },
@@ -2260,7 +2260,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2836,
     "priceCents": 4990,
     "id": "NP-217",
-    "image": "fotos/NP-217-preto.webp",
+    "image": "NP-217-preto.webp",
     "supplierName": "Pulseira 5 Zircônias Borboleta Vermelha Meio #PU-28",
     "originalImage": "fotos/NP-217.webp"
   },
@@ -2273,7 +2273,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3880,
     "priceCents": 5990,
     "id": "NP-218",
-    "image": "fotos/NP-218-preto.webp",
+    "image": "NP-218-preto.webp",
     "supplierName": "Pulseira 7 Zircônia Coração Vermelho Fio #MD",
     "originalImage": "fotos/NP-218.webp"
   },
@@ -2286,7 +2286,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2537,
     "priceCents": 4000,
     "id": "NP-219",
-    "image": "fotos/NP-219-preto.webp",
+    "image": "NP-219-preto.webp",
     "supplierName": "Pulseira 5 Zirconias Coração Color Meio RVRVA #PU-03",
     "originalImage": "fotos/NP-219.webp"
   },
@@ -2299,7 +2299,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2686,
     "priceCents": 4990,
     "id": "NP-220",
-    "image": "fotos/NP-220-preto.webp",
+    "image": "NP-220-preto.webp",
     "supplierName": "Pulseira 4 Zircônias Baguete Color  Pequena LVRA #PU-10",
     "originalImage": "fotos/NP-220.webp"
   },
@@ -2312,7 +2312,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2537,
     "priceCents": 4000,
     "id": "NP-221",
-    "image": "fotos/NP-221-preto.webp",
+    "image": "NP-221-preto.webp",
     "supplierName": "Pulseira Zirconia Verde Pendente Meio #PU-05",
     "originalImage": "fotos/NP-221.webp"
   },
@@ -2325,7 +2325,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3859,
     "priceCents": 5990,
     "id": "NP-222",
-    "image": "fotos/NP-222-preto.webp",
+    "image": "NP-222-preto.webp",
     "supplierName": "Pulseira 4 Zirconias Azul Claro Resina Fio #PU-147",
     "originalImage": "fotos/NP-222.webp"
   },
@@ -2338,7 +2338,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3880,
     "priceCents": 5990,
     "id": "NP-223",
-    "image": "fotos/NP-223-preto.webp",
+    "image": "NP-223-preto.webp",
     "supplierName": "Pulseira 4 Zircônias Coração Color  VRRV",
     "originalImage": "fotos/NP-223.webp"
   },
@@ -2351,7 +2351,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3112,
     "priceCents": 4990,
     "id": "NP-224",
-    "image": "fotos/NP-224-preto.webp",
+    "image": "NP-224-preto.webp",
     "supplierName": "Pulseira 4 Zircônias Vermelha Resina Fio",
     "originalImage": "fotos/NP-224.webp"
   },
@@ -2364,7 +2364,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3731,
     "priceCents": 5990,
     "id": "NP-225",
-    "image": "fotos/NP-225-preto.webp",
+    "image": "NP-225-preto.webp",
     "supplierName": "Pulseira 4 Zircônias Azul Lapidado Mosaico Fio #PU-98",
     "originalImage": "fotos/NP-225.webp"
   },
@@ -2377,7 +2377,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2836,
     "priceCents": 4990,
     "id": "NP-226",
-    "image": "fotos/NP-226-preto.webp",
+    "image": "NP-226-preto.webp",
     "supplierName": "Pulseira 6 Zircônias Rosa Claro Fio",
     "originalImage": "fotos/NP-226.webp"
   },
@@ -2390,7 +2390,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2836,
     "priceCents": 4990,
     "id": "NP-227",
-    "image": "fotos/NP-227-preto.webp",
+    "image": "NP-227-preto.webp",
     "supplierName": "Pulseira 5 Zircônias Borboletas Color VVARA #PU-30",
     "originalImage": "fotos/NP-227.webp"
   },
@@ -2403,7 +2403,7 @@ const PRODUCTS = [
     "supplierPromoCents": 4776,
     "priceCents": 7990,
     "id": "NP-228",
-    "image": "fotos/NP-228-preto.webp",
+    "image": "NP-228-preto.webp",
     "supplierName": "Pulseira 5 Zirconias Branca Leitosa Fio 4 Luas Pendentes #PU-88",
     "originalImage": "fotos/NP-228.webp"
   },
@@ -2416,7 +2416,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2490,
     "priceCents": 4000,
     "id": "NP-229",
-    "image": "fotos/NP-229-preto.webp",
+    "image": "NP-229-preto.webp",
     "supplierName": "Pulseira 5 Zirconias Estrelas Color Pendente #PU-40",
     "originalImage": "fotos/NP-229.webp"
   },
@@ -2429,7 +2429,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2388,
     "priceCents": 4000,
     "id": "NP-230",
-    "image": "fotos/NP-230-preto.webp",
+    "image": "NP-230-preto.webp",
     "supplierName": "Pulseira 5 Zirconias Gota Color Pendente VVARA #PU-39",
     "originalImage": "fotos/NP-230.webp"
   },
@@ -2442,7 +2442,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3134,
     "priceCents": 4990,
     "id": "NP-231",
-    "image": "fotos/NP-231-preto.webp",
+    "image": "NP-231-preto.webp",
     "supplierName": "Pulseira 6 Zirconias Verde Claro Coração Meio #MD",
     "originalImage": "fotos/NP-231.webp"
   },
@@ -2455,7 +2455,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3134,
     "priceCents": 4990,
     "id": "NP-232",
-    "image": "fotos/NP-232-preto.webp",
+    "image": "NP-232-preto.webp",
     "supplierName": "Pulseira 6 Zirconias Pink Infinito Meio #PU-24",
     "originalImage": "fotos/NP-232.webp"
   },
@@ -2468,7 +2468,7 @@ const PRODUCTS = [
     "supplierPromoCents": 5224,
     "priceCents": 7990,
     "id": "NP-233",
-    "image": "fotos/NP-233-preto.webp",
+    "image": "NP-233-preto.webp",
     "supplierName": "Pulseira Zirconias Terço #PU-65",
     "originalImage": "fotos/NP-233.webp"
   },
@@ -2481,7 +2481,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3283,
     "priceCents": 5990,
     "id": "NP-234",
-    "image": "fotos/NP-234-preto.webp",
+    "image": "NP-234-preto.webp",
     "supplierName": "Pulseira 5 Zirconias Color Pendente Fio 6mm ARVPR #PU-35",
     "originalImage": "fotos/NP-234.webp"
   },
@@ -2494,7 +2494,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2985,
     "priceCents": 4990,
     "id": "NP-235",
-    "image": "fotos/NP-235-preto.webp",
+    "image": "NP-235-preto.webp",
     "supplierName": "Pulseira 2 Zirconias 3 Coração Vazado Intercalados Meio #PU-57",
     "originalImage": "fotos/NP-235.webp"
   },
@@ -2507,7 +2507,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2686,
     "priceCents": 4990,
     "id": "NP-236",
-    "image": "fotos/NP-236-preto.webp",
+    "image": "NP-236-preto.webp",
     "supplierName": "Pulseira 3 Zirconias Borboletas Verde Fio",
     "originalImage": "fotos/NP-236.webp"
   },
@@ -2520,7 +2520,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2836,
     "priceCents": 4990,
     "id": "NP-237",
-    "image": "fotos/NP-237-preto.webp",
+    "image": "NP-237-preto.webp",
     "supplierName": "Pulseira 4 Zirconias Menina Meio #PU-62",
     "originalImage": "fotos/NP-237.webp"
   },
@@ -2533,7 +2533,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3283,
     "priceCents": 5990,
     "id": "NP-238",
-    "image": "fotos/NP-238-preto.webp",
+    "image": "NP-238-preto.webp",
     "supplierName": "Pulseira 4 Zirconia Baguetes Media Fio #PU-43",
     "originalImage": "fotos/NP-238.webp"
   },
@@ -2546,7 +2546,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2537,
     "priceCents": 4000,
     "id": "NP-239",
-    "image": "fotos/NP-239-preto.webp",
+    "image": "NP-239-preto.webp",
     "supplierName": "Pulseira Zirconia Azul Clara Pendente Meio 2 Moedas Pendente Fio #PU-07",
     "originalImage": "fotos/NP-239.webp"
   },
@@ -2559,7 +2559,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2686,
     "priceCents": 4990,
     "id": "NP-240",
-    "image": "fotos/NP-240-preto.webp",
+    "image": "NP-240-preto.webp",
     "supplierName": "Pulseira Zirconia Olho Azul Escuro Meio 2 Bolas Fio #PU-08",
     "originalImage": "fotos/NP-240.webp"
   },
@@ -2572,7 +2572,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3584,
     "priceCents": 5990,
     "id": "NP-241",
-    "image": "fotos/NP-241-preto.webp",
+    "image": "NP-241-preto.webp",
     "supplierName": "Pulseira 9 Zirconia Pendente Color 5mm",
     "originalImage": "fotos/NP-241.webp"
   },
@@ -2585,7 +2585,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2985,
     "priceCents": 4990,
     "id": "NP-242",
-    "image": "fotos/NP-242-preto.webp",
+    "image": "NP-242-preto.webp",
     "supplierName": "Pulseira 5 Zirconia Pendente 5mm #PU-60",
     "originalImage": "fotos/NP-242.webp"
   },
@@ -2598,7 +2598,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2985,
     "priceCents": 4990,
     "id": "NP-243",
-    "image": "fotos/NP-243-preto.webp",
+    "image": "NP-243-preto.webp",
     "supplierName": "Pulseira 6 Zirconia Vermelha Infinito Meio #PU-25",
     "originalImage": "fotos/NP-243.webp"
   },
@@ -2611,7 +2611,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2985,
     "priceCents": 4990,
     "id": "NP-244",
-    "image": "fotos/NP-244-preto.webp",
+    "image": "NP-244-preto.webp",
     "supplierName": "Pulseira 6 Zirconia Azul Claro Infinito Meio #PU-22",
     "originalImage": "fotos/NP-244.webp"
   },
@@ -2624,7 +2624,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3134,
     "priceCents": 4990,
     "id": "NP-245",
-    "image": "fotos/NP-245-preto.webp",
+    "image": "NP-245-preto.webp",
     "supplierName": "Pulseira 6 Zirconia Verde Claro Infinito Meio #PU-21",
     "originalImage": "fotos/NP-245.webp"
   },
@@ -2637,7 +2637,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3433,
     "priceCents": 5990,
     "id": "NP-246",
-    "image": "fotos/NP-246-preto.webp",
+    "image": "NP-246-preto.webp",
     "supplierName": "Pulseira 4 Zirconias Coração Meio #MD",
     "originalImage": "fotos/NP-246.webp"
   },
@@ -2650,7 +2650,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2836,
     "priceCents": 4990,
     "id": "NP-247",
-    "image": "fotos/NP-247-preto.webp",
+    "image": "NP-247-preto.webp",
     "supplierName": "Pulseira 4 Zirconias Fio #PU-61",
     "originalImage": "fotos/NP-247.webp"
   },
@@ -2663,7 +2663,7 @@ const PRODUCTS = [
     "supplierPromoCents": 4030,
     "priceCents": 6990,
     "id": "NP-248",
-    "image": "fotos/NP-248-preto.webp",
+    "image": "NP-248-preto.webp",
     "supplierName": "Pulseira 9 Zirconias Pendentes Fio #MD",
     "originalImage": "fotos/NP-248.webp"
   },
@@ -2676,7 +2676,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2537,
     "priceCents": 4000,
     "id": "NP-249",
-    "image": "fotos/NP-249-preto.webp",
+    "image": "NP-249-preto.webp",
     "supplierName": "Pulseira 5 Zirconias Color Pendentes Fio 5mm VAVRA #PU-34",
     "originalImage": "fotos/NP-249.webp"
   },
@@ -2689,7 +2689,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3880,
     "priceCents": 5990,
     "id": "NP-250",
-    "image": "fotos/NP-250-preto.webp",
+    "image": "NP-250-preto.webp",
     "supplierName": "Pulseira 4 Zirconias Baguete Oval Meio",
     "originalImage": "fotos/NP-250.webp"
   },
@@ -2702,7 +2702,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3880,
     "priceCents": 5990,
     "id": "NP-251",
-    "image": "fotos/NP-251-preto.webp",
+    "image": "NP-251-preto.webp",
     "supplierName": "Pulseira 4 Zirconias Coração Fio #PU-52",
     "originalImage": "fotos/NP-251.webp"
   },
@@ -2715,7 +2715,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2836,
     "priceCents": 4990,
     "id": "NP-252",
-    "image": "fotos/NP-252-preto.webp",
+    "image": "NP-252-preto.webp",
     "supplierName": "Pulseira Zirconia Gota Vermelha Pendente Circulo Vazado Meio #PU-02",
     "originalImage": "fotos/NP-252.webp"
   },
@@ -2728,7 +2728,7 @@ const PRODUCTS = [
     "supplierPromoCents": 2239,
     "priceCents": 3500,
     "id": "NP-253",
-    "image": "fotos/NP-253-preto.webp",
+    "image": "NP-253-preto.webp",
     "supplierName": "Pulseira Zirconia Lilas Pendente Meio #PU-06",
     "originalImage": "fotos/NP-253.webp"
   },
@@ -2741,7 +2741,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3430,
     "priceCents": 5990,
     "id": "NP-254",
-    "image": "fotos/NP-254-preto.webp",
+    "image": "NP-254-preto.webp",
     "supplierName": "Pulseira 3 Borboleta Resina Preta Fio #PU-91",
     "originalImage": "fotos/NP-254.webp"
   },
@@ -2754,7 +2754,7 @@ const PRODUCTS = [
     "supplierPromoCents": 4030,
     "priceCents": 6990,
     "id": "NP-255",
-    "image": "fotos/NP-255-preto.webp",
+    "image": "NP-255-preto.webp",
     "supplierName": "Pulseira Perola Meio de 26 Bolinhas de 3mm #PU-86",
     "originalImage": "fotos/NP-255.webp"
   },
@@ -2767,7 +2767,7 @@ const PRODUCTS = [
     "supplierPromoCents": 3433,
     "priceCents": 5990,
     "id": "NP-256",
-    "image": "fotos/NP-256-preto.webp",
+    "image": "NP-256-preto.webp",
     "supplierName": "Pulseira 4 Perola Fio 8mm #PU-85",
     "originalImage": "fotos/NP-256.webp"
   },
@@ -2780,7 +2780,7 @@ const PRODUCTS = [
     "supplierPromoCents": 4776,
     "priceCents": 7990,
     "id": "NP-257",
-    "image": "fotos/NP-257-preto.webp",
+    "image": "NP-257-preto.webp",
     "supplierName": "Pulseira 4 Margaridas Resina Fio #PU-90",
     "originalImage": "fotos/NP-257.webp"
   }
