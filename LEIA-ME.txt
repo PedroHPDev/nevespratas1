@@ -6,3 +6,7 @@ A nova versão adiciona vídeo no destaque principal, uma faixa de novidades em 
 
 As fotos antigas do catálogo não estão incluídas neste pacote porque já foram enviadas separadamente.
 
+
+
+ATUALIZAÇÃO 07/11/2026
+Os preços foram reajustados em 50% sobre os valores anteriores. Valores quebrados foram ajustados para a faixa seguinte terminada em ,90.
